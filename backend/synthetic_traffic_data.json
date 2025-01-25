@@ -1,0 +1,16 @@
+[
+  {
+    "vehicle_count": 80,
+    "average_speed": 40.092031807975836,
+    "congestion_level": 0.41049262222650346,
+    "time_of_day": 13,
+    "timestamp": "2025-01-24T22:02:44.424086"
+  },
+  {
+    "vehicle_count": 102,
+    "average_speed": 47.74637626065384,
+    "congestion_level": 0.3297005642919547,
+    "time_of_day": 14,
+    "timestamp": "2025-01-24T22:02:44.423961"
+  }
+]

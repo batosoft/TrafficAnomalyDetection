@@ -1,0 +1,7002 @@
+[
+  {
+    "vehicle_count": 55,
+    "average_speed": 43.79662481109893,
+    "congestion_level": 0.5724577007728933,
+    "time_of_day": 23,
+    "timestamp": "2025-01-25T22:21:36.943817"
+  },
+  {
+    "vehicle_count": 38,
+    "average_speed": 108.80331943937605,
+    "congestion_level": 0.2368182641033627,
+    "time_of_day": 9,
+    "timestamp": "2025-01-25T22:21:37.973920"
+  },
+  {
+    "vehicle_count": 72,
+    "average_speed": 66.15704095893103,
+    "congestion_level": 0.6545018239926956,
+    "time_of_day": 12,
+    "timestamp": "2025-01-25T22:21:39.001818"
+  },
+  {
+    "vehicle_count": 222,
+    "average_speed": 23.411053980319053,
+    "congestion_level": 0.8668779539259543,
+    "time_of_day": 19,
+    "timestamp": "2025-01-25T22:21:40.039634"
+  },
+  {
+    "vehicle_count": 95,
+    "average_speed": 41.30738865256229,
+    "congestion_level": 0.3439926240563343,
+    "time_of_day": 12,
+    "timestamp": "2025-01-25T22:21:41.053345"
+  },
+  {
+    "vehicle_count": 132,
+    "average_speed": 14.389090720288488,
+    "congestion_level": 0.9309165195215846,
+    "time_of_day": 8,
+    "timestamp": "2025-01-25T22:21:42.066902"
+  },
+  {
+    "vehicle_count": 43,
+    "average_speed": 112.88257024892935,
+    "congestion_level": 0.2636046638358298,
+    "time_of_day": 8,
+    "timestamp": "2025-01-25T22:21:43.079171"
+  },
+  {
+    "vehicle_count": 81,
+    "average_speed": 67.40098032574265,
+    "congestion_level": 0.43313567611812936,
+    "time_of_day": 1,
+    "timestamp": "2025-01-25T22:21:44.093188"
+  },
+  {
+    "vehicle_count": 126,
+    "average_speed": 61.354268193765876,
+    "congestion_level": 0.5410806781215908,
+    "time_of_day": 22,
+    "timestamp": "2025-01-25T22:21:45.111136"
+  },
+  {
+    "vehicle_count": 122,
+    "average_speed": 50.7290378778671,
+    "congestion_level": 0.49192497712909466,
+    "time_of_day": 6,
+    "timestamp": "2025-01-25T22:21:46.125601"
+  },
+  {
+    "vehicle_count": 142,
+    "average_speed": 45.33245050122556,
+    "congestion_level": 0.38114710703130333,
+    "time_of_day": 19,
+    "timestamp": "2025-01-25T22:21:47.153709"
+  },
+  {
+    "vehicle_count": 37,
+    "average_speed": 108.05753139241432,
+    "congestion_level": 0.21083008362652508,
+    "time_of_day": 0,
+    "timestamp": "2025-01-25T22:21:48.176171"
+  },
+  {
+    "vehicle_count": 52,
+    "average_speed": 54.37000779116721,
+    "congestion_level": 0.6713657507784421,
+    "time_of_day": 23,
+    "timestamp": "2025-01-25T22:21:49.196279"
+  },
+  {
+    "vehicle_count": 127,
+    "average_speed": 62.05472082272071,
+    "congestion_level": 0.637702796724403,
+    "time_of_day": 20,
+    "timestamp": "2025-01-25T22:21:50.226071"
+  },
+  {
+    "vehicle_count": 144,
+    "average_speed": 66.16505584008158,
+    "congestion_level": 0.556284804675616,
+    "time_of_day": 3,
+    "timestamp": "2025-01-25T22:21:51.238942"
+  },
+  {
+    "vehicle_count": 100,
+    "average_speed": 58.360884795247415,
+    "congestion_level": 0.5074010852989931,
+    "time_of_day": 4,
+    "timestamp": "2025-01-25T22:21:52.252192"
+  },
+  {
+    "vehicle_count": 148,
+    "average_speed": 54.44185389033805,
+    "congestion_level": 0.5718636794126455,
+    "time_of_day": 22,
+    "timestamp": "2025-01-25T22:21:53.266281"
+  },
+  {
+    "vehicle_count": 126,
+    "average_speed": 55.11786528054224,
+    "congestion_level": 0.36452472951839,
+    "time_of_day": 23,
+    "timestamp": "2025-01-25T22:21:54.280732"
+  },
+  {
+    "vehicle_count": 105,
+    "average_speed": 63.8395945776921,
+    "congestion_level": 0.5311146214820835,
+    "time_of_day": 2,
+    "timestamp": "2025-01-25T22:21:55.300777"
+  },
+  {
+    "vehicle_count": 147,
+    "average_speed": 62.26014067831818,
+    "congestion_level": 0.4097084727334355,
+    "time_of_day": 3,
+    "timestamp": "2025-01-25T22:21:56.314144"
+  },
+  {
+    "vehicle_count": 54,
+    "average_speed": 48.250721463377076,
+    "congestion_level": 0.46657243686568,
+    "time_of_day": 19,
+    "timestamp": "2025-01-25T22:21:57.326890"
+  },
+  {
+    "vehicle_count": 74,
+    "average_speed": 67.09985528187491,
+    "congestion_level": 0.4336386843635113,
+    "time_of_day": 22,
+    "timestamp": "2025-01-25T22:21:58.357205"
+  },
+  {
+    "vehicle_count": 99,
+    "average_speed": 60.124481488580074,
+    "congestion_level": 0.34148547743309804,
+    "time_of_day": 13,
+    "timestamp": "2025-01-25T22:21:59.381412"
+  },
+  {
+    "vehicle_count": 58,
+    "average_speed": 45.598083931153845,
+    "congestion_level": 0.330278929097533,
+    "time_of_day": 12,
+    "timestamp": "2025-01-25T22:22:00.419062"
+  },
+  {
+    "vehicle_count": 195,
+    "average_speed": 20.44141259976401,
+    "congestion_level": 0.7079484101589588,
+    "time_of_day": 11,
+    "timestamp": "2025-01-25T22:22:01.446046"
+  },
+  {
+    "vehicle_count": 144,
+    "average_speed": 59.76335200646932,
+    "congestion_level": 0.6850199199970967,
+    "time_of_day": 17,
+    "timestamp": "2025-01-25T22:22:02.459570"
+  },
+  {
+    "vehicle_count": 108,
+    "average_speed": 58.81325498436871,
+    "congestion_level": 0.5993129954258373,
+    "time_of_day": 20,
+    "timestamp": "2025-01-25T22:22:03.473493"
+  },
+  {
+    "vehicle_count": 133,
+    "average_speed": 47.20651014624343,
+    "congestion_level": 0.5433303575201194,
+    "time_of_day": 19,
+    "timestamp": "2025-01-25T22:22:04.487445"
+  },
+  {
+    "vehicle_count": 97,
+    "average_speed": 67.40664288358352,
+    "congestion_level": 0.608898887444254,
+    "time_of_day": 17,
+    "timestamp": "2025-01-25T22:22:05.505452"
+  },
+  {
+    "vehicle_count": 62,
+    "average_speed": 59.563444989505,
+    "congestion_level": 0.5834951528449421,
+    "time_of_day": 6,
+    "timestamp": "2025-01-25T22:22:06.519085"
+  },
+  {
+    "vehicle_count": 121,
+    "average_speed": 56.09494633742522,
+    "congestion_level": 0.5357719280998683,
+    "time_of_day": 15,
+    "timestamp": "2025-01-25T22:22:07.533076"
+  },
+  {
+    "vehicle_count": 92,
+    "average_speed": 61.574097011837125,
+    "congestion_level": 0.3377053105145283,
+    "time_of_day": 8,
+    "timestamp": "2025-01-25T22:22:08.545901"
+  },
+  {
+    "vehicle_count": 83,
+    "average_speed": 57.189373579884254,
+    "congestion_level": 0.6092635969181264,
+    "time_of_day": 10,
+    "timestamp": "2025-01-25T22:22:09.559510"
+  },
+  {
+    "vehicle_count": 86,
+    "average_speed": 51.298536936777026,
+    "congestion_level": 0.54362076721989,
+    "time_of_day": 13,
+    "timestamp": "2025-01-25T22:22:10.577879"
+  },
+  {
+    "vehicle_count": 107,
+    "average_speed": 52.842315964289895,
+    "congestion_level": 0.6506418725843353,
+    "time_of_day": 1,
+    "timestamp": "2025-01-25T22:22:11.591976"
+  },
+  {
+    "vehicle_count": 242,
+    "average_speed": 29.48151196108852,
+    "congestion_level": 0.8655818584584561,
+    "time_of_day": 7,
+    "timestamp": "2025-01-25T22:22:12.606556"
+  },
+  {
+    "vehicle_count": 96,
+    "average_speed": 65.21884348670162,
+    "congestion_level": 0.6952769422375562,
+    "time_of_day": 5,
+    "timestamp": "2025-01-25T22:22:13.619864"
+  },
+  {
+    "vehicle_count": 67,
+    "average_speed": 51.429381867527695,
+    "congestion_level": 0.39299690098198947,
+    "time_of_day": 12,
+    "timestamp": "2025-01-25T22:22:14.636941"
+  },
+  {
+    "vehicle_count": 132,
+    "average_speed": 52.83412268585222,
+    "congestion_level": 0.4949639001628819,
+    "time_of_day": 17,
+    "timestamp": "2025-01-25T22:22:15.657647"
+  },
+  {
+    "vehicle_count": 102,
+    "average_speed": 55.79545862610816,
+    "congestion_level": 0.3645021336329362,
+    "time_of_day": 10,
+    "timestamp": "2025-01-25T22:22:16.670604"
+  },
+  {
+    "vehicle_count": 107,
+    "average_speed": 53.851943439546424,
+    "congestion_level": 0.6311869788929538,
+    "time_of_day": 18,
+    "timestamp": "2025-01-25T22:22:17.686384"
+  },
+  {
+    "vehicle_count": 77,
+    "average_speed": 45.84367808660731,
+    "congestion_level": 0.5426614541434579,
+    "time_of_day": 1,
+    "timestamp": "2025-01-25T22:22:18.699127"
+  },
+  {
+    "vehicle_count": 146,
+    "average_speed": 50.13658746136174,
+    "congestion_level": 0.5014978513789858,
+    "time_of_day": 9,
+    "timestamp": "2025-01-25T22:22:19.712016"
+  },
+  {
+    "vehicle_count": 59,
+    "average_speed": 47.732087897792454,
+    "congestion_level": 0.5846596909272594,
+    "time_of_day": 23,
+    "timestamp": "2025-01-25T22:22:20.745155"
+  },
+  {
+    "vehicle_count": 112,
+    "average_speed": 45.78765823210083,
+    "congestion_level": 0.42754962983971884,
+    "time_of_day": 2,
+    "timestamp": "2025-01-25T22:22:21.759013"
+  },
+  {
+    "vehicle_count": 121,
+    "average_speed": 47.54464450281573,
+    "congestion_level": 0.5993779720880295,
+    "time_of_day": 7,
+    "timestamp": "2025-01-25T22:22:22.787627"
+  },
+  {
+    "vehicle_count": 80,
+    "average_speed": 56.49406446752524,
+    "congestion_level": 0.4125465659631553,
+    "time_of_day": 17,
+    "timestamp": "2025-01-25T22:22:23.809372"
+  },
+  {
+    "vehicle_count": 126,
+    "average_speed": 45.37232925172886,
+    "congestion_level": 0.31027123331036965,
+    "time_of_day": 7,
+    "timestamp": "2025-01-25T22:22:24.823365"
+  },
+  {
+    "vehicle_count": 91,
+    "average_speed": 13.75876971079825,
+    "congestion_level": 0.8948151424406982,
+    "time_of_day": 12,
+    "timestamp": "2025-01-25T22:22:25.841152"
+  },
+  {
+    "vehicle_count": 77,
+    "average_speed": 56.453081550992636,
+    "congestion_level": 0.4875827691578712,
+    "time_of_day": 22,
+    "timestamp": "2025-01-25T22:22:26.884244"
+  },
+  {
+    "vehicle_count": 54,
+    "average_speed": 65.40349131486703,
+    "congestion_level": 0.5006013513787871,
+    "time_of_day": 1,
+    "timestamp": "2025-01-25T22:22:27.897090"
+  },
+  {
+    "vehicle_count": 239,
+    "average_speed": 24.20874372724171,
+    "congestion_level": 0.8424282615219602,
+    "time_of_day": 23,
+    "timestamp": "2025-01-25T22:22:28.910198"
+  },
+  {
+    "vehicle_count": 39,
+    "average_speed": 105.33735734473296,
+    "congestion_level": 0.21626761909624953,
+    "time_of_day": 13,
+    "timestamp": "2025-01-25T22:22:29.924462"
+  },
+  {
+    "vehicle_count": 126,
+    "average_speed": 68.68417705175213,
+    "congestion_level": 0.40101187287832774,
+    "time_of_day": 17,
+    "timestamp": "2025-01-25T22:22:30.946473"
+  },
+  {
+    "vehicle_count": 112,
+    "average_speed": 47.6734829921501,
+    "congestion_level": 0.6088712385176305,
+    "time_of_day": 7,
+    "timestamp": "2025-01-25T22:22:31.960192"
+  },
+  {
+    "vehicle_count": 56,
+    "average_speed": 64.47611038523917,
+    "congestion_level": 0.3499188187787569,
+    "time_of_day": 10,
+    "timestamp": "2025-01-25T22:22:32.974353"
+  },
+  {
+    "vehicle_count": 25,
+    "average_speed": 99.03965497320713,
+    "congestion_level": 0.16581838666227994,
+    "time_of_day": 3,
+    "timestamp": "2025-01-25T22:22:34.019583"
+  },
+  {
+    "vehicle_count": 122,
+    "average_speed": 6.184253786738931,
+    "congestion_level": 0.8789036327069875,
+    "time_of_day": 15,
+    "timestamp": "2025-01-25T22:22:35.032314"
+  },
+  {
+    "vehicle_count": 84,
+    "average_speed": 40.501899671385566,
+    "congestion_level": 0.5323136936934673,
+    "time_of_day": 0,
+    "timestamp": "2025-01-25T22:22:36.050880"
+  },
+  {
+    "vehicle_count": 82,
+    "average_speed": 40.504143945739855,
+    "congestion_level": 0.38288444790719106,
+    "time_of_day": 18,
+    "timestamp": "2025-01-25T22:22:37.069285"
+  },
+  {
+    "vehicle_count": 31,
+    "average_speed": 99.03131744079266,
+    "congestion_level": 0.14025503117108462,
+    "time_of_day": 9,
+    "timestamp": "2025-01-25T22:22:38.102375"
+  },
+  {
+    "vehicle_count": 90,
+    "average_speed": 64.48655782844264,
+    "congestion_level": 0.5680965556996437,
+    "time_of_day": 2,
+    "timestamp": "2025-01-25T22:22:39.133555"
+  },
+  {
+    "vehicle_count": 71,
+    "average_speed": 58.17484327094734,
+    "congestion_level": 0.4696315310104693,
+    "time_of_day": 9,
+    "timestamp": "2025-01-25T22:22:40.163391"
+  },
+  {
+    "vehicle_count": 51,
+    "average_speed": 47.729536146859324,
+    "congestion_level": 0.5917619042869392,
+    "time_of_day": 8,
+    "timestamp": "2025-01-25T22:22:41.192599"
+  },
+  {
+    "vehicle_count": 108,
+    "average_speed": 64.3841295085578,
+    "congestion_level": 0.5809622992921663,
+    "time_of_day": 5,
+    "timestamp": "2025-01-25T22:22:42.216164"
+  },
+  {
+    "vehicle_count": 112,
+    "average_speed": 69.74184933495688,
+    "congestion_level": 0.5931981942264619,
+    "time_of_day": 2,
+    "timestamp": "2025-01-25T22:22:43.233586"
+  },
+  {
+    "vehicle_count": 118,
+    "average_speed": 43.25499396220595,
+    "congestion_level": 0.31343340854894347,
+    "time_of_day": 13,
+    "timestamp": "2025-01-25T22:22:44.246667"
+  },
+  {
+    "vehicle_count": 77,
+    "average_speed": 66.10917190904276,
+    "congestion_level": 0.545598231994489,
+    "time_of_day": 4,
+    "timestamp": "2025-01-25T22:22:45.263673"
+  },
+  {
+    "vehicle_count": 120,
+    "average_speed": 63.678955724508015,
+    "congestion_level": 0.6261942021283291,
+    "time_of_day": 14,
+    "timestamp": "2025-01-25T22:22:46.298354"
+  },
+  {
+    "vehicle_count": 116,
+    "average_speed": 43.15691388702541,
+    "congestion_level": 0.3189156807217702,
+    "time_of_day": 20,
+    "timestamp": "2025-01-25T22:22:47.315331"
+  },
+  {
+    "vehicle_count": 132,
+    "average_speed": 56.56934547180822,
+    "congestion_level": 0.6616279948150983,
+    "time_of_day": 13,
+    "timestamp": "2025-01-25T22:22:48.342623"
+  },
+  {
+    "vehicle_count": 129,
+    "average_speed": 68.3262947316041,
+    "congestion_level": 0.4164883211724936,
+    "time_of_day": 21,
+    "timestamp": "2025-01-25T22:22:49.371137"
+  },
+  {
+    "vehicle_count": 130,
+    "average_speed": 61.821017636630756,
+    "congestion_level": 0.5163776297598435,
+    "time_of_day": 21,
+    "timestamp": "2025-01-25T22:22:50.400410"
+  },
+  {
+    "vehicle_count": 91,
+    "average_speed": 64.81324763958251,
+    "congestion_level": 0.5662409997234732,
+    "time_of_day": 2,
+    "timestamp": "2025-01-25T22:22:51.436930"
+  },
+  {
+    "vehicle_count": 67,
+    "average_speed": 66.09759897418976,
+    "congestion_level": 0.5549531249195248,
+    "time_of_day": 9,
+    "timestamp": "2025-01-25T22:22:52.451863"
+  },
+  {
+    "vehicle_count": 148,
+    "average_speed": 48.741474536575154,
+    "congestion_level": 0.5256081169439117,
+    "time_of_day": 8,
+    "timestamp": "2025-01-25T22:22:53.466914"
+  },
+  {
+    "vehicle_count": 94,
+    "average_speed": 48.248130570817466,
+    "congestion_level": 0.604021907983799,
+    "time_of_day": 4,
+    "timestamp": "2025-01-25T22:22:54.482228"
+  },
+  {
+    "vehicle_count": 131,
+    "average_speed": 64.41613881137347,
+    "congestion_level": 0.6562463090660045,
+    "time_of_day": 1,
+    "timestamp": "2025-01-25T22:22:55.500034"
+  },
+  {
+    "vehicle_count": 41,
+    "average_speed": 84.0035096198505,
+    "congestion_level": 0.29186613091499075,
+    "time_of_day": 23,
+    "timestamp": "2025-01-25T22:22:56.524643"
+  },
+  {
+    "vehicle_count": 68,
+    "average_speed": 51.314114683933965,
+    "congestion_level": 0.607766541833213,
+    "time_of_day": 10,
+    "timestamp": "2025-01-25T22:22:57.540096"
+  },
+  {
+    "vehicle_count": 96,
+    "average_speed": 8.212746514619958,
+    "congestion_level": 0.8932215631717066,
+    "time_of_day": 3,
+    "timestamp": "2025-01-25T22:22:58.552991"
+  },
+  {
+    "vehicle_count": 186,
+    "average_speed": 20.52817340483182,
+    "congestion_level": 0.8966422943849301,
+    "time_of_day": 10,
+    "timestamp": "2025-01-25T22:22:59.565644"
+  },
+  {
+    "vehicle_count": 97,
+    "average_speed": 40.51597291623344,
+    "congestion_level": 0.38487454037620883,
+    "time_of_day": 1,
+    "timestamp": "2025-01-25T22:23:00.578873"
+  },
+  {
+    "vehicle_count": 68,
+    "average_speed": 53.904074256994534,
+    "congestion_level": 0.36624003449586917,
+    "time_of_day": 21,
+    "timestamp": "2025-01-25T22:23:01.602595"
+  },
+  {
+    "vehicle_count": 57,
+    "average_speed": 67.36084799686505,
+    "congestion_level": 0.30381019636833956,
+    "time_of_day": 14,
+    "timestamp": "2025-01-25T22:23:02.634491"
+  },
+  {
+    "vehicle_count": 87,
+    "average_speed": 69.67538737057444,
+    "congestion_level": 0.6986895404173047,
+    "time_of_day": 17,
+    "timestamp": "2025-01-25T22:23:03.665666"
+  },
+  {
+    "vehicle_count": 97,
+    "average_speed": 59.15804792183275,
+    "congestion_level": 0.4916995936675199,
+    "time_of_day": 22,
+    "timestamp": "2025-01-25T22:23:04.690100"
+  },
+  {
+    "vehicle_count": 137,
+    "average_speed": 65.2700370425277,
+    "congestion_level": 0.45014447163469873,
+    "time_of_day": 12,
+    "timestamp": "2025-01-25T22:23:05.720703"
+  },
+  {
+    "vehicle_count": 124,
+    "average_speed": 69.04692567794113,
+    "congestion_level": 0.564156249759391,
+    "time_of_day": 0,
+    "timestamp": "2025-01-25T22:23:06.741068"
+  },
+  {
+    "vehicle_count": 60,
+    "average_speed": 46.447070747741286,
+    "congestion_level": 0.4416078773139666,
+    "time_of_day": 4,
+    "timestamp": "2025-01-25T22:23:07.764545"
+  },
+  {
+    "vehicle_count": 101,
+    "average_speed": 48.77822812028586,
+    "congestion_level": 0.49398552825785735,
+    "time_of_day": 9,
+    "timestamp": "2025-01-25T22:23:08.788953"
+  },
+  {
+    "vehicle_count": 89,
+    "average_speed": 12.184230620699122,
+    "congestion_level": 0.870143548601138,
+    "time_of_day": 22,
+    "timestamp": "2025-01-25T22:23:09.815646"
+  },
+  {
+    "vehicle_count": 77,
+    "average_speed": 49.04513437653445,
+    "congestion_level": 0.485015649631936,
+    "time_of_day": 9,
+    "timestamp": "2025-01-25T22:23:10.836958"
+  },
+  {
+    "vehicle_count": 132,
+    "average_speed": 69.85265163844845,
+    "congestion_level": 0.403132217440975,
+    "time_of_day": 7,
+    "timestamp": "2025-01-25T22:23:11.872993"
+  },
+  {
+    "vehicle_count": 59,
+    "average_speed": 61.315526780722834,
+    "congestion_level": 0.33621785436507956,
+    "time_of_day": 23,
+    "timestamp": "2025-01-25T22:23:12.891134"
+  },
+  {
+    "vehicle_count": 131,
+    "average_speed": 66.13759562301468,
+    "congestion_level": 0.5921418292066296,
+    "time_of_day": 15,
+    "timestamp": "2025-01-25T22:23:13.908168"
+  },
+  {
+    "vehicle_count": 129,
+    "average_speed": 40.920886242418575,
+    "congestion_level": 0.6294909225116467,
+    "time_of_day": 9,
+    "timestamp": "2025-01-25T22:23:14.921712"
+  },
+  {
+    "vehicle_count": 71,
+    "average_speed": 50.665984669702055,
+    "congestion_level": 0.4092349371506672,
+    "time_of_day": 15,
+    "timestamp": "2025-01-25T22:23:15.937497"
+  },
+  {
+    "vehicle_count": 76,
+    "average_speed": 44.45074962864194,
+    "congestion_level": 0.3477842185003743,
+    "time_of_day": 17,
+    "timestamp": "2025-01-25T22:23:16.976567"
+  },
+  {
+    "vehicle_count": 137,
+    "average_speed": 44.21151447522226,
+    "congestion_level": 0.40000603548103325,
+    "time_of_day": 9,
+    "timestamp": "2025-01-25T22:23:18.006104"
+  },
+  {
+    "vehicle_count": 98,
+    "average_speed": 40.30641717968185,
+    "congestion_level": 0.434608890815154,
+    "time_of_day": 11,
+    "timestamp": "2025-01-25T22:23:19.036943"
+  },
+  {
+    "vehicle_count": 68,
+    "average_speed": 47.00393159829658,
+    "congestion_level": 0.3390200858164757,
+    "time_of_day": 23,
+    "timestamp": "2025-01-25T22:23:20.068158"
+  },
+  {
+    "vehicle_count": 80,
+    "average_speed": 60.67977190323249,
+    "congestion_level": 0.4262657606538029,
+    "time_of_day": 17,
+    "timestamp": "2025-01-25T22:23:21.099337"
+  },
+  {
+    "vehicle_count": 86,
+    "average_speed": 52.13434522583539,
+    "congestion_level": 0.5195714574196302,
+    "time_of_day": 22,
+    "timestamp": "2025-01-25T22:23:22.125726"
+  },
+  {
+    "vehicle_count": 56,
+    "average_speed": 55.4848816946591,
+    "congestion_level": 0.5034017402982072,
+    "time_of_day": 4,
+    "timestamp": "2025-01-25T22:23:23.139956"
+  },
+  {
+    "vehicle_count": 137,
+    "average_speed": 49.68253040868066,
+    "congestion_level": 0.628767486939072,
+    "time_of_day": 1,
+    "timestamp": "2025-01-25T22:23:24.152472"
+  },
+  {
+    "vehicle_count": 132,
+    "average_speed": 45.11789039296023,
+    "congestion_level": 0.671838876011873,
+    "time_of_day": 4,
+    "timestamp": "2025-01-25T22:23:25.172710"
+  },
+  {
+    "vehicle_count": 88,
+    "average_speed": 65.83360189308897,
+    "congestion_level": 0.48807205359418915,
+    "time_of_day": 10,
+    "timestamp": "2025-01-25T22:23:26.188962"
+  },
+  {
+    "vehicle_count": 136,
+    "average_speed": 55.42627378416748,
+    "congestion_level": 0.38294171391845544,
+    "time_of_day": 4,
+    "timestamp": "2025-01-25T22:23:27.224049"
+  },
+  {
+    "vehicle_count": 146,
+    "average_speed": 56.891131413390056,
+    "congestion_level": 0.4627910245778313,
+    "time_of_day": 20,
+    "timestamp": "2025-01-25T22:23:28.252395"
+  },
+  {
+    "vehicle_count": 96,
+    "average_speed": 13.213052372143931,
+    "congestion_level": 0.9236104872068379,
+    "time_of_day": 6,
+    "timestamp": "2025-01-25T22:23:29.283636"
+  },
+  {
+    "vehicle_count": 113,
+    "average_speed": 64.12445794630466,
+    "congestion_level": 0.6374689511167715,
+    "time_of_day": 18,
+    "timestamp": "2025-01-25T22:23:30.312337"
+  },
+  {
+    "vehicle_count": 128,
+    "average_speed": 40.79383723966825,
+    "congestion_level": 0.6247594032540809,
+    "time_of_day": 15,
+    "timestamp": "2025-01-25T22:23:31.330080"
+  },
+  {
+    "vehicle_count": 34,
+    "average_speed": 85.22916347981827,
+    "congestion_level": 0.1891989584651845,
+    "time_of_day": 10,
+    "timestamp": "2025-01-25T22:23:32.350742"
+  },
+  {
+    "vehicle_count": 154,
+    "average_speed": 34.395364611800225,
+    "congestion_level": 0.7997548680678277,
+    "time_of_day": 16,
+    "timestamp": "2025-01-25T22:23:33.363894"
+  },
+  {
+    "vehicle_count": 149,
+    "average_speed": 58.97128938218688,
+    "congestion_level": 0.43108790816766096,
+    "time_of_day": 10,
+    "timestamp": "2025-01-25T22:23:34.378073"
+  },
+  {
+    "vehicle_count": 77,
+    "average_speed": 51.3408504137037,
+    "congestion_level": 0.6671555840042236,
+    "time_of_day": 5,
+    "timestamp": "2025-01-25T22:23:35.391547"
+  },
+  {
+    "vehicle_count": 104,
+    "average_speed": 57.96330148111422,
+    "congestion_level": 0.3493372216971926,
+    "time_of_day": 7,
+    "timestamp": "2025-01-25T22:23:36.409182"
+  },
+  {
+    "vehicle_count": 116,
+    "average_speed": 65.96625693671979,
+    "congestion_level": 0.6647050912833881,
+    "time_of_day": 5,
+    "timestamp": "2025-01-25T22:23:37.427843"
+  },
+  {
+    "vehicle_count": 74,
+    "average_speed": 44.02754057193861,
+    "congestion_level": 0.6830264061925757,
+    "time_of_day": 4,
+    "timestamp": "2025-01-25T22:23:38.441748"
+  },
+  {
+    "vehicle_count": 99,
+    "average_speed": 64.10704510527495,
+    "congestion_level": 0.5388054293330735,
+    "time_of_day": 1,
+    "timestamp": "2025-01-25T22:23:39.466836"
+  },
+  {
+    "vehicle_count": 74,
+    "average_speed": 42.28460914801742,
+    "congestion_level": 0.39623281244493586,
+    "time_of_day": 19,
+    "timestamp": "2025-01-25T22:23:40.479850"
+  },
+  {
+    "vehicle_count": 130,
+    "average_speed": 64.40093842957538,
+    "congestion_level": 0.5509232998397535,
+    "time_of_day": 20,
+    "timestamp": "2025-01-25T22:23:41.499032"
+  },
+  {
+    "vehicle_count": 124,
+    "average_speed": 59.31747841444126,
+    "congestion_level": 0.5917926464028875,
+    "time_of_day": 22,
+    "timestamp": "2025-01-25T22:23:42.536178"
+  },
+  {
+    "vehicle_count": 35,
+    "average_speed": 87.04828365969473,
+    "congestion_level": 0.15292393924326486,
+    "time_of_day": 23,
+    "timestamp": "2025-01-25T22:23:43.567181"
+  },
+  {
+    "vehicle_count": 72,
+    "average_speed": 49.19857826135182,
+    "congestion_level": 0.6772342213880803,
+    "time_of_day": 11,
+    "timestamp": "2025-01-25T22:23:44.597763"
+  },
+  {
+    "vehicle_count": 145,
+    "average_speed": 40.096468125748835,
+    "congestion_level": 0.44891905669626225,
+    "time_of_day": 6,
+    "timestamp": "2025-01-25T22:23:45.628670"
+  },
+  {
+    "vehicle_count": 81,
+    "average_speed": 49.07111154787859,
+    "congestion_level": 0.6789411110265449,
+    "time_of_day": 12,
+    "timestamp": "2025-01-25T22:23:46.660427"
+  },
+  {
+    "vehicle_count": 138,
+    "average_speed": 41.79677826848804,
+    "congestion_level": 0.5768968403331263,
+    "time_of_day": 11,
+    "timestamp": "2025-01-25T22:23:47.696889"
+  },
+  {
+    "vehicle_count": 108,
+    "average_speed": 5.167727172750286,
+    "congestion_level": 0.9309778639640237,
+    "time_of_day": 19,
+    "timestamp": "2025-01-25T22:23:48.710883"
+  },
+  {
+    "vehicle_count": 63,
+    "average_speed": 45.773698685038795,
+    "congestion_level": 0.3164949033396905,
+    "time_of_day": 13,
+    "timestamp": "2025-01-25T22:23:49.739920"
+  },
+  {
+    "vehicle_count": 84,
+    "average_speed": 11.633039421460044,
+    "congestion_level": 0.9096859825231891,
+    "time_of_day": 15,
+    "timestamp": "2025-01-25T22:23:50.752391"
+  },
+  {
+    "vehicle_count": 160,
+    "average_speed": 22.463532499625938,
+    "congestion_level": 0.8688272877850729,
+    "time_of_day": 19,
+    "timestamp": "2025-01-25T22:23:51.766649"
+  },
+  {
+    "vehicle_count": 128,
+    "average_speed": 47.056835757778515,
+    "congestion_level": 0.6452827215746471,
+    "time_of_day": 18,
+    "timestamp": "2025-01-25T22:23:52.812074"
+  },
+  {
+    "vehicle_count": 137,
+    "average_speed": 50.348205959236694,
+    "congestion_level": 0.5106310067476947,
+    "time_of_day": 1,
+    "timestamp": "2025-01-25T22:23:53.826095"
+  },
+  {
+    "vehicle_count": 111,
+    "average_speed": 48.01997403656428,
+    "congestion_level": 0.4700941314590029,
+    "time_of_day": 14,
+    "timestamp": "2025-01-25T22:23:54.839977"
+  },
+  {
+    "vehicle_count": 78,
+    "average_speed": 43.44953825662871,
+    "congestion_level": 0.41579439863587986,
+    "time_of_day": 1,
+    "timestamp": "2025-01-25T22:23:55.854315"
+  },
+  {
+    "vehicle_count": 138,
+    "average_speed": 69.58740202781681,
+    "congestion_level": 0.39363724680110956,
+    "time_of_day": 1,
+    "timestamp": "2025-01-25T22:23:56.885275"
+  },
+  {
+    "vehicle_count": 120,
+    "average_speed": 55.13507151455926,
+    "congestion_level": 0.6478502810388639,
+    "time_of_day": 21,
+    "timestamp": "2025-01-25T22:23:57.903432"
+  },
+  {
+    "vehicle_count": 114,
+    "average_speed": 55.23562035670907,
+    "congestion_level": 0.6724805823892255,
+    "time_of_day": 12,
+    "timestamp": "2025-01-25T22:23:58.918864"
+  },
+  {
+    "vehicle_count": 113,
+    "average_speed": 67.68039533879313,
+    "congestion_level": 0.5780254461953094,
+    "time_of_day": 14,
+    "timestamp": "2025-01-25T22:23:59.932743"
+  },
+  {
+    "vehicle_count": 141,
+    "average_speed": 55.98586807799503,
+    "congestion_level": 0.372022493861677,
+    "time_of_day": 11,
+    "timestamp": "2025-01-25T22:24:00.951846"
+  },
+  {
+    "vehicle_count": 98,
+    "average_speed": 61.69861687450549,
+    "congestion_level": 0.4514484099706095,
+    "time_of_day": 10,
+    "timestamp": "2025-01-25T22:24:01.964464"
+  },
+  {
+    "vehicle_count": 104,
+    "average_speed": 63.0512048889539,
+    "congestion_level": 0.3230163939738067,
+    "time_of_day": 20,
+    "timestamp": "2025-01-25T22:24:02.983543"
+  },
+  {
+    "vehicle_count": 107,
+    "average_speed": 62.95676953267354,
+    "congestion_level": 0.3709300455403548,
+    "time_of_day": 15,
+    "timestamp": "2025-01-25T22:24:04.009637"
+  },
+  {
+    "vehicle_count": 115,
+    "average_speed": 44.51476247599154,
+    "congestion_level": 0.47118481259876843,
+    "time_of_day": 12,
+    "timestamp": "2025-01-25T22:24:05.023162"
+  },
+  {
+    "vehicle_count": 131,
+    "average_speed": 49.169007554556025,
+    "congestion_level": 0.6281731771061012,
+    "time_of_day": 4,
+    "timestamp": "2025-01-25T22:24:06.048154"
+  },
+  {
+    "vehicle_count": 146,
+    "average_speed": 68.27920979165374,
+    "congestion_level": 0.45419197746253126,
+    "time_of_day": 9,
+    "timestamp": "2025-01-25T22:24:07.061704"
+  },
+  {
+    "vehicle_count": 104,
+    "average_speed": 61.78168958508902,
+    "congestion_level": 0.42911598386326033,
+    "time_of_day": 1,
+    "timestamp": "2025-01-25T22:24:08.079968"
+  },
+  {
+    "vehicle_count": 85,
+    "average_speed": 55.40248585797668,
+    "congestion_level": 0.3580145350560369,
+    "time_of_day": 10,
+    "timestamp": "2025-01-25T22:24:09.092571"
+  },
+  {
+    "vehicle_count": 133,
+    "average_speed": 55.45950785831846,
+    "congestion_level": 0.551488366359928,
+    "time_of_day": 19,
+    "timestamp": "2025-01-25T22:24:10.112540"
+  },
+  {
+    "vehicle_count": 80,
+    "average_speed": 54.34082494579062,
+    "congestion_level": 0.6881417976972046,
+    "time_of_day": 11,
+    "timestamp": "2025-01-25T22:24:11.126450"
+  },
+  {
+    "vehicle_count": 91,
+    "average_speed": 61.46329390054538,
+    "congestion_level": 0.4326134255800432,
+    "time_of_day": 11,
+    "timestamp": "2025-01-25T22:24:12.140322"
+  },
+  {
+    "vehicle_count": 89,
+    "average_speed": 40.549948341468436,
+    "congestion_level": 0.5130541858986017,
+    "time_of_day": 1,
+    "timestamp": "2025-01-25T22:24:13.185530"
+  },
+  {
+    "vehicle_count": 106,
+    "average_speed": 67.36737026035952,
+    "congestion_level": 0.35870108186584004,
+    "time_of_day": 20,
+    "timestamp": "2025-01-25T22:24:14.199317"
+  },
+  {
+    "vehicle_count": 74,
+    "average_speed": 49.23620632204572,
+    "congestion_level": 0.6238063468164325,
+    "time_of_day": 4,
+    "timestamp": "2025-01-25T22:24:15.213685"
+  },
+  {
+    "vehicle_count": 146,
+    "average_speed": 15.023397365871432,
+    "congestion_level": 0.8888667767653017,
+    "time_of_day": 9,
+    "timestamp": "2025-01-25T22:24:16.227201"
+  },
+  {
+    "vehicle_count": 124,
+    "average_speed": 47.90446350181277,
+    "congestion_level": 0.45769085916467106,
+    "time_of_day": 16,
+    "timestamp": "2025-01-25T22:24:17.257304"
+  },
+  {
+    "vehicle_count": 102,
+    "average_speed": 58.34525095436923,
+    "congestion_level": 0.6532229672714662,
+    "time_of_day": 3,
+    "timestamp": "2025-01-25T22:24:18.295762"
+  },
+  {
+    "vehicle_count": 112,
+    "average_speed": 16.447926976389805,
+    "congestion_level": 0.8491844412401748,
+    "time_of_day": 8,
+    "timestamp": "2025-01-25T22:24:19.325195"
+  },
+  {
+    "vehicle_count": 61,
+    "average_speed": 59.33477532517886,
+    "congestion_level": 0.5093810886169671,
+    "time_of_day": 12,
+    "timestamp": "2025-01-25T22:24:20.353572"
+  },
+  {
+    "vehicle_count": 97,
+    "average_speed": 52.08029208969211,
+    "congestion_level": 0.6870456643570502,
+    "time_of_day": 23,
+    "timestamp": "2025-01-25T22:24:21.367051"
+  },
+  {
+    "vehicle_count": 70,
+    "average_speed": 50.40428240834702,
+    "congestion_level": 0.42217946782682053,
+    "time_of_day": 14,
+    "timestamp": "2025-01-25T22:24:22.402109"
+  },
+  {
+    "vehicle_count": 135,
+    "average_speed": 49.64703121208304,
+    "congestion_level": 0.6858892624240295,
+    "time_of_day": 1,
+    "timestamp": "2025-01-25T22:24:23.419835"
+  },
+  {
+    "vehicle_count": 85,
+    "average_speed": 67.50770066826645,
+    "congestion_level": 0.3971195995616324,
+    "time_of_day": 19,
+    "timestamp": "2025-01-25T22:24:24.434005"
+  },
+  {
+    "vehicle_count": 24,
+    "average_speed": 97.15400843387388,
+    "congestion_level": 0.23521488950159952,
+    "time_of_day": 22,
+    "timestamp": "2025-01-25T22:24:25.447477"
+  },
+  {
+    "vehicle_count": 89,
+    "average_speed": 12.671077834310182,
+    "congestion_level": 0.9894651317343935,
+    "time_of_day": 23,
+    "timestamp": "2025-01-25T22:24:26.461456"
+  },
+  {
+    "vehicle_count": 122,
+    "average_speed": 52.19164669444824,
+    "congestion_level": 0.41156797334061823,
+    "time_of_day": 5,
+    "timestamp": "2025-01-25T22:24:27.476456"
+  },
+  {
+    "vehicle_count": 72,
+    "average_speed": 61.817948346254916,
+    "congestion_level": 0.3780351225152563,
+    "time_of_day": 1,
+    "timestamp": "2025-01-25T22:24:28.525268"
+  },
+  {
+    "vehicle_count": 50,
+    "average_speed": 64.02289717659767,
+    "congestion_level": 0.516754691455369,
+    "time_of_day": 10,
+    "timestamp": "2025-01-25T22:24:29.552547"
+  },
+  {
+    "vehicle_count": 84,
+    "average_speed": 64.32712956956317,
+    "congestion_level": 0.6108424611022276,
+    "time_of_day": 2,
+    "timestamp": "2025-01-25T22:24:30.567958"
+  },
+  {
+    "vehicle_count": 120,
+    "average_speed": 11.779024286689303,
+    "congestion_level": 0.8122337972944793,
+    "time_of_day": 4,
+    "timestamp": "2025-01-25T22:24:31.580733"
+  },
+  {
+    "vehicle_count": 130,
+    "average_speed": 48.35187296827504,
+    "congestion_level": 0.4693187588482648,
+    "time_of_day": 3,
+    "timestamp": "2025-01-25T22:24:32.598530"
+  },
+  {
+    "vehicle_count": 137,
+    "average_speed": 12.638637855816876,
+    "congestion_level": 0.9734706758263192,
+    "time_of_day": 19,
+    "timestamp": "2025-01-25T22:24:33.618860"
+  },
+  {
+    "vehicle_count": 131,
+    "average_speed": 57.646782023318664,
+    "congestion_level": 0.5455743008646747,
+    "time_of_day": 8,
+    "timestamp": "2025-01-25T22:24:34.631935"
+  },
+  {
+    "vehicle_count": 89,
+    "average_speed": 58.83202364828405,
+    "congestion_level": 0.43536890519102506,
+    "time_of_day": 21,
+    "timestamp": "2025-01-25T22:24:35.645191"
+  },
+  {
+    "vehicle_count": 99,
+    "average_speed": 48.61520686592901,
+    "congestion_level": 0.37445980709737026,
+    "time_of_day": 15,
+    "timestamp": "2025-01-25T22:24:36.663364"
+  },
+  {
+    "vehicle_count": 85,
+    "average_speed": 45.83883431221646,
+    "congestion_level": 0.6103757345892782,
+    "time_of_day": 6,
+    "timestamp": "2025-01-25T22:24:37.682877"
+  },
+  {
+    "vehicle_count": 143,
+    "average_speed": 57.941922492845066,
+    "congestion_level": 0.4955762165955244,
+    "time_of_day": 18,
+    "timestamp": "2025-01-25T22:24:38.700712"
+  },
+  {
+    "vehicle_count": 62,
+    "average_speed": 42.81171002173869,
+    "congestion_level": 0.347975765371087,
+    "time_of_day": 13,
+    "timestamp": "2025-01-25T22:24:39.715160"
+  },
+  {
+    "vehicle_count": 79,
+    "average_speed": 59.414533767061705,
+    "congestion_level": 0.35354402186561595,
+    "time_of_day": 5,
+    "timestamp": "2025-01-25T22:24:40.741489"
+  },
+  {
+    "vehicle_count": 102,
+    "average_speed": 45.871494970546415,
+    "congestion_level": 0.4022224232630607,
+    "time_of_day": 1,
+    "timestamp": "2025-01-25T22:24:41.755223"
+  },
+  {
+    "vehicle_count": 123,
+    "average_speed": 12.270480474318624,
+    "congestion_level": 0.8268789002594636,
+    "time_of_day": 2,
+    "timestamp": "2025-01-25T22:24:42.768147"
+  },
+  {
+    "vehicle_count": 87,
+    "average_speed": 61.72867897838256,
+    "congestion_level": 0.5248893700839625,
+    "time_of_day": 20,
+    "timestamp": "2025-01-25T22:24:43.812345"
+  },
+  {
+    "vehicle_count": 73,
+    "average_speed": 60.99856915083855,
+    "congestion_level": 0.3247460252002475,
+    "time_of_day": 13,
+    "timestamp": "2025-01-25T22:24:44.826254"
+  },
+  {
+    "vehicle_count": 123,
+    "average_speed": 51.496121037754186,
+    "congestion_level": 0.4088153290217693,
+    "time_of_day": 8,
+    "timestamp": "2025-01-25T22:24:45.839822"
+  },
+  {
+    "vehicle_count": 58,
+    "average_speed": 44.18094748795297,
+    "congestion_level": 0.655648709829812,
+    "time_of_day": 22,
+    "timestamp": "2025-01-25T22:24:46.860796"
+  },
+  {
+    "vehicle_count": 99,
+    "average_speed": 58.72423036610425,
+    "congestion_level": 0.6059096712381788,
+    "time_of_day": 18,
+    "timestamp": "2025-01-25T22:24:47.874165"
+  },
+  {
+    "vehicle_count": 54,
+    "average_speed": 57.24050728819475,
+    "congestion_level": 0.6957562753682137,
+    "time_of_day": 7,
+    "timestamp": "2025-01-25T22:24:48.924682"
+  },
+  {
+    "vehicle_count": 103,
+    "average_speed": 56.06951974370239,
+    "congestion_level": 0.4859435673576712,
+    "time_of_day": 4,
+    "timestamp": "2025-01-25T22:24:49.938094"
+  },
+  {
+    "vehicle_count": 134,
+    "average_speed": 51.09675984190192,
+    "congestion_level": 0.32955381603832357,
+    "time_of_day": 4,
+    "timestamp": "2025-01-25T22:24:50.951343"
+  },
+  {
+    "vehicle_count": 115,
+    "average_speed": 49.8683029629547,
+    "congestion_level": 0.4577953360620229,
+    "time_of_day": 22,
+    "timestamp": "2025-01-25T22:24:51.965305"
+  },
+  {
+    "vehicle_count": 113,
+    "average_speed": 40.62146470778888,
+    "congestion_level": 0.6327820169067635,
+    "time_of_day": 9,
+    "timestamp": "2025-01-25T22:24:52.981760"
+  },
+  {
+    "vehicle_count": 247,
+    "average_speed": 34.72209326854491,
+    "congestion_level": 0.8964702704238231,
+    "time_of_day": 12,
+    "timestamp": "2025-01-25T22:24:53.999289"
+  },
+  {
+    "vehicle_count": 58,
+    "average_speed": 63.98746802043631,
+    "congestion_level": 0.6890057294749632,
+    "time_of_day": 13,
+    "timestamp": "2025-01-25T22:24:55.013723"
+  },
+  {
+    "vehicle_count": 118,
+    "average_speed": 61.704533509176194,
+    "congestion_level": 0.6383773022991778,
+    "time_of_day": 3,
+    "timestamp": "2025-01-25T22:24:56.055638"
+  },
+  {
+    "vehicle_count": 61,
+    "average_speed": 62.872225053417125,
+    "congestion_level": 0.6300889331095368,
+    "time_of_day": 9,
+    "timestamp": "2025-01-25T22:24:57.086885"
+  },
+  {
+    "vehicle_count": 33,
+    "average_speed": 115.20342622379835,
+    "congestion_level": 0.18246470869403894,
+    "time_of_day": 12,
+    "timestamp": "2025-01-25T22:24:58.100796"
+  },
+  {
+    "vehicle_count": 148,
+    "average_speed": 50.28788139333717,
+    "congestion_level": 0.6716030351467925,
+    "time_of_day": 22,
+    "timestamp": "2025-01-25T22:24:59.119473"
+  },
+  {
+    "vehicle_count": 108,
+    "average_speed": 63.23629666915072,
+    "congestion_level": 0.5963557207427426,
+    "time_of_day": 21,
+    "timestamp": "2025-01-25T22:25:00.133507"
+  },
+  {
+    "vehicle_count": 216,
+    "average_speed": 28.441224941251388,
+    "congestion_level": 0.809456244078471,
+    "time_of_day": 9,
+    "timestamp": "2025-01-25T22:25:01.173341"
+  },
+  {
+    "vehicle_count": 119,
+    "average_speed": 40.816876353139406,
+    "congestion_level": 0.35097013014070044,
+    "time_of_day": 3,
+    "timestamp": "2025-01-25T22:25:02.187182"
+  },
+  {
+    "vehicle_count": 56,
+    "average_speed": 43.71037286529119,
+    "congestion_level": 0.4214164929963372,
+    "time_of_day": 2,
+    "timestamp": "2025-01-25T22:25:03.201421"
+  },
+  {
+    "vehicle_count": 47,
+    "average_speed": 87.34669924432151,
+    "congestion_level": 0.10102982393923893,
+    "time_of_day": 8,
+    "timestamp": "2025-01-25T22:25:04.219062"
+  },
+  {
+    "vehicle_count": 123,
+    "average_speed": 16.718954242682358,
+    "congestion_level": 0.9998766148819924,
+    "time_of_day": 19,
+    "timestamp": "2025-01-25T22:25:05.233360"
+  },
+  {
+    "vehicle_count": 30,
+    "average_speed": 119.95825645314436,
+    "congestion_level": 0.25592781536446074,
+    "time_of_day": 0,
+    "timestamp": "2025-01-25T22:25:06.246719"
+  },
+  {
+    "vehicle_count": 95,
+    "average_speed": 44.23219001509762,
+    "congestion_level": 0.3795807226553647,
+    "time_of_day": 10,
+    "timestamp": "2025-01-25T22:25:07.260696"
+  },
+  {
+    "vehicle_count": 119,
+    "average_speed": 45.94666157632784,
+    "congestion_level": 0.3598516468166575,
+    "time_of_day": 19,
+    "timestamp": "2025-01-25T22:25:08.361574"
+  },
+  {
+    "vehicle_count": 95,
+    "average_speed": 53.53300792600479,
+    "congestion_level": 0.6951737376126352,
+    "time_of_day": 17,
+    "timestamp": "2025-01-25T22:25:09.382260"
+  },
+  {
+    "vehicle_count": 115,
+    "average_speed": 62.62094355015417,
+    "congestion_level": 0.44974139168347316,
+    "time_of_day": 9,
+    "timestamp": "2025-01-25T22:25:10.396373"
+  },
+  {
+    "vehicle_count": 96,
+    "average_speed": 17.792595561217652,
+    "congestion_level": 0.9670076702153237,
+    "time_of_day": 2,
+    "timestamp": "2025-01-25T22:25:11.412463"
+  },
+  {
+    "vehicle_count": 108,
+    "average_speed": 43.80738123613122,
+    "congestion_level": 0.46853632341131135,
+    "time_of_day": 9,
+    "timestamp": "2025-01-25T22:25:12.436279"
+  },
+  {
+    "vehicle_count": 141,
+    "average_speed": 50.09126866808161,
+    "congestion_level": 0.476898856545553,
+    "time_of_day": 15,
+    "timestamp": "2025-01-25T22:25:13.452520"
+  },
+  {
+    "vehicle_count": 165,
+    "average_speed": 25.006758286886544,
+    "congestion_level": 0.8232150997304754,
+    "time_of_day": 11,
+    "timestamp": "2025-01-25T22:25:17.093133"
+  },
+  {
+    "vehicle_count": 63,
+    "average_speed": 45.859379677770804,
+    "congestion_level": 0.38481766979863524,
+    "time_of_day": 11,
+    "timestamp": "2025-01-25T22:25:18.106645"
+  },
+  {
+    "vehicle_count": 144,
+    "average_speed": 18.090289273818037,
+    "congestion_level": 0.8129820038296465,
+    "time_of_day": 13,
+    "timestamp": "2025-01-25T22:25:19.122833"
+  },
+  {
+    "vehicle_count": 86,
+    "average_speed": 69.84142172628046,
+    "congestion_level": 0.6352133141832776,
+    "time_of_day": 19,
+    "timestamp": "2025-01-25T22:25:20.138802"
+  },
+  {
+    "vehicle_count": 88,
+    "average_speed": 66.15691593005312,
+    "congestion_level": 0.38709233229961354,
+    "time_of_day": 0,
+    "timestamp": "2025-01-25T22:25:21.163742"
+  },
+  {
+    "vehicle_count": 59,
+    "average_speed": 58.55957301593705,
+    "congestion_level": 0.5296347761871123,
+    "time_of_day": 0,
+    "timestamp": "2025-01-25T22:25:22.185300"
+  },
+  {
+    "vehicle_count": 50,
+    "average_speed": 59.18250146558168,
+    "congestion_level": 0.364207980066683,
+    "time_of_day": 5,
+    "timestamp": "2025-01-25T22:25:23.209242"
+  },
+  {
+    "vehicle_count": 97,
+    "average_speed": 55.050767978818726,
+    "congestion_level": 0.6584953379509667,
+    "time_of_day": 4,
+    "timestamp": "2025-01-25T22:25:24.224708"
+  },
+  {
+    "vehicle_count": 108,
+    "average_speed": 67.58772605292037,
+    "congestion_level": 0.6239960558985946,
+    "time_of_day": 6,
+    "timestamp": "2025-01-25T22:25:25.253692"
+  },
+  {
+    "vehicle_count": 68,
+    "average_speed": 66.6205319138106,
+    "congestion_level": 0.47448081928925234,
+    "time_of_day": 4,
+    "timestamp": "2025-01-25T22:25:26.267895"
+  },
+  {
+    "vehicle_count": 233,
+    "average_speed": 21.400671962057512,
+    "congestion_level": 0.7201891723805062,
+    "time_of_day": 23,
+    "timestamp": "2025-01-25T22:25:27.281015"
+  },
+  {
+    "vehicle_count": 25,
+    "average_speed": 98.40195102650513,
+    "congestion_level": 0.18020816406835816,
+    "time_of_day": 3,
+    "timestamp": "2025-01-25T22:25:28.299098"
+  },
+  {
+    "vehicle_count": 58,
+    "average_speed": 65.98539046810862,
+    "congestion_level": 0.6258033507715661,
+    "time_of_day": 1,
+    "timestamp": "2025-01-25T22:25:29.311872"
+  },
+  {
+    "vehicle_count": 128,
+    "average_speed": 65.68497300931878,
+    "congestion_level": 0.41903236463876736,
+    "time_of_day": 8,
+    "timestamp": "2025-01-25T22:25:30.325710"
+  },
+  {
+    "vehicle_count": 108,
+    "average_speed": 43.426905915315935,
+    "congestion_level": 0.39128331979375086,
+    "time_of_day": 19,
+    "timestamp": "2025-01-25T22:25:31.339962"
+  },
+  {
+    "vehicle_count": 54,
+    "average_speed": 65.74391161597451,
+    "congestion_level": 0.630239800754854,
+    "time_of_day": 2,
+    "timestamp": "2025-01-25T22:25:32.353057"
+  },
+  {
+    "vehicle_count": 59,
+    "average_speed": 46.20704051321991,
+    "congestion_level": 0.301150143157594,
+    "time_of_day": 16,
+    "timestamp": "2025-01-25T22:25:40.296680"
+  },
+  {
+    "vehicle_count": 137,
+    "average_speed": 56.681154885899346,
+    "congestion_level": 0.3889399918292158,
+    "time_of_day": 5,
+    "timestamp": "2025-01-25T22:25:41.310453"
+  },
+  {
+    "vehicle_count": 129,
+    "average_speed": 49.53680933362574,
+    "congestion_level": 0.532335803589562,
+    "time_of_day": 12,
+    "timestamp": "2025-01-25T22:25:42.329888"
+  },
+  {
+    "vehicle_count": 86,
+    "average_speed": 52.265902648341985,
+    "congestion_level": 0.5800843939710467,
+    "time_of_day": 13,
+    "timestamp": "2025-01-25T22:25:43.351312"
+  },
+  {
+    "vehicle_count": 138,
+    "average_speed": 54.05445731068782,
+    "congestion_level": 0.38074490718657755,
+    "time_of_day": 7,
+    "timestamp": "2025-01-25T22:25:44.382094"
+  },
+  {
+    "vehicle_count": 147,
+    "average_speed": 48.78855374184185,
+    "congestion_level": 0.5891764108159931,
+    "time_of_day": 10,
+    "timestamp": "2025-01-25T22:25:45.486940"
+  },
+  {
+    "vehicle_count": 58,
+    "average_speed": 49.38127173237537,
+    "congestion_level": 0.3097522251700696,
+    "time_of_day": 7,
+    "timestamp": "2025-01-25T22:25:46.505631"
+  },
+  {
+    "vehicle_count": 30,
+    "average_speed": 105.81635513052825,
+    "congestion_level": 0.10752843003710853,
+    "time_of_day": 0,
+    "timestamp": "2025-01-25T22:25:47.521502"
+  },
+  {
+    "vehicle_count": 91,
+    "average_speed": 59.94254439373353,
+    "congestion_level": 0.6578170659548561,
+    "time_of_day": 18,
+    "timestamp": "2025-01-25T22:25:48.535971"
+  },
+  {
+    "vehicle_count": 128,
+    "average_speed": 57.78803714983005,
+    "congestion_level": 0.3113438092717292,
+    "time_of_day": 23,
+    "timestamp": "2025-01-25T22:25:49.550043"
+  },
+  {
+    "vehicle_count": 52,
+    "average_speed": 51.529415317980565,
+    "congestion_level": 0.4843791229940316,
+    "time_of_day": 22,
+    "timestamp": "2025-01-25T22:25:50.564300"
+  },
+  {
+    "vehicle_count": 47,
+    "average_speed": 108.91544921316012,
+    "congestion_level": 0.14667642995649727,
+    "time_of_day": 12,
+    "timestamp": "2025-01-25T22:25:51.582845"
+  },
+  {
+    "vehicle_count": 83,
+    "average_speed": 68.74414062458355,
+    "congestion_level": 0.3359569290024802,
+    "time_of_day": 21,
+    "timestamp": "2025-01-25T22:25:52.595928"
+  },
+  {
+    "vehicle_count": 128,
+    "average_speed": 41.31924998386887,
+    "congestion_level": 0.3791921323332521,
+    "time_of_day": 19,
+    "timestamp": "2025-01-25T22:25:53.618393"
+  },
+  {
+    "vehicle_count": 105,
+    "average_speed": 13.183300642299306,
+    "congestion_level": 0.8003533741722217,
+    "time_of_day": 1,
+    "timestamp": "2025-01-25T22:25:54.646844"
+  },
+  {
+    "vehicle_count": 145,
+    "average_speed": 60.75594436428352,
+    "congestion_level": 0.6582915598648661,
+    "time_of_day": 15,
+    "timestamp": "2025-01-25T22:25:55.663557"
+  },
+  {
+    "vehicle_count": 118,
+    "average_speed": 40.75643925753369,
+    "congestion_level": 0.6740866629458401,
+    "time_of_day": 22,
+    "timestamp": "2025-01-25T22:25:56.691386"
+  },
+  {
+    "vehicle_count": 84,
+    "average_speed": 48.25097025430986,
+    "congestion_level": 0.35266289340979745,
+    "time_of_day": 6,
+    "timestamp": "2025-01-25T22:25:57.708158"
+  },
+  {
+    "vehicle_count": 49,
+    "average_speed": 84.71732228506849,
+    "congestion_level": 0.2552310697134489,
+    "time_of_day": 23,
+    "timestamp": "2025-01-25T22:25:58.725464"
+  },
+  {
+    "vehicle_count": 65,
+    "average_speed": 57.56891076258343,
+    "congestion_level": 0.6521833585540615,
+    "time_of_day": 9,
+    "timestamp": "2025-01-25T22:25:59.739965"
+  },
+  {
+    "vehicle_count": 95,
+    "average_speed": 17.68309087755838,
+    "congestion_level": 0.9783730418753858,
+    "time_of_day": 0,
+    "timestamp": "2025-01-25T22:26:00.767320"
+  },
+  {
+    "vehicle_count": 131,
+    "average_speed": 53.42827213461555,
+    "congestion_level": 0.3967689778224609,
+    "time_of_day": 18,
+    "timestamp": "2025-01-25T22:26:01.848008"
+  },
+  {
+    "vehicle_count": 92,
+    "average_speed": 68.50105533411461,
+    "congestion_level": 0.48025809256745744,
+    "time_of_day": 14,
+    "timestamp": "2025-01-25T22:26:02.883250"
+  },
+  {
+    "vehicle_count": 125,
+    "average_speed": 66.7952663776654,
+    "congestion_level": 0.6863028387906717,
+    "time_of_day": 1,
+    "timestamp": "2025-01-25T22:26:03.907218"
+  },
+  {
+    "vehicle_count": 86,
+    "average_speed": 50.89663008335751,
+    "congestion_level": 0.5289338015954822,
+    "time_of_day": 8,
+    "timestamp": "2025-01-25T22:26:04.920053"
+  },
+  {
+    "vehicle_count": 65,
+    "average_speed": 55.58165548518642,
+    "congestion_level": 0.44749471480472275,
+    "time_of_day": 23,
+    "timestamp": "2025-01-25T22:26:05.933527"
+  },
+  {
+    "vehicle_count": 28,
+    "average_speed": 111.35998159446831,
+    "congestion_level": 0.14337391430175567,
+    "time_of_day": 2,
+    "timestamp": "2025-01-25T22:26:06.969902"
+  },
+  {
+    "vehicle_count": 120,
+    "average_speed": 17.670539853438065,
+    "congestion_level": 0.8249702878871696,
+    "time_of_day": 13,
+    "timestamp": "2025-01-25T22:26:07.982660"
+  },
+  {
+    "vehicle_count": 147,
+    "average_speed": 43.774351330113085,
+    "congestion_level": 0.3868537247030339,
+    "time_of_day": 22,
+    "timestamp": "2025-01-25T22:26:09.014241"
+  },
+  {
+    "vehicle_count": 86,
+    "average_speed": 66.11867182750315,
+    "congestion_level": 0.5155688776609961,
+    "time_of_day": 23,
+    "timestamp": "2025-01-25T22:26:10.050152"
+  },
+  {
+    "vehicle_count": 39,
+    "average_speed": 95.70550628656727,
+    "congestion_level": 0.17125981773802032,
+    "time_of_day": 6,
+    "timestamp": "2025-01-25T22:26:11.081275"
+  },
+  {
+    "vehicle_count": 91,
+    "average_speed": 65.49546533891954,
+    "congestion_level": 0.3857080331291192,
+    "time_of_day": 7,
+    "timestamp": "2025-01-25T22:26:12.111766"
+  },
+  {
+    "vehicle_count": 101,
+    "average_speed": 48.90675985126222,
+    "congestion_level": 0.6511854955124552,
+    "time_of_day": 3,
+    "timestamp": "2025-01-25T22:26:13.126319"
+  },
+  {
+    "vehicle_count": 216,
+    "average_speed": 26.691796852670386,
+    "congestion_level": 0.8581000863016255,
+    "time_of_day": 22,
+    "timestamp": "2025-01-25T22:26:14.139901"
+  },
+  {
+    "vehicle_count": 142,
+    "average_speed": 46.65637811688439,
+    "congestion_level": 0.449389362570165,
+    "time_of_day": 0,
+    "timestamp": "2025-01-25T22:26:15.152645"
+  },
+  {
+    "vehicle_count": 138,
+    "average_speed": 52.39255509902438,
+    "congestion_level": 0.5746192090088604,
+    "time_of_day": 13,
+    "timestamp": "2025-01-25T22:26:16.181754"
+  },
+  {
+    "vehicle_count": 147,
+    "average_speed": 53.79716770004819,
+    "congestion_level": 0.5941954703718094,
+    "time_of_day": 13,
+    "timestamp": "2025-01-25T22:26:17.218341"
+  },
+  {
+    "vehicle_count": 122,
+    "average_speed": 46.89148178887974,
+    "congestion_level": 0.3358015890410131,
+    "time_of_day": 2,
+    "timestamp": "2025-01-25T22:26:18.231495"
+  },
+  {
+    "vehicle_count": 21,
+    "average_speed": 104.394388315832,
+    "congestion_level": 0.163943462686553,
+    "time_of_day": 22,
+    "timestamp": "2025-01-25T22:26:19.253985"
+  },
+  {
+    "vehicle_count": 76,
+    "average_speed": 48.56759528765199,
+    "congestion_level": 0.4083839255400161,
+    "time_of_day": 10,
+    "timestamp": "2025-01-25T22:26:20.282102"
+  },
+  {
+    "vehicle_count": 104,
+    "average_speed": 41.79900581914319,
+    "congestion_level": 0.5978853626611014,
+    "time_of_day": 19,
+    "timestamp": "2025-01-25T22:26:21.311817"
+  },
+  {
+    "vehicle_count": 63,
+    "average_speed": 47.85319645826164,
+    "congestion_level": 0.48391500323357317,
+    "time_of_day": 21,
+    "timestamp": "2025-01-25T22:26:22.348422"
+  },
+  {
+    "vehicle_count": 83,
+    "average_speed": 48.665364085504784,
+    "congestion_level": 0.6415243543577512,
+    "time_of_day": 10,
+    "timestamp": "2025-01-25T22:26:23.363666"
+  },
+  {
+    "vehicle_count": 50,
+    "average_speed": 60.64816482939976,
+    "congestion_level": 0.39171510294865486,
+    "time_of_day": 12,
+    "timestamp": "2025-01-25T22:26:24.392176"
+  },
+  {
+    "vehicle_count": 119,
+    "average_speed": 42.14928340217333,
+    "congestion_level": 0.3480967933765291,
+    "time_of_day": 8,
+    "timestamp": "2025-01-25T22:26:25.422516"
+  },
+  {
+    "vehicle_count": 68,
+    "average_speed": 54.76028958432677,
+    "congestion_level": 0.5035388218831546,
+    "time_of_day": 15,
+    "timestamp": "2025-01-25T22:26:26.452108"
+  },
+  {
+    "vehicle_count": 101,
+    "average_speed": 59.74404697071584,
+    "congestion_level": 0.617654276237376,
+    "time_of_day": 22,
+    "timestamp": "2025-01-25T22:26:27.483302"
+  },
+  {
+    "vehicle_count": 67,
+    "average_speed": 43.74227851451998,
+    "congestion_level": 0.5159820985158581,
+    "time_of_day": 6,
+    "timestamp": "2025-01-25T22:26:28.495733"
+  },
+  {
+    "vehicle_count": 71,
+    "average_speed": 61.20846534047301,
+    "congestion_level": 0.3465480546848624,
+    "time_of_day": 20,
+    "timestamp": "2025-01-25T22:26:29.510058"
+  },
+  {
+    "vehicle_count": 44,
+    "average_speed": 108.61134763253261,
+    "congestion_level": 0.23718915677378918,
+    "time_of_day": 20,
+    "timestamp": "2025-01-25T22:26:30.524270"
+  },
+  {
+    "vehicle_count": 93,
+    "average_speed": 61.89905681026106,
+    "congestion_level": 0.44973936224037786,
+    "time_of_day": 20,
+    "timestamp": "2025-01-25T22:26:31.542142"
+  },
+  {
+    "vehicle_count": 110,
+    "average_speed": 45.73518510606033,
+    "congestion_level": 0.4028968266688585,
+    "time_of_day": 23,
+    "timestamp": "2025-01-25T22:26:32.576047"
+  },
+  {
+    "vehicle_count": 77,
+    "average_speed": 69.33472299143253,
+    "congestion_level": 0.572462746799273,
+    "time_of_day": 19,
+    "timestamp": "2025-01-25T22:26:33.596056"
+  },
+  {
+    "vehicle_count": 154,
+    "average_speed": 24.115390038624472,
+    "congestion_level": 0.8296334014383114,
+    "time_of_day": 11,
+    "timestamp": "2025-01-25T22:26:34.626426"
+  },
+  {
+    "vehicle_count": 99,
+    "average_speed": 49.39293427105213,
+    "congestion_level": 0.5427223357088368,
+    "time_of_day": 0,
+    "timestamp": "2025-01-25T22:26:35.655830"
+  },
+  {
+    "vehicle_count": 146,
+    "average_speed": 45.762745314160966,
+    "congestion_level": 0.620913041947595,
+    "time_of_day": 19,
+    "timestamp": "2025-01-25T22:26:36.680661"
+  },
+  {
+    "vehicle_count": 84,
+    "average_speed": 58.38110094521478,
+    "congestion_level": 0.3718771901331526,
+    "time_of_day": 8,
+    "timestamp": "2025-01-25T22:26:37.715426"
+  },
+  {
+    "vehicle_count": 22,
+    "average_speed": 81.53561565073215,
+    "congestion_level": 0.2614757277490487,
+    "time_of_day": 15,
+    "timestamp": "2025-01-25T22:26:38.743701"
+  },
+  {
+    "vehicle_count": 138,
+    "average_speed": 57.117946382379074,
+    "congestion_level": 0.533205119635282,
+    "time_of_day": 18,
+    "timestamp": "2025-01-25T22:26:39.762630"
+  },
+  {
+    "vehicle_count": 223,
+    "average_speed": 23.882715770643212,
+    "congestion_level": 0.7372626267425861,
+    "time_of_day": 23,
+    "timestamp": "2025-01-25T22:26:40.792156"
+  },
+  {
+    "vehicle_count": 126,
+    "average_speed": 17.63623989099515,
+    "congestion_level": 0.8122608077693441,
+    "time_of_day": 12,
+    "timestamp": "2025-01-25T22:26:41.818834"
+  },
+  {
+    "vehicle_count": 85,
+    "average_speed": 41.00232284773988,
+    "congestion_level": 0.5425126099457318,
+    "time_of_day": 21,
+    "timestamp": "2025-01-25T22:26:42.850869"
+  },
+  {
+    "vehicle_count": 147,
+    "average_speed": 55.54768809302675,
+    "congestion_level": 0.4226406587412332,
+    "time_of_day": 20,
+    "timestamp": "2025-01-25T22:26:43.864011"
+  },
+  {
+    "vehicle_count": 131,
+    "average_speed": 46.94341809602369,
+    "congestion_level": 0.3900652511093179,
+    "time_of_day": 15,
+    "timestamp": "2025-01-25T22:26:44.879198"
+  },
+  {
+    "vehicle_count": 45,
+    "average_speed": 117.95879551973988,
+    "congestion_level": 0.23459281174349042,
+    "time_of_day": 11,
+    "timestamp": "2025-01-25T22:26:45.891830"
+  },
+  {
+    "vehicle_count": 142,
+    "average_speed": 50.46724286941155,
+    "congestion_level": 0.6306711083341948,
+    "time_of_day": 7,
+    "timestamp": "2025-01-25T22:26:46.919679"
+  },
+  {
+    "vehicle_count": 91,
+    "average_speed": 66.49628908629774,
+    "congestion_level": 0.6356911830881101,
+    "time_of_day": 16,
+    "timestamp": "2025-01-25T22:26:47.955955"
+  },
+  {
+    "vehicle_count": 150,
+    "average_speed": 43.28450791073013,
+    "congestion_level": 0.31199315412346484,
+    "time_of_day": 0,
+    "timestamp": "2025-01-25T22:26:48.978782"
+  },
+  {
+    "vehicle_count": 89,
+    "average_speed": 58.196757454353715,
+    "congestion_level": 0.3120500738359428,
+    "time_of_day": 22,
+    "timestamp": "2025-01-25T22:26:50.006517"
+  },
+  {
+    "vehicle_count": 66,
+    "average_speed": 45.93158944069174,
+    "congestion_level": 0.3595825136852081,
+    "time_of_day": 10,
+    "timestamp": "2025-01-25T22:26:51.032463"
+  },
+  {
+    "vehicle_count": 103,
+    "average_speed": 56.56619295827973,
+    "congestion_level": 0.5483082989547603,
+    "time_of_day": 22,
+    "timestamp": "2025-01-25T22:26:52.061701"
+  },
+  {
+    "vehicle_count": 73,
+    "average_speed": 59.95998518784782,
+    "congestion_level": 0.5412223047350015,
+    "time_of_day": 6,
+    "timestamp": "2025-01-25T22:26:53.097410"
+  },
+  {
+    "vehicle_count": 45,
+    "average_speed": 97.10653380915167,
+    "congestion_level": 0.28559302402330966,
+    "time_of_day": 1,
+    "timestamp": "2025-01-25T22:26:54.116370"
+  },
+  {
+    "vehicle_count": 150,
+    "average_speed": 56.4584174803451,
+    "congestion_level": 0.4874170252767914,
+    "time_of_day": 1,
+    "timestamp": "2025-01-25T22:26:55.145125"
+  },
+  {
+    "vehicle_count": 111,
+    "average_speed": 50.432034097450526,
+    "congestion_level": 0.563246772536377,
+    "time_of_day": 17,
+    "timestamp": "2025-01-25T22:26:56.174321"
+  },
+  {
+    "vehicle_count": 102,
+    "average_speed": 54.56627141770748,
+    "congestion_level": 0.3398029166799482,
+    "time_of_day": 19,
+    "timestamp": "2025-01-25T22:26:57.195835"
+  },
+  {
+    "vehicle_count": 94,
+    "average_speed": 69.04299607065589,
+    "congestion_level": 0.6020311714190885,
+    "time_of_day": 16,
+    "timestamp": "2025-01-25T22:26:58.217195"
+  },
+  {
+    "vehicle_count": 64,
+    "average_speed": 65.01769396121145,
+    "congestion_level": 0.4967217163165346,
+    "time_of_day": 14,
+    "timestamp": "2025-01-25T22:26:59.232179"
+  },
+  {
+    "vehicle_count": 40,
+    "average_speed": 109.82384627078893,
+    "congestion_level": 0.14717901630973204,
+    "time_of_day": 20,
+    "timestamp": "2025-01-25T22:27:00.246939"
+  },
+  {
+    "vehicle_count": 147,
+    "average_speed": 49.25989192766194,
+    "congestion_level": 0.6848179356712977,
+    "time_of_day": 21,
+    "timestamp": "2025-01-25T22:27:01.277557"
+  },
+  {
+    "vehicle_count": 116,
+    "average_speed": 67.86586481970997,
+    "congestion_level": 0.43135157650101286,
+    "time_of_day": 5,
+    "timestamp": "2025-01-25T22:27:02.307060"
+  },
+  {
+    "vehicle_count": 97,
+    "average_speed": 57.67894079173463,
+    "congestion_level": 0.6282262500299163,
+    "time_of_day": 6,
+    "timestamp": "2025-01-25T22:27:03.343218"
+  },
+  {
+    "vehicle_count": 88,
+    "average_speed": 59.11688175809803,
+    "congestion_level": 0.605735907919511,
+    "time_of_day": 3,
+    "timestamp": "2025-01-25T22:27:04.364480"
+  },
+  {
+    "vehicle_count": 102,
+    "average_speed": 53.42103032041675,
+    "congestion_level": 0.5591483141929531,
+    "time_of_day": 6,
+    "timestamp": "2025-01-25T22:27:05.395407"
+  },
+  {
+    "vehicle_count": 119,
+    "average_speed": 9.000423947370194,
+    "congestion_level": 0.8820445255243204,
+    "time_of_day": 23,
+    "timestamp": "2025-01-25T22:27:06.420693"
+  },
+  {
+    "vehicle_count": 98,
+    "average_speed": 41.428486858971375,
+    "congestion_level": 0.442992616054104,
+    "time_of_day": 1,
+    "timestamp": "2025-01-25T22:27:07.450082"
+  },
+  {
+    "vehicle_count": 73,
+    "average_speed": 42.61197360210657,
+    "congestion_level": 0.5788863597497313,
+    "time_of_day": 16,
+    "timestamp": "2025-01-25T22:27:08.486726"
+  },
+  {
+    "vehicle_count": 162,
+    "average_speed": 34.23775266833708,
+    "congestion_level": 0.7019314635413985,
+    "time_of_day": 9,
+    "timestamp": "2025-01-25T22:27:09.500550"
+  },
+  {
+    "vehicle_count": 98,
+    "average_speed": 46.00915864899589,
+    "congestion_level": 0.6624280763830578,
+    "time_of_day": 10,
+    "timestamp": "2025-01-25T22:27:10.529204"
+  },
+  {
+    "vehicle_count": 116,
+    "average_speed": 68.13753880822415,
+    "congestion_level": 0.5889912707870057,
+    "time_of_day": 19,
+    "timestamp": "2025-01-25T22:27:11.554441"
+  },
+  {
+    "vehicle_count": 91,
+    "average_speed": 68.32731863246582,
+    "congestion_level": 0.6614178378117903,
+    "time_of_day": 1,
+    "timestamp": "2025-01-25T22:27:12.583636"
+  },
+  {
+    "vehicle_count": 105,
+    "average_speed": 54.996697276569876,
+    "congestion_level": 0.4213370187320191,
+    "time_of_day": 8,
+    "timestamp": "2025-01-25T22:27:13.614003"
+  },
+  {
+    "vehicle_count": 118,
+    "average_speed": 50.743969794516005,
+    "congestion_level": 0.5434269920466421,
+    "time_of_day": 8,
+    "timestamp": "2025-01-25T22:27:14.633014"
+  },
+  {
+    "vehicle_count": 115,
+    "average_speed": 54.57352887560395,
+    "congestion_level": 0.46027133208836113,
+    "time_of_day": 7,
+    "timestamp": "2025-01-25T22:27:15.646975"
+  },
+  {
+    "vehicle_count": 139,
+    "average_speed": 51.72299154101093,
+    "congestion_level": 0.6269495124007334,
+    "time_of_day": 19,
+    "timestamp": "2025-01-25T22:27:16.666665"
+  },
+  {
+    "vehicle_count": 88,
+    "average_speed": 60.02891429034229,
+    "congestion_level": 0.30793530552331033,
+    "time_of_day": 14,
+    "timestamp": "2025-01-25T22:27:17.692233"
+  },
+  {
+    "vehicle_count": 61,
+    "average_speed": 61.51385073115697,
+    "congestion_level": 0.47055216321286863,
+    "time_of_day": 12,
+    "timestamp": "2025-01-25T22:27:18.728050"
+  },
+  {
+    "vehicle_count": 70,
+    "average_speed": 66.74500576765996,
+    "congestion_level": 0.6914803284302636,
+    "time_of_day": 3,
+    "timestamp": "2025-01-25T22:27:19.756684"
+  },
+  {
+    "vehicle_count": 88,
+    "average_speed": 57.82515698280778,
+    "congestion_level": 0.5995416810261822,
+    "time_of_day": 16,
+    "timestamp": "2025-01-25T22:27:20.784770"
+  },
+  {
+    "vehicle_count": 145,
+    "average_speed": 17.390612896105033,
+    "congestion_level": 0.8164703353867756,
+    "time_of_day": 12,
+    "timestamp": "2025-01-25T22:27:21.814960"
+  },
+  {
+    "vehicle_count": 72,
+    "average_speed": 51.69617797274778,
+    "congestion_level": 0.45762585471693806,
+    "time_of_day": 13,
+    "timestamp": "2025-01-25T22:27:22.845573"
+  },
+  {
+    "vehicle_count": 71,
+    "average_speed": 58.98175148750617,
+    "congestion_level": 0.4554618410396882,
+    "time_of_day": 2,
+    "timestamp": "2025-01-25T22:27:23.882482"
+  },
+  {
+    "vehicle_count": 100,
+    "average_speed": 67.07611889980794,
+    "congestion_level": 0.39193219234135,
+    "time_of_day": 22,
+    "timestamp": "2025-01-25T22:27:24.911098"
+  },
+  {
+    "vehicle_count": 85,
+    "average_speed": 41.13323053467246,
+    "congestion_level": 0.5231771344898954,
+    "time_of_day": 6,
+    "timestamp": "2025-01-25T22:27:25.940815"
+  },
+  {
+    "vehicle_count": 96,
+    "average_speed": 49.64826338630507,
+    "congestion_level": 0.37100348640991176,
+    "time_of_day": 22,
+    "timestamp": "2025-01-25T22:27:26.969857"
+  },
+  {
+    "vehicle_count": 120,
+    "average_speed": 54.69876593903489,
+    "congestion_level": 0.594695620429599,
+    "time_of_day": 21,
+    "timestamp": "2025-01-25T22:27:28.000616"
+  },
+  {
+    "vehicle_count": 148,
+    "average_speed": 43.73526515030025,
+    "congestion_level": 0.5733869217573921,
+    "time_of_day": 12,
+    "timestamp": "2025-01-25T22:27:29.037826"
+  },
+  {
+    "vehicle_count": 33,
+    "average_speed": 117.84081917507756,
+    "congestion_level": 0.1977504088099763,
+    "time_of_day": 4,
+    "timestamp": "2025-01-25T22:27:30.058538"
+  },
+  {
+    "vehicle_count": 84,
+    "average_speed": 68.98488418001942,
+    "congestion_level": 0.5508481132527893,
+    "time_of_day": 4,
+    "timestamp": "2025-01-25T22:27:31.075163"
+  },
+  {
+    "vehicle_count": 80,
+    "average_speed": 46.85618735553312,
+    "congestion_level": 0.6631499872866448,
+    "time_of_day": 23,
+    "timestamp": "2025-01-25T22:27:32.093525"
+  },
+  {
+    "vehicle_count": 75,
+    "average_speed": 50.30487353454397,
+    "congestion_level": 0.5499120221341004,
+    "time_of_day": 5,
+    "timestamp": "2025-01-25T22:27:33.106694"
+  },
+  {
+    "vehicle_count": 89,
+    "average_speed": 53.72903910195942,
+    "congestion_level": 0.35351618144755736,
+    "time_of_day": 19,
+    "timestamp": "2025-01-25T22:27:34.138601"
+  },
+  {
+    "vehicle_count": 102,
+    "average_speed": 66.93397858291463,
+    "congestion_level": 0.6106326293235291,
+    "time_of_day": 5,
+    "timestamp": "2025-01-25T22:27:35.155273"
+  },
+  {
+    "vehicle_count": 62,
+    "average_speed": 41.184555562352166,
+    "congestion_level": 0.5532870298163295,
+    "time_of_day": 10,
+    "timestamp": "2025-01-25T22:27:36.169649"
+  },
+  {
+    "vehicle_count": 58,
+    "average_speed": 49.013969069797554,
+    "congestion_level": 0.49456465777562597,
+    "time_of_day": 6,
+    "timestamp": "2025-01-25T22:27:37.189650"
+  },
+  {
+    "vehicle_count": 237,
+    "average_speed": 30.631531004084398,
+    "congestion_level": 0.7287758720124045,
+    "time_of_day": 3,
+    "timestamp": "2025-01-25T22:27:38.208039"
+  },
+  {
+    "vehicle_count": 112,
+    "average_speed": 57.62940945577605,
+    "congestion_level": 0.5453648584559811,
+    "time_of_day": 20,
+    "timestamp": "2025-01-25T22:27:39.228707"
+  },
+  {
+    "vehicle_count": 89,
+    "average_speed": 66.17785108128584,
+    "congestion_level": 0.6249099562132594,
+    "time_of_day": 12,
+    "timestamp": "2025-01-25T22:27:40.248674"
+  },
+  {
+    "vehicle_count": 112,
+    "average_speed": 51.97978300033047,
+    "congestion_level": 0.4830825077939676,
+    "time_of_day": 11,
+    "timestamp": "2025-01-25T22:27:41.264929"
+  },
+  {
+    "vehicle_count": 106,
+    "average_speed": 48.81559323720838,
+    "congestion_level": 0.5850778275425634,
+    "time_of_day": 9,
+    "timestamp": "2025-01-25T22:27:42.281205"
+  },
+  {
+    "vehicle_count": 138,
+    "average_speed": 61.98497070391943,
+    "congestion_level": 0.4173227370481698,
+    "time_of_day": 12,
+    "timestamp": "2025-01-25T22:27:43.309200"
+  },
+  {
+    "vehicle_count": 30,
+    "average_speed": 91.31797270677322,
+    "congestion_level": 0.1409887286272818,
+    "time_of_day": 5,
+    "timestamp": "2025-01-25T22:27:44.327186"
+  },
+  {
+    "vehicle_count": 51,
+    "average_speed": 49.940500355568105,
+    "congestion_level": 0.42428689767977135,
+    "time_of_day": 13,
+    "timestamp": "2025-01-25T22:27:45.350927"
+  },
+  {
+    "vehicle_count": 89,
+    "average_speed": 67.35469779566219,
+    "congestion_level": 0.542509504670349,
+    "time_of_day": 22,
+    "timestamp": "2025-01-25T22:27:46.372154"
+  },
+  {
+    "vehicle_count": 138,
+    "average_speed": 56.01300508047292,
+    "congestion_level": 0.6696372811042638,
+    "time_of_day": 20,
+    "timestamp": "2025-01-25T22:27:47.389418"
+  },
+  {
+    "vehicle_count": 88,
+    "average_speed": 57.17735895554503,
+    "congestion_level": 0.5155845134202947,
+    "time_of_day": 8,
+    "timestamp": "2025-01-25T22:27:48.401813"
+  },
+  {
+    "vehicle_count": 59,
+    "average_speed": 62.153527829623954,
+    "congestion_level": 0.6636904948834166,
+    "time_of_day": 14,
+    "timestamp": "2025-01-25T22:27:49.434729"
+  },
+  {
+    "vehicle_count": 87,
+    "average_speed": 66.82153505298822,
+    "congestion_level": 0.45427816222830397,
+    "time_of_day": 4,
+    "timestamp": "2025-01-25T22:27:50.466454"
+  },
+  {
+    "vehicle_count": 48,
+    "average_speed": 99.79421936384696,
+    "congestion_level": 0.24075692450091354,
+    "time_of_day": 8,
+    "timestamp": "2025-01-25T22:27:51.498345"
+  },
+  {
+    "vehicle_count": 113,
+    "average_speed": 42.562967649470096,
+    "congestion_level": 0.4234348748577253,
+    "time_of_day": 11,
+    "timestamp": "2025-01-25T22:27:52.525572"
+  },
+  {
+    "vehicle_count": 244,
+    "average_speed": 27.00814651099742,
+    "congestion_level": 0.7945187214615104,
+    "time_of_day": 15,
+    "timestamp": "2025-01-25T22:27:53.554388"
+  },
+  {
+    "vehicle_count": 98,
+    "average_speed": 61.53326918722734,
+    "congestion_level": 0.5521560206314287,
+    "time_of_day": 21,
+    "timestamp": "2025-01-25T22:27:54.590185"
+  },
+  {
+    "vehicle_count": 147,
+    "average_speed": 44.193856927026886,
+    "congestion_level": 0.6247693572788431,
+    "time_of_day": 23,
+    "timestamp": "2025-01-25T22:27:55.621348"
+  },
+  {
+    "vehicle_count": 238,
+    "average_speed": 24.07559695594556,
+    "congestion_level": 0.7241675555573405,
+    "time_of_day": 5,
+    "timestamp": "2025-01-25T22:27:56.639068"
+  },
+  {
+    "vehicle_count": 112,
+    "average_speed": 60.150753948328784,
+    "congestion_level": 0.33284780561665184,
+    "time_of_day": 3,
+    "timestamp": "2025-01-25T22:27:57.652728"
+  },
+  {
+    "vehicle_count": 83,
+    "average_speed": 54.907818582789524,
+    "congestion_level": 0.49484321357540934,
+    "time_of_day": 17,
+    "timestamp": "2025-01-25T22:27:58.685242"
+  },
+  {
+    "vehicle_count": 124,
+    "average_speed": 41.44950123526682,
+    "congestion_level": 0.5909175095823471,
+    "time_of_day": 7,
+    "timestamp": "2025-01-25T22:27:59.720913"
+  },
+  {
+    "vehicle_count": 126,
+    "average_speed": 41.90501681362243,
+    "congestion_level": 0.3881634565436265,
+    "time_of_day": 4,
+    "timestamp": "2025-01-25T22:28:00.750330"
+  },
+  {
+    "vehicle_count": 20,
+    "average_speed": 115.32747134989475,
+    "congestion_level": 0.2948941826116699,
+    "time_of_day": 23,
+    "timestamp": "2025-01-25T22:28:01.779452"
+  },
+  {
+    "vehicle_count": 57,
+    "average_speed": 51.728223567182866,
+    "congestion_level": 0.6134626950985609,
+    "time_of_day": 20,
+    "timestamp": "2025-01-25T22:28:02.803238"
+  },
+  {
+    "vehicle_count": 148,
+    "average_speed": 66.80627606760045,
+    "congestion_level": 0.596029715229597,
+    "time_of_day": 19,
+    "timestamp": "2025-01-25T22:28:03.820335"
+  },
+  {
+    "vehicle_count": 98,
+    "average_speed": 64.09938150167126,
+    "congestion_level": 0.5204723189356849,
+    "time_of_day": 20,
+    "timestamp": "2025-01-25T22:28:04.839829"
+  },
+  {
+    "vehicle_count": 62,
+    "average_speed": 48.5088942228132,
+    "congestion_level": 0.5947324047433216,
+    "time_of_day": 19,
+    "timestamp": "2025-01-25T22:28:05.856930"
+  },
+  {
+    "vehicle_count": 104,
+    "average_speed": 8.227839721053915,
+    "congestion_level": 0.9633020618245078,
+    "time_of_day": 15,
+    "timestamp": "2025-01-25T22:28:06.878240"
+  },
+  {
+    "vehicle_count": 105,
+    "average_speed": 18.04469758821469,
+    "congestion_level": 0.8355537683898262,
+    "time_of_day": 1,
+    "timestamp": "2025-01-25T22:28:07.906027"
+  },
+  {
+    "vehicle_count": 25,
+    "average_speed": 111.54467362503894,
+    "congestion_level": 0.19650884739215618,
+    "time_of_day": 2,
+    "timestamp": "2025-01-25T22:28:08.935929"
+  },
+  {
+    "vehicle_count": 194,
+    "average_speed": 20.9073445723249,
+    "congestion_level": 0.790344949712129,
+    "time_of_day": 15,
+    "timestamp": "2025-01-25T22:28:09.972258"
+  },
+  {
+    "vehicle_count": 98,
+    "average_speed": 63.417349877616275,
+    "congestion_level": 0.32036663779544744,
+    "time_of_day": 0,
+    "timestamp": "2025-01-25T22:28:10.990005"
+  },
+  {
+    "vehicle_count": 71,
+    "average_speed": 63.0613960303406,
+    "congestion_level": 0.688145467006025,
+    "time_of_day": 7,
+    "timestamp": "2025-01-25T22:28:12.002715"
+  },
+  {
+    "vehicle_count": 64,
+    "average_speed": 46.060922379587524,
+    "congestion_level": 0.3155100144678485,
+    "time_of_day": 14,
+    "timestamp": "2025-01-25T22:28:13.033385"
+  },
+  {
+    "vehicle_count": 145,
+    "average_speed": 55.824939164652484,
+    "congestion_level": 0.3827894973687923,
+    "time_of_day": 15,
+    "timestamp": "2025-01-25T22:28:14.062554"
+  },
+  {
+    "vehicle_count": 175,
+    "average_speed": 30.09431687522211,
+    "congestion_level": 0.7281432518770727,
+    "time_of_day": 20,
+    "timestamp": "2025-01-25T22:28:15.095248"
+  },
+  {
+    "vehicle_count": 104,
+    "average_speed": 67.18325124248031,
+    "congestion_level": 0.4381478933818786,
+    "time_of_day": 3,
+    "timestamp": "2025-01-25T22:28:16.120908"
+  },
+  {
+    "vehicle_count": 76,
+    "average_speed": 50.34723203030107,
+    "congestion_level": 0.36962446629884954,
+    "time_of_day": 6,
+    "timestamp": "2025-01-25T22:28:17.151093"
+  },
+  {
+    "vehicle_count": 136,
+    "average_speed": 15.037074048939978,
+    "congestion_level": 0.9911163120746402,
+    "time_of_day": 7,
+    "timestamp": "2025-01-25T22:28:18.167681"
+  },
+  {
+    "vehicle_count": 83,
+    "average_speed": 50.567788242778015,
+    "congestion_level": 0.6999049435762222,
+    "time_of_day": 11,
+    "timestamp": "2025-01-25T22:28:19.185949"
+  },
+  {
+    "vehicle_count": 120,
+    "average_speed": 57.55098277613769,
+    "congestion_level": 0.6856510161858149,
+    "time_of_day": 12,
+    "timestamp": "2025-01-25T22:28:20.210750"
+  },
+  {
+    "vehicle_count": 149,
+    "average_speed": 56.56763627178587,
+    "congestion_level": 0.5136505516045454,
+    "time_of_day": 0,
+    "timestamp": "2025-01-25T22:28:21.223589"
+  },
+  {
+    "vehicle_count": 131,
+    "average_speed": 51.325253277674875,
+    "congestion_level": 0.572250862534669,
+    "time_of_day": 22,
+    "timestamp": "2025-01-25T22:28:22.241848"
+  },
+  {
+    "vehicle_count": 144,
+    "average_speed": 56.53756422925949,
+    "congestion_level": 0.5926692353846781,
+    "time_of_day": 5,
+    "timestamp": "2025-01-25T22:28:23.261162"
+  },
+  {
+    "vehicle_count": 103,
+    "average_speed": 11.064935886515618,
+    "congestion_level": 0.8347760552469377,
+    "time_of_day": 11,
+    "timestamp": "2025-01-25T22:28:24.291373"
+  },
+  {
+    "vehicle_count": 139,
+    "average_speed": 16.305498891049496,
+    "congestion_level": 0.9991753883840752,
+    "time_of_day": 0,
+    "timestamp": "2025-01-25T22:28:25.330449"
+  },
+  {
+    "vehicle_count": 119,
+    "average_speed": 49.15871999792665,
+    "congestion_level": 0.5437994994389848,
+    "time_of_day": 4,
+    "timestamp": "2025-01-25T22:28:26.343089"
+  },
+  {
+    "vehicle_count": 112,
+    "average_speed": 63.31968726504647,
+    "congestion_level": 0.6478845258559802,
+    "time_of_day": 17,
+    "timestamp": "2025-01-25T22:28:27.371971"
+  },
+  {
+    "vehicle_count": 90,
+    "average_speed": 63.24658993828301,
+    "congestion_level": 0.5020410337579946,
+    "time_of_day": 18,
+    "timestamp": "2025-01-25T22:28:28.402219"
+  },
+  {
+    "vehicle_count": 143,
+    "average_speed": 44.65145090685255,
+    "congestion_level": 0.41731941100689124,
+    "time_of_day": 23,
+    "timestamp": "2025-01-25T22:28:29.432923"
+  },
+  {
+    "vehicle_count": 129,
+    "average_speed": 65.65026965400631,
+    "congestion_level": 0.4073737949916617,
+    "time_of_day": 13,
+    "timestamp": "2025-01-25T22:28:30.470496"
+  },
+  {
+    "vehicle_count": 98,
+    "average_speed": 44.89529714667809,
+    "congestion_level": 0.6169353594897802,
+    "time_of_day": 4,
+    "timestamp": "2025-01-25T22:28:31.503432"
+  },
+  {
+    "vehicle_count": 47,
+    "average_speed": 93.76969044640326,
+    "congestion_level": 0.14616544615250424,
+    "time_of_day": 19,
+    "timestamp": "2025-01-25T22:28:32.525830"
+  },
+  {
+    "vehicle_count": 129,
+    "average_speed": 43.192301320436854,
+    "congestion_level": 0.3398738410491504,
+    "time_of_day": 5,
+    "timestamp": "2025-01-25T22:28:33.547795"
+  },
+  {
+    "vehicle_count": 120,
+    "average_speed": 68.7382923921399,
+    "congestion_level": 0.5958278567186475,
+    "time_of_day": 21,
+    "timestamp": "2025-01-25T22:28:34.575107"
+  },
+  {
+    "vehicle_count": 70,
+    "average_speed": 59.47533216787016,
+    "congestion_level": 0.42551900065377496,
+    "time_of_day": 4,
+    "timestamp": "2025-01-25T22:28:35.595002"
+  },
+  {
+    "vehicle_count": 85,
+    "average_speed": 61.30881740716126,
+    "congestion_level": 0.6954672761723569,
+    "time_of_day": 6,
+    "timestamp": "2025-01-25T22:28:36.607764"
+  },
+  {
+    "vehicle_count": 106,
+    "average_speed": 53.34549486868389,
+    "congestion_level": 0.6035841124282038,
+    "time_of_day": 12,
+    "timestamp": "2025-01-25T22:28:37.623721"
+  },
+  {
+    "vehicle_count": 68,
+    "average_speed": 57.47779488824675,
+    "congestion_level": 0.43826024016147413,
+    "time_of_day": 11,
+    "timestamp": "2025-01-25T22:28:38.637509"
+  },
+  {
+    "vehicle_count": 129,
+    "average_speed": 68.78302185619907,
+    "congestion_level": 0.6108512553280571,
+    "time_of_day": 4,
+    "timestamp": "2025-01-25T22:28:39.651869"
+  },
+  {
+    "vehicle_count": 78,
+    "average_speed": 60.86667426917212,
+    "congestion_level": 0.39925652505568454,
+    "time_of_day": 0,
+    "timestamp": "2025-01-25T22:28:40.690116"
+  },
+  {
+    "vehicle_count": 83,
+    "average_speed": 48.17265548586798,
+    "congestion_level": 0.5777336217283339,
+    "time_of_day": 23,
+    "timestamp": "2025-01-25T22:28:41.718330"
+  },
+  {
+    "vehicle_count": 149,
+    "average_speed": 51.005585899601286,
+    "congestion_level": 0.5899063174559123,
+    "time_of_day": 1,
+    "timestamp": "2025-01-25T22:28:42.738664"
+  },
+  {
+    "vehicle_count": 58,
+    "average_speed": 66.42971958509213,
+    "congestion_level": 0.39693343064233544,
+    "time_of_day": 23,
+    "timestamp": "2025-01-25T22:28:43.767345"
+  },
+  {
+    "vehicle_count": 135,
+    "average_speed": 49.04560128086905,
+    "congestion_level": 0.576251926468109,
+    "time_of_day": 1,
+    "timestamp": "2025-01-25T22:28:44.789135"
+  },
+  {
+    "vehicle_count": 121,
+    "average_speed": 67.53510787900764,
+    "congestion_level": 0.39512834551492854,
+    "time_of_day": 22,
+    "timestamp": "2025-01-25T22:28:45.829052"
+  },
+  {
+    "vehicle_count": 103,
+    "average_speed": 49.73640686306464,
+    "congestion_level": 0.6352557886195155,
+    "time_of_day": 15,
+    "timestamp": "2025-01-25T22:28:46.844471"
+  },
+  {
+    "vehicle_count": 55,
+    "average_speed": 47.39737041789626,
+    "congestion_level": 0.6407270601318824,
+    "time_of_day": 20,
+    "timestamp": "2025-01-25T22:28:47.872484"
+  },
+  {
+    "vehicle_count": 89,
+    "average_speed": 60.03178712694529,
+    "congestion_level": 0.6502446007747299,
+    "time_of_day": 0,
+    "timestamp": "2025-01-25T22:28:48.894049"
+  },
+  {
+    "vehicle_count": 93,
+    "average_speed": 56.16199037802897,
+    "congestion_level": 0.4387394972160026,
+    "time_of_day": 13,
+    "timestamp": "2025-01-25T22:28:49.919401"
+  },
+  {
+    "vehicle_count": 66,
+    "average_speed": 65.21251383032619,
+    "congestion_level": 0.6885104757147067,
+    "time_of_day": 15,
+    "timestamp": "2025-01-25T22:28:50.958504"
+  },
+  {
+    "vehicle_count": 46,
+    "average_speed": 116.61052538343921,
+    "congestion_level": 0.10721515564559687,
+    "time_of_day": 3,
+    "timestamp": "2025-01-25T22:28:51.972120"
+  },
+  {
+    "vehicle_count": 85,
+    "average_speed": 44.53058124045083,
+    "congestion_level": 0.6093799596256326,
+    "time_of_day": 2,
+    "timestamp": "2025-01-25T22:28:52.986958"
+  },
+  {
+    "vehicle_count": 82,
+    "average_speed": 46.41804895212954,
+    "congestion_level": 0.37608918958075416,
+    "time_of_day": 7,
+    "timestamp": "2025-01-25T22:28:54.003229"
+  },
+  {
+    "vehicle_count": 99,
+    "average_speed": 55.355756713798016,
+    "congestion_level": 0.49572254616646105,
+    "time_of_day": 11,
+    "timestamp": "2025-01-25T22:28:55.017685"
+  },
+  {
+    "vehicle_count": 248,
+    "average_speed": 20.10201313872263,
+    "congestion_level": 0.7012343911008654,
+    "time_of_day": 4,
+    "timestamp": "2025-01-25T22:28:56.035734"
+  },
+  {
+    "vehicle_count": 97,
+    "average_speed": 41.619658522021545,
+    "congestion_level": 0.6629386414070597,
+    "time_of_day": 21,
+    "timestamp": "2025-01-25T22:28:57.063415"
+  },
+  {
+    "vehicle_count": 78,
+    "average_speed": 64.25987015233656,
+    "congestion_level": 0.3366466711885331,
+    "time_of_day": 10,
+    "timestamp": "2025-01-25T22:28:58.090095"
+  },
+  {
+    "vehicle_count": 243,
+    "average_speed": 34.77003857706855,
+    "congestion_level": 0.750630411743589,
+    "time_of_day": 2,
+    "timestamp": "2025-01-25T22:28:59.114439"
+  },
+  {
+    "vehicle_count": 77,
+    "average_speed": 64.71996435939268,
+    "congestion_level": 0.41269444420185847,
+    "time_of_day": 22,
+    "timestamp": "2025-01-25T22:29:00.127746"
+  },
+  {
+    "vehicle_count": 65,
+    "average_speed": 58.639685714553536,
+    "congestion_level": 0.6290492816881287,
+    "time_of_day": 5,
+    "timestamp": "2025-01-25T22:29:01.147959"
+  },
+  {
+    "vehicle_count": 107,
+    "average_speed": 64.81074024137735,
+    "congestion_level": 0.653347388319626,
+    "time_of_day": 23,
+    "timestamp": "2025-01-25T22:29:02.161635"
+  },
+  {
+    "vehicle_count": 45,
+    "average_speed": 119.12339399599105,
+    "congestion_level": 0.21093859899749223,
+    "time_of_day": 0,
+    "timestamp": "2025-01-25T22:29:03.175795"
+  },
+  {
+    "vehicle_count": 55,
+    "average_speed": 68.96304923311621,
+    "congestion_level": 0.669477923847123,
+    "time_of_day": 3,
+    "timestamp": "2025-01-25T22:29:04.190533"
+  },
+  {
+    "vehicle_count": 129,
+    "average_speed": 42.414601573842845,
+    "congestion_level": 0.680356256807952,
+    "time_of_day": 14,
+    "timestamp": "2025-01-25T22:29:05.203824"
+  },
+  {
+    "vehicle_count": 129,
+    "average_speed": 57.237430643941515,
+    "congestion_level": 0.6675657733835813,
+    "time_of_day": 6,
+    "timestamp": "2025-01-25T22:29:06.223856"
+  },
+  {
+    "vehicle_count": 144,
+    "average_speed": 59.21915850280485,
+    "congestion_level": 0.612355041367646,
+    "time_of_day": 23,
+    "timestamp": "2025-01-25T22:29:07.237404"
+  },
+  {
+    "vehicle_count": 74,
+    "average_speed": 67.77875873022595,
+    "congestion_level": 0.650120030789598,
+    "time_of_day": 2,
+    "timestamp": "2025-01-25T22:29:08.268662"
+  },
+  {
+    "vehicle_count": 102,
+    "average_speed": 58.17590595765434,
+    "congestion_level": 0.3927853960185142,
+    "time_of_day": 10,
+    "timestamp": "2025-01-25T22:29:09.293416"
+  },
+  {
+    "vehicle_count": 43,
+    "average_speed": 115.04937337224325,
+    "congestion_level": 0.17821045009740102,
+    "time_of_day": 10,
+    "timestamp": "2025-01-25T22:29:10.317257"
+  },
+  {
+    "vehicle_count": 107,
+    "average_speed": 60.95526108500358,
+    "congestion_level": 0.4201945787082768,
+    "time_of_day": 4,
+    "timestamp": "2025-01-25T22:29:11.343688"
+  },
+  {
+    "vehicle_count": 107,
+    "average_speed": 66.9228106835643,
+    "congestion_level": 0.4357755552068876,
+    "time_of_day": 19,
+    "timestamp": "2025-01-25T22:29:12.357361"
+  },
+  {
+    "vehicle_count": 85,
+    "average_speed": 40.83578313612907,
+    "congestion_level": 0.6901568444867368,
+    "time_of_day": 23,
+    "timestamp": "2025-01-25T22:29:13.370348"
+  },
+  {
+    "vehicle_count": 123,
+    "average_speed": 66.22893177355334,
+    "congestion_level": 0.4456108466679287,
+    "time_of_day": 12,
+    "timestamp": "2025-01-25T22:29:14.400916"
+  },
+  {
+    "vehicle_count": 106,
+    "average_speed": 48.56267932506154,
+    "congestion_level": 0.4244938666127701,
+    "time_of_day": 9,
+    "timestamp": "2025-01-25T22:29:15.432607"
+  },
+  {
+    "vehicle_count": 103,
+    "average_speed": 54.30207099753912,
+    "congestion_level": 0.3187880578096103,
+    "time_of_day": 6,
+    "timestamp": "2025-01-25T22:29:16.469261"
+  },
+  {
+    "vehicle_count": 88,
+    "average_speed": 57.856340129510095,
+    "congestion_level": 0.5395175020047213,
+    "time_of_day": 21,
+    "timestamp": "2025-01-25T22:29:17.491558"
+  },
+  {
+    "vehicle_count": 36,
+    "average_speed": 92.14452903508754,
+    "congestion_level": 0.12102326982902895,
+    "time_of_day": 23,
+    "timestamp": "2025-01-25T22:29:18.505607"
+  },
+  {
+    "vehicle_count": 64,
+    "average_speed": 51.62425171187244,
+    "congestion_level": 0.34657796876323005,
+    "time_of_day": 11,
+    "timestamp": "2025-01-25T22:29:19.523337"
+  },
+  {
+    "vehicle_count": 104,
+    "average_speed": 43.22074031868532,
+    "congestion_level": 0.39754573242606384,
+    "time_of_day": 11,
+    "timestamp": "2025-01-25T22:29:20.543278"
+  },
+  {
+    "vehicle_count": 77,
+    "average_speed": 55.57002523011801,
+    "congestion_level": 0.5250453731775051,
+    "time_of_day": 8,
+    "timestamp": "2025-01-25T22:29:21.563529"
+  },
+  {
+    "vehicle_count": 215,
+    "average_speed": 21.599023167925,
+    "congestion_level": 0.8697242399449466,
+    "time_of_day": 9,
+    "timestamp": "2025-01-25T22:29:22.596750"
+  },
+  {
+    "vehicle_count": 87,
+    "average_speed": 58.695307020487675,
+    "congestion_level": 0.41735106473445027,
+    "time_of_day": 19,
+    "timestamp": "2025-01-25T22:29:23.618000"
+  },
+  {
+    "vehicle_count": 95,
+    "average_speed": 61.49698332809548,
+    "congestion_level": 0.4115591482258972,
+    "time_of_day": 18,
+    "timestamp": "2025-01-25T22:29:24.647991"
+  },
+  {
+    "vehicle_count": 125,
+    "average_speed": 66.7387476030034,
+    "congestion_level": 0.3741445325420585,
+    "time_of_day": 10,
+    "timestamp": "2025-01-25T22:29:25.679302"
+  },
+  {
+    "vehicle_count": 119,
+    "average_speed": 59.68081513265004,
+    "congestion_level": 0.6454512566824576,
+    "time_of_day": 1,
+    "timestamp": "2025-01-25T22:29:26.711322"
+  },
+  {
+    "vehicle_count": 117,
+    "average_speed": 69.51808465317467,
+    "congestion_level": 0.342908857178639,
+    "time_of_day": 2,
+    "timestamp": "2025-01-25T22:29:27.734012"
+  },
+  {
+    "vehicle_count": 138,
+    "average_speed": 68.21055845645678,
+    "congestion_level": 0.33643091836084105,
+    "time_of_day": 12,
+    "timestamp": "2025-01-25T22:29:28.753690"
+  },
+  {
+    "vehicle_count": 98,
+    "average_speed": 57.699716579174456,
+    "congestion_level": 0.44229718356544745,
+    "time_of_day": 22,
+    "timestamp": "2025-01-25T22:29:29.768754"
+  },
+  {
+    "vehicle_count": 142,
+    "average_speed": 47.53477378111565,
+    "congestion_level": 0.5569656296728029,
+    "time_of_day": 9,
+    "timestamp": "2025-01-25T22:29:30.782402"
+  },
+  {
+    "vehicle_count": 124,
+    "average_speed": 53.59108927602468,
+    "congestion_level": 0.6078387066131219,
+    "time_of_day": 8,
+    "timestamp": "2025-01-25T22:29:31.817298"
+  },
+  {
+    "vehicle_count": 122,
+    "average_speed": 43.0939721253407,
+    "congestion_level": 0.3724390821957827,
+    "time_of_day": 0,
+    "timestamp": "2025-01-25T22:29:32.844994"
+  },
+  {
+    "vehicle_count": 85,
+    "average_speed": 60.77875706182596,
+    "congestion_level": 0.5178866112270434,
+    "time_of_day": 11,
+    "timestamp": "2025-01-25T22:29:33.871859"
+  },
+  {
+    "vehicle_count": 34,
+    "average_speed": 113.50435674215805,
+    "congestion_level": 0.21406100485980167,
+    "time_of_day": 4,
+    "timestamp": "2025-01-25T22:29:34.901116"
+  },
+  {
+    "vehicle_count": 139,
+    "average_speed": 61.94592099433869,
+    "congestion_level": 0.3563225157579018,
+    "time_of_day": 16,
+    "timestamp": "2025-01-25T22:29:35.931210"
+  },
+  {
+    "vehicle_count": 60,
+    "average_speed": 41.22227232675537,
+    "congestion_level": 0.4058045293689474,
+    "time_of_day": 10,
+    "timestamp": "2025-01-25T22:29:36.960540"
+  },
+  {
+    "vehicle_count": 142,
+    "average_speed": 51.00532776214709,
+    "congestion_level": 0.3560471267010901,
+    "time_of_day": 3,
+    "timestamp": "2025-01-25T22:29:37.998127"
+  },
+  {
+    "vehicle_count": 62,
+    "average_speed": 52.759174688273404,
+    "congestion_level": 0.3999246797850962,
+    "time_of_day": 23,
+    "timestamp": "2025-01-25T22:29:39.028238"
+  },
+  {
+    "vehicle_count": 242,
+    "average_speed": 25.650919719740777,
+    "congestion_level": 0.7301808185254366,
+    "time_of_day": 21,
+    "timestamp": "2025-01-25T22:29:40.056596"
+  },
+  {
+    "vehicle_count": 70,
+    "average_speed": 54.72216902310778,
+    "congestion_level": 0.3827320111139365,
+    "time_of_day": 3,
+    "timestamp": "2025-01-25T22:29:41.076935"
+  },
+  {
+    "vehicle_count": 132,
+    "average_speed": 47.85786887093795,
+    "congestion_level": 0.4434820641263859,
+    "time_of_day": 3,
+    "timestamp": "2025-01-25T22:29:42.102390"
+  },
+  {
+    "vehicle_count": 62,
+    "average_speed": 65.06483809683854,
+    "congestion_level": 0.40623033952123855,
+    "time_of_day": 12,
+    "timestamp": "2025-01-25T22:29:43.116129"
+  },
+  {
+    "vehicle_count": 141,
+    "average_speed": 64.08676437088586,
+    "congestion_level": 0.5484948294047566,
+    "time_of_day": 11,
+    "timestamp": "2025-01-25T22:29:44.140791"
+  },
+  {
+    "vehicle_count": 160,
+    "average_speed": 21.90945765675581,
+    "congestion_level": 0.8080587116541498,
+    "time_of_day": 18,
+    "timestamp": "2025-01-25T22:29:45.161919"
+  },
+  {
+    "vehicle_count": 59,
+    "average_speed": 40.08858399518056,
+    "congestion_level": 0.6657341307862138,
+    "time_of_day": 10,
+    "timestamp": "2025-01-25T22:29:46.178357"
+  },
+  {
+    "vehicle_count": 186,
+    "average_speed": 30.79612025061274,
+    "congestion_level": 0.7011596963105174,
+    "time_of_day": 12,
+    "timestamp": "2025-01-25T22:29:47.197184"
+  },
+  {
+    "vehicle_count": 99,
+    "average_speed": 48.91648652491172,
+    "congestion_level": 0.6740956414602435,
+    "time_of_day": 7,
+    "timestamp": "2025-01-25T22:29:48.215566"
+  },
+  {
+    "vehicle_count": 76,
+    "average_speed": 42.46865675250456,
+    "congestion_level": 0.4949504702760077,
+    "time_of_day": 0,
+    "timestamp": "2025-01-25T22:29:49.238228"
+  },
+  {
+    "vehicle_count": 56,
+    "average_speed": 51.86124678447645,
+    "congestion_level": 0.5091074078406257,
+    "time_of_day": 15,
+    "timestamp": "2025-01-25T22:29:50.267999"
+  },
+  {
+    "vehicle_count": 218,
+    "average_speed": 25.941947105701445,
+    "congestion_level": 0.7059556139310867,
+    "time_of_day": 13,
+    "timestamp": "2025-01-25T22:29:51.295814"
+  },
+  {
+    "vehicle_count": 197,
+    "average_speed": 24.16163586430388,
+    "congestion_level": 0.838519572432986,
+    "time_of_day": 17,
+    "timestamp": "2025-01-25T22:29:52.333495"
+  },
+  {
+    "vehicle_count": 87,
+    "average_speed": 43.23707805866387,
+    "congestion_level": 0.39412502427009355,
+    "time_of_day": 3,
+    "timestamp": "2025-01-25T22:29:53.364550"
+  },
+  {
+    "vehicle_count": 132,
+    "average_speed": 52.91982828780084,
+    "congestion_level": 0.4374479223290402,
+    "time_of_day": 22,
+    "timestamp": "2025-01-25T22:29:54.394900"
+  },
+  {
+    "vehicle_count": 166,
+    "average_speed": 34.604579866836865,
+    "congestion_level": 0.787545336584061,
+    "time_of_day": 3,
+    "timestamp": "2025-01-25T22:29:55.412225"
+  },
+  {
+    "vehicle_count": 100,
+    "average_speed": 56.80600276986796,
+    "congestion_level": 0.674513039058358,
+    "time_of_day": 12,
+    "timestamp": "2025-01-25T22:29:56.442091"
+  },
+  {
+    "vehicle_count": 140,
+    "average_speed": 47.75452784248848,
+    "congestion_level": 0.5180913893530001,
+    "time_of_day": 19,
+    "timestamp": "2025-01-25T22:29:57.465201"
+  },
+  {
+    "vehicle_count": 62,
+    "average_speed": 59.57758956130081,
+    "congestion_level": 0.6381960975577339,
+    "time_of_day": 12,
+    "timestamp": "2025-01-25T22:29:58.477760"
+  },
+  {
+    "vehicle_count": 94,
+    "average_speed": 52.78168442422513,
+    "congestion_level": 0.6788647935492556,
+    "time_of_day": 17,
+    "timestamp": "2025-01-25T22:29:59.490646"
+  },
+  {
+    "vehicle_count": 126,
+    "average_speed": 41.677871998508245,
+    "congestion_level": 0.5979463464839778,
+    "time_of_day": 15,
+    "timestamp": "2025-01-25T22:30:00.518534"
+  },
+  {
+    "vehicle_count": 61,
+    "average_speed": 46.640251336967474,
+    "congestion_level": 0.5837066262342167,
+    "time_of_day": 10,
+    "timestamp": "2025-01-25T22:30:01.538628"
+  },
+  {
+    "vehicle_count": 76,
+    "average_speed": 59.40276634309902,
+    "congestion_level": 0.6996635840351266,
+    "time_of_day": 17,
+    "timestamp": "2025-01-25T22:30:02.563094"
+  },
+  {
+    "vehicle_count": 108,
+    "average_speed": 44.48409475470068,
+    "congestion_level": 0.39819233331906845,
+    "time_of_day": 21,
+    "timestamp": "2025-01-25T22:30:03.576056"
+  },
+  {
+    "vehicle_count": 96,
+    "average_speed": 61.53240263352676,
+    "congestion_level": 0.5684701501384406,
+    "time_of_day": 12,
+    "timestamp": "2025-01-25T22:30:04.588553"
+  },
+  {
+    "vehicle_count": 129,
+    "average_speed": 60.52129979583573,
+    "congestion_level": 0.45691559895141526,
+    "time_of_day": 3,
+    "timestamp": "2025-01-25T22:30:05.608868"
+  },
+  {
+    "vehicle_count": 175,
+    "average_speed": 33.082947751145326,
+    "congestion_level": 0.7635514085775644,
+    "time_of_day": 1,
+    "timestamp": "2025-01-25T22:30:06.641788"
+  },
+  {
+    "vehicle_count": 92,
+    "average_speed": 44.103258404212276,
+    "congestion_level": 0.6496725267380747,
+    "time_of_day": 13,
+    "timestamp": "2025-01-25T22:30:07.678626"
+  },
+  {
+    "vehicle_count": 172,
+    "average_speed": 34.62341761650967,
+    "congestion_level": 0.7774852427791866,
+    "time_of_day": 16,
+    "timestamp": "2025-01-25T22:30:08.692066"
+  },
+  {
+    "vehicle_count": 67,
+    "average_speed": 57.5466834562228,
+    "congestion_level": 0.5026050367541878,
+    "time_of_day": 3,
+    "timestamp": "2025-01-25T22:30:09.721777"
+  },
+  {
+    "vehicle_count": 100,
+    "average_speed": 9.260744806523078,
+    "congestion_level": 0.8036945621186148,
+    "time_of_day": 19,
+    "timestamp": "2025-01-25T22:30:10.751556"
+  },
+  {
+    "vehicle_count": 95,
+    "average_speed": 56.086360512586936,
+    "congestion_level": 0.5326165525703208,
+    "time_of_day": 20,
+    "timestamp": "2025-01-25T22:30:11.785026"
+  },
+  {
+    "vehicle_count": 175,
+    "average_speed": 34.0362246099737,
+    "congestion_level": 0.8355179755134154,
+    "time_of_day": 18,
+    "timestamp": "2025-01-25T22:30:12.818644"
+  },
+  {
+    "vehicle_count": 110,
+    "average_speed": 14.74550143018639,
+    "congestion_level": 0.9133026390582695,
+    "time_of_day": 12,
+    "timestamp": "2025-01-25T22:30:13.845503"
+  },
+  {
+    "vehicle_count": 56,
+    "average_speed": 69.69151090971194,
+    "congestion_level": 0.571293084552474,
+    "time_of_day": 23,
+    "timestamp": "2025-01-25T22:30:14.858777"
+  },
+  {
+    "vehicle_count": 65,
+    "average_speed": 44.108603902690355,
+    "congestion_level": 0.6521518314634223,
+    "time_of_day": 3,
+    "timestamp": "2025-01-25T22:30:15.887815"
+  },
+  {
+    "vehicle_count": 138,
+    "average_speed": 68.93111876226891,
+    "congestion_level": 0.30261831108334675,
+    "time_of_day": 0,
+    "timestamp": "2025-01-25T22:30:16.915356"
+  },
+  {
+    "vehicle_count": 111,
+    "average_speed": 65.29746158952182,
+    "congestion_level": 0.4832645032175763,
+    "time_of_day": 6,
+    "timestamp": "2025-01-25T22:30:17.954740"
+  },
+  {
+    "vehicle_count": 45,
+    "average_speed": 94.75229939320708,
+    "congestion_level": 0.24561304157657493,
+    "time_of_day": 18,
+    "timestamp": "2025-01-25T22:30:18.980248"
+  },
+  {
+    "vehicle_count": 65,
+    "average_speed": 57.62419549647016,
+    "congestion_level": 0.4024822000376907,
+    "time_of_day": 1,
+    "timestamp": "2025-01-25T22:30:20.003888"
+  },
+  {
+    "vehicle_count": 87,
+    "average_speed": 43.965584634990634,
+    "congestion_level": 0.6215880367461896,
+    "time_of_day": 5,
+    "timestamp": "2025-01-25T22:30:21.023134"
+  },
+  {
+    "vehicle_count": 50,
+    "average_speed": 56.96119358745942,
+    "congestion_level": 0.6453315153596713,
+    "time_of_day": 18,
+    "timestamp": "2025-01-25T22:30:22.039291"
+  },
+  {
+    "vehicle_count": 93,
+    "average_speed": 46.9821435563088,
+    "congestion_level": 0.6187919561161805,
+    "time_of_day": 10,
+    "timestamp": "2025-01-25T22:30:23.056915"
+  },
+  {
+    "vehicle_count": 223,
+    "average_speed": 31.823099041178853,
+    "congestion_level": 0.783519833009502,
+    "time_of_day": 16,
+    "timestamp": "2025-01-25T22:30:24.070993"
+  },
+  {
+    "vehicle_count": 112,
+    "average_speed": 55.9473386790978,
+    "congestion_level": 0.5454780971295353,
+    "time_of_day": 5,
+    "timestamp": "2025-01-25T22:30:25.095161"
+  },
+  {
+    "vehicle_count": 136,
+    "average_speed": 40.90897955538902,
+    "congestion_level": 0.5527935274567926,
+    "time_of_day": 11,
+    "timestamp": "2025-01-25T22:30:26.123798"
+  },
+  {
+    "vehicle_count": 149,
+    "average_speed": 64.7505934622748,
+    "congestion_level": 0.3952352668132151,
+    "time_of_day": 6,
+    "timestamp": "2025-01-25T22:30:27.156554"
+  },
+  {
+    "vehicle_count": 89,
+    "average_speed": 59.30265652832742,
+    "congestion_level": 0.4197752214950339,
+    "time_of_day": 7,
+    "timestamp": "2025-01-25T22:30:28.196822"
+  },
+  {
+    "vehicle_count": 34,
+    "average_speed": 115.37439525581223,
+    "congestion_level": 0.21240567841946523,
+    "time_of_day": 16,
+    "timestamp": "2025-01-25T22:30:29.226232"
+  },
+  {
+    "vehicle_count": 31,
+    "average_speed": 108.84468485414376,
+    "congestion_level": 0.25754370593291254,
+    "time_of_day": 17,
+    "timestamp": "2025-01-25T22:30:30.256949"
+  },
+  {
+    "vehicle_count": 146,
+    "average_speed": 41.026797704798916,
+    "congestion_level": 0.3050197810831624,
+    "time_of_day": 6,
+    "timestamp": "2025-01-25T22:30:31.284363"
+  },
+  {
+    "vehicle_count": 63,
+    "average_speed": 59.66987634780597,
+    "congestion_level": 0.3211120313193468,
+    "time_of_day": 9,
+    "timestamp": "2025-01-25T22:30:32.314169"
+  },
+  {
+    "vehicle_count": 92,
+    "average_speed": 51.02879231445539,
+    "congestion_level": 0.6414349754348154,
+    "time_of_day": 0,
+    "timestamp": "2025-01-25T22:30:33.347003"
+  },
+  {
+    "vehicle_count": 77,
+    "average_speed": 65.13947221493979,
+    "congestion_level": 0.5055899997381783,
+    "time_of_day": 1,
+    "timestamp": "2025-01-25T22:30:34.364594"
+  },
+  {
+    "vehicle_count": 194,
+    "average_speed": 29.445593405808317,
+    "congestion_level": 0.7977441046362196,
+    "time_of_day": 3,
+    "timestamp": "2025-01-25T22:30:35.395330"
+  },
+  {
+    "vehicle_count": 113,
+    "average_speed": 60.687379799783365,
+    "congestion_level": 0.34736711271149395,
+    "time_of_day": 19,
+    "timestamp": "2025-01-25T22:30:36.418433"
+  },
+  {
+    "vehicle_count": 93,
+    "average_speed": 44.731754999961325,
+    "congestion_level": 0.49740456566525154,
+    "time_of_day": 19,
+    "timestamp": "2025-01-25T22:30:37.436251"
+  },
+  {
+    "vehicle_count": 83,
+    "average_speed": 54.17363069031142,
+    "congestion_level": 0.5836873067069583,
+    "time_of_day": 0,
+    "timestamp": "2025-01-25T22:30:38.454431"
+  },
+  {
+    "vehicle_count": 87,
+    "average_speed": 42.94796132867992,
+    "congestion_level": 0.6554717382960807,
+    "time_of_day": 10,
+    "timestamp": "2025-01-25T22:30:39.468660"
+  },
+  {
+    "vehicle_count": 208,
+    "average_speed": 33.327857908562564,
+    "congestion_level": 0.8176778826654075,
+    "time_of_day": 8,
+    "timestamp": "2025-01-25T22:30:40.504342"
+  },
+  {
+    "vehicle_count": 118,
+    "average_speed": 67.45083484383193,
+    "congestion_level": 0.5994331905329833,
+    "time_of_day": 20,
+    "timestamp": "2025-01-25T22:30:41.527913"
+  },
+  {
+    "vehicle_count": 38,
+    "average_speed": 103.03624226706282,
+    "congestion_level": 0.12347000359933896,
+    "time_of_day": 18,
+    "timestamp": "2025-01-25T22:30:42.559770"
+  },
+  {
+    "vehicle_count": 58,
+    "average_speed": 68.52930964985595,
+    "congestion_level": 0.6030489415211722,
+    "time_of_day": 9,
+    "timestamp": "2025-01-25T22:30:43.600756"
+  },
+  {
+    "vehicle_count": 92,
+    "average_speed": 64.00092201119759,
+    "congestion_level": 0.4654259635993162,
+    "time_of_day": 5,
+    "timestamp": "2025-01-25T22:30:44.615204"
+  },
+  {
+    "vehicle_count": 144,
+    "average_speed": 49.74061442967902,
+    "congestion_level": 0.649833025959719,
+    "time_of_day": 13,
+    "timestamp": "2025-01-25T22:30:45.640708"
+  },
+  {
+    "vehicle_count": 68,
+    "average_speed": 46.88620249445399,
+    "congestion_level": 0.47573888981401874,
+    "time_of_day": 11,
+    "timestamp": "2025-01-25T22:30:46.672048"
+  },
+  {
+    "vehicle_count": 79,
+    "average_speed": 69.00514091731858,
+    "congestion_level": 0.683226442816526,
+    "time_of_day": 16,
+    "timestamp": "2025-01-25T22:30:47.693243"
+  },
+  {
+    "vehicle_count": 24,
+    "average_speed": 82.14185276845697,
+    "congestion_level": 0.14350500578246297,
+    "time_of_day": 5,
+    "timestamp": "2025-01-25T22:30:48.725966"
+  },
+  {
+    "vehicle_count": 100,
+    "average_speed": 60.00744364112842,
+    "congestion_level": 0.34032987282361926,
+    "time_of_day": 15,
+    "timestamp": "2025-01-25T22:30:49.739284"
+  },
+  {
+    "vehicle_count": 141,
+    "average_speed": 50.377132176290196,
+    "congestion_level": 0.6847641387203607,
+    "time_of_day": 14,
+    "timestamp": "2025-01-25T22:30:50.769083"
+  },
+  {
+    "vehicle_count": 104,
+    "average_speed": 48.16826005667829,
+    "congestion_level": 0.42117502060185763,
+    "time_of_day": 12,
+    "timestamp": "2025-01-25T22:30:51.796423"
+  },
+  {
+    "vehicle_count": 148,
+    "average_speed": 57.98841839303957,
+    "congestion_level": 0.3012145829315683,
+    "time_of_day": 19,
+    "timestamp": "2025-01-25T22:30:52.816029"
+  },
+  {
+    "vehicle_count": 66,
+    "average_speed": 52.407130997098506,
+    "congestion_level": 0.44670683865838073,
+    "time_of_day": 12,
+    "timestamp": "2025-01-25T22:30:53.837081"
+  },
+  {
+    "vehicle_count": 136,
+    "average_speed": 52.10061279065595,
+    "congestion_level": 0.3543603597294729,
+    "time_of_day": 6,
+    "timestamp": "2025-01-25T22:30:54.850221"
+  },
+  {
+    "vehicle_count": 118,
+    "average_speed": 55.096895653157524,
+    "congestion_level": 0.5927585349556119,
+    "time_of_day": 9,
+    "timestamp": "2025-01-25T22:30:55.873600"
+  },
+  {
+    "vehicle_count": 123,
+    "average_speed": 49.03510598066533,
+    "congestion_level": 0.35779722111565043,
+    "time_of_day": 13,
+    "timestamp": "2025-01-25T22:30:56.899581"
+  },
+  {
+    "vehicle_count": 129,
+    "average_speed": 64.74894384690543,
+    "congestion_level": 0.3759662576374699,
+    "time_of_day": 0,
+    "timestamp": "2025-01-25T22:30:57.931265"
+  },
+  {
+    "vehicle_count": 114,
+    "average_speed": 45.64111587409485,
+    "congestion_level": 0.33079695971092976,
+    "time_of_day": 5,
+    "timestamp": "2025-01-25T22:30:58.966683"
+  },
+  {
+    "vehicle_count": 96,
+    "average_speed": 55.04334915477067,
+    "congestion_level": 0.5668678622488383,
+    "time_of_day": 4,
+    "timestamp": "2025-01-25T22:30:59.995950"
+  },
+  {
+    "vehicle_count": 85,
+    "average_speed": 51.883923785058585,
+    "congestion_level": 0.39377843764262727,
+    "time_of_day": 2,
+    "timestamp": "2025-01-25T22:31:01.022439"
+  },
+  {
+    "vehicle_count": 49,
+    "average_speed": 114.35936654681572,
+    "congestion_level": 0.21219660641997629,
+    "time_of_day": 4,
+    "timestamp": "2025-01-25T22:31:02.048360"
+  },
+  {
+    "vehicle_count": 83,
+    "average_speed": 47.41321311127048,
+    "congestion_level": 0.5249331304909568,
+    "time_of_day": 14,
+    "timestamp": "2025-01-25T22:31:03.076679"
+  },
+  {
+    "vehicle_count": 129,
+    "average_speed": 42.47195049550892,
+    "congestion_level": 0.6143397710557144,
+    "time_of_day": 9,
+    "timestamp": "2025-01-25T22:31:04.115388"
+  },
+  {
+    "vehicle_count": 118,
+    "average_speed": 66.337822631351,
+    "congestion_level": 0.5580116364096528,
+    "time_of_day": 21,
+    "timestamp": "2025-01-25T22:31:05.145225"
+  },
+  {
+    "vehicle_count": 84,
+    "average_speed": 56.17441440751303,
+    "congestion_level": 0.5358010537998508,
+    "time_of_day": 6,
+    "timestamp": "2025-01-25T22:31:06.174841"
+  },
+  {
+    "vehicle_count": 22,
+    "average_speed": 82.66093603349807,
+    "congestion_level": 0.21504674954865974,
+    "time_of_day": 5,
+    "timestamp": "2025-01-25T22:31:07.200582"
+  },
+  {
+    "vehicle_count": 106,
+    "average_speed": 47.53841743900737,
+    "congestion_level": 0.69803623817875,
+    "time_of_day": 9,
+    "timestamp": "2025-01-25T22:31:08.228623"
+  },
+  {
+    "vehicle_count": 225,
+    "average_speed": 29.44614662589356,
+    "congestion_level": 0.8530255735242234,
+    "time_of_day": 11,
+    "timestamp": "2025-01-25T22:31:09.260099"
+  },
+  {
+    "vehicle_count": 52,
+    "average_speed": 42.40889976174309,
+    "congestion_level": 0.6004939783190277,
+    "time_of_day": 7,
+    "timestamp": "2025-01-25T22:31:10.278367"
+  },
+  {
+    "vehicle_count": 116,
+    "average_speed": 50.33709716874943,
+    "congestion_level": 0.3433984670520536,
+    "time_of_day": 9,
+    "timestamp": "2025-01-25T22:31:11.293754"
+  },
+  {
+    "vehicle_count": 99,
+    "average_speed": 57.61628874718525,
+    "congestion_level": 0.517013704423749,
+    "time_of_day": 2,
+    "timestamp": "2025-01-25T22:31:12.307123"
+  },
+  {
+    "vehicle_count": 101,
+    "average_speed": 68.9324512008844,
+    "congestion_level": 0.33454621071137314,
+    "time_of_day": 21,
+    "timestamp": "2025-01-25T22:31:13.333779"
+  },
+  {
+    "vehicle_count": 135,
+    "average_speed": 56.77790051347725,
+    "congestion_level": 0.3281323177616099,
+    "time_of_day": 19,
+    "timestamp": "2025-01-25T22:31:14.371240"
+  },
+  {
+    "vehicle_count": 103,
+    "average_speed": 53.639321087566316,
+    "congestion_level": 0.31743329189588215,
+    "time_of_day": 20,
+    "timestamp": "2025-01-25T22:31:15.400786"
+  },
+  {
+    "vehicle_count": 120,
+    "average_speed": 67.16309230688604,
+    "congestion_level": 0.6701727939297425,
+    "time_of_day": 17,
+    "timestamp": "2025-01-25T22:31:16.429729"
+  },
+  {
+    "vehicle_count": 117,
+    "average_speed": 66.73406312101358,
+    "congestion_level": 0.6555202398679015,
+    "time_of_day": 13,
+    "timestamp": "2025-01-25T22:31:17.459217"
+  },
+  {
+    "vehicle_count": 78,
+    "average_speed": 43.04411990987109,
+    "congestion_level": 0.3502576648904696,
+    "time_of_day": 18,
+    "timestamp": "2025-01-25T22:31:18.487887"
+  },
+  {
+    "vehicle_count": 116,
+    "average_speed": 59.4763443483339,
+    "congestion_level": 0.5619164620753716,
+    "time_of_day": 21,
+    "timestamp": "2025-01-25T22:31:19.524482"
+  },
+  {
+    "vehicle_count": 133,
+    "average_speed": 40.599842193443834,
+    "congestion_level": 0.6504755966193937,
+    "time_of_day": 21,
+    "timestamp": "2025-01-25T22:31:20.550271"
+  },
+  {
+    "vehicle_count": 99,
+    "average_speed": 65.61260888464025,
+    "congestion_level": 0.38371171704826434,
+    "time_of_day": 10,
+    "timestamp": "2025-01-25T22:31:21.580211"
+  },
+  {
+    "vehicle_count": 72,
+    "average_speed": 50.382887433430675,
+    "congestion_level": 0.6483252455609478,
+    "time_of_day": 16,
+    "timestamp": "2025-01-25T22:31:22.607522"
+  },
+  {
+    "vehicle_count": 54,
+    "average_speed": 52.65811790251203,
+    "congestion_level": 0.5603527132160213,
+    "time_of_day": 10,
+    "timestamp": "2025-01-25T22:31:23.636195"
+  },
+  {
+    "vehicle_count": 141,
+    "average_speed": 64.75444646135401,
+    "congestion_level": 0.6869165159149255,
+    "time_of_day": 10,
+    "timestamp": "2025-01-25T22:31:24.672271"
+  },
+  {
+    "vehicle_count": 118,
+    "average_speed": 52.096344180965765,
+    "congestion_level": 0.4608925362711741,
+    "time_of_day": 18,
+    "timestamp": "2025-01-25T22:31:25.699854"
+  },
+  {
+    "vehicle_count": 59,
+    "average_speed": 48.251710065911105,
+    "congestion_level": 0.39455559192171746,
+    "time_of_day": 1,
+    "timestamp": "2025-01-25T22:31:26.723870"
+  },
+  {
+    "vehicle_count": 85,
+    "average_speed": 43.51676175680934,
+    "congestion_level": 0.42852418695751154,
+    "time_of_day": 20,
+    "timestamp": "2025-01-25T22:31:27.743039"
+  },
+  {
+    "vehicle_count": 237,
+    "average_speed": 29.434234198948126,
+    "congestion_level": 0.860836324809992,
+    "time_of_day": 8,
+    "timestamp": "2025-01-25T22:31:28.758271"
+  },
+  {
+    "vehicle_count": 114,
+    "average_speed": 55.39724869964353,
+    "congestion_level": 0.6131830383744148,
+    "time_of_day": 1,
+    "timestamp": "2025-01-25T22:31:29.791081"
+  },
+  {
+    "vehicle_count": 147,
+    "average_speed": 63.89521998312705,
+    "congestion_level": 0.3551432220482982,
+    "time_of_day": 9,
+    "timestamp": "2025-01-25T22:31:30.814331"
+  },
+  {
+    "vehicle_count": 96,
+    "average_speed": 18.822695605458218,
+    "congestion_level": 0.8870449658708155,
+    "time_of_day": 3,
+    "timestamp": "2025-01-25T22:31:31.845440"
+  },
+  {
+    "vehicle_count": 38,
+    "average_speed": 101.8659642666479,
+    "congestion_level": 0.25521480363799276,
+    "time_of_day": 18,
+    "timestamp": "2025-01-25T22:31:32.875373"
+  },
+  {
+    "vehicle_count": 100,
+    "average_speed": 42.86353271695274,
+    "congestion_level": 0.3921322707215673,
+    "time_of_day": 14,
+    "timestamp": "2025-01-25T22:31:33.894001"
+  },
+  {
+    "vehicle_count": 117,
+    "average_speed": 55.60813304695517,
+    "congestion_level": 0.4528445407186661,
+    "time_of_day": 22,
+    "timestamp": "2025-01-25T22:31:34.930061"
+  },
+  {
+    "vehicle_count": 124,
+    "average_speed": 59.38807128143972,
+    "congestion_level": 0.406437674699825,
+    "time_of_day": 14,
+    "timestamp": "2025-01-25T22:31:35.942096"
+  },
+  {
+    "vehicle_count": 130,
+    "average_speed": 67.85554214669705,
+    "congestion_level": 0.34855993332402274,
+    "time_of_day": 22,
+    "timestamp": "2025-01-25T22:31:36.972171"
+  },
+  {
+    "vehicle_count": 174,
+    "average_speed": 25.525147365177233,
+    "congestion_level": 0.8063455277170755,
+    "time_of_day": 0,
+    "timestamp": "2025-01-25T22:31:37.991380"
+  },
+  {
+    "vehicle_count": 57,
+    "average_speed": 45.144762474071726,
+    "congestion_level": 0.552875907148624,
+    "time_of_day": 21,
+    "timestamp": "2025-01-25T22:31:39.019814"
+  },
+  {
+    "vehicle_count": 124,
+    "average_speed": 62.79169059130804,
+    "congestion_level": 0.5715123209446553,
+    "time_of_day": 14,
+    "timestamp": "2025-01-25T22:31:40.055902"
+  },
+  {
+    "vehicle_count": 92,
+    "average_speed": 44.744192590900354,
+    "congestion_level": 0.3041328254633264,
+    "time_of_day": 14,
+    "timestamp": "2025-01-25T22:31:41.084376"
+  },
+  {
+    "vehicle_count": 113,
+    "average_speed": 69.67803709049201,
+    "congestion_level": 0.5385007686363503,
+    "time_of_day": 20,
+    "timestamp": "2025-01-25T22:31:42.100154"
+  },
+  {
+    "vehicle_count": 92,
+    "average_speed": 40.068599521379106,
+    "congestion_level": 0.4809718727472646,
+    "time_of_day": 13,
+    "timestamp": "2025-01-25T22:31:43.117466"
+  },
+  {
+    "vehicle_count": 70,
+    "average_speed": 66.2155449329582,
+    "congestion_level": 0.44415262541444056,
+    "time_of_day": 16,
+    "timestamp": "2025-01-25T22:31:44.131498"
+  },
+  {
+    "vehicle_count": 75,
+    "average_speed": 62.297383317616294,
+    "congestion_level": 0.44162837001115257,
+    "time_of_day": 22,
+    "timestamp": "2025-01-25T22:31:45.151702"
+  },
+  {
+    "vehicle_count": 144,
+    "average_speed": 57.6131976987478,
+    "congestion_level": 0.5548756703951179,
+    "time_of_day": 23,
+    "timestamp": "2025-01-25T22:31:46.165271"
+  },
+  {
+    "vehicle_count": 95,
+    "average_speed": 40.83948840458251,
+    "congestion_level": 0.38227984080740224,
+    "time_of_day": 21,
+    "timestamp": "2025-01-25T22:31:47.190267"
+  },
+  {
+    "vehicle_count": 127,
+    "average_speed": 61.21977523509017,
+    "congestion_level": 0.3784234156923979,
+    "time_of_day": 21,
+    "timestamp": "2025-01-25T22:31:48.231782"
+  },
+  {
+    "vehicle_count": 82,
+    "average_speed": 47.503976519093335,
+    "congestion_level": 0.50898144988778,
+    "time_of_day": 4,
+    "timestamp": "2025-01-25T22:31:49.260215"
+  },
+  {
+    "vehicle_count": 64,
+    "average_speed": 59.31471385403176,
+    "congestion_level": 0.5001788088674379,
+    "time_of_day": 0,
+    "timestamp": "2025-01-25T22:31:50.298430"
+  },
+  {
+    "vehicle_count": 81,
+    "average_speed": 56.62190034643774,
+    "congestion_level": 0.46099907794284023,
+    "time_of_day": 12,
+    "timestamp": "2025-01-25T22:31:51.310281"
+  },
+  {
+    "vehicle_count": 97,
+    "average_speed": 58.74008035539967,
+    "congestion_level": 0.37960178151898244,
+    "time_of_day": 16,
+    "timestamp": "2025-01-25T22:31:52.339129"
+  },
+  {
+    "vehicle_count": 117,
+    "average_speed": 50.33192848362175,
+    "congestion_level": 0.6155861373862426,
+    "time_of_day": 9,
+    "timestamp": "2025-01-25T22:31:53.367142"
+  },
+  {
+    "vehicle_count": 126,
+    "average_speed": 41.37118047328146,
+    "congestion_level": 0.361652956506052,
+    "time_of_day": 12,
+    "timestamp": "2025-01-25T22:31:54.395317"
+  },
+  {
+    "vehicle_count": 91,
+    "average_speed": 64.5971959751572,
+    "congestion_level": 0.4076719532914461,
+    "time_of_day": 7,
+    "timestamp": "2025-01-25T22:31:55.431692"
+  },
+  {
+    "vehicle_count": 62,
+    "average_speed": 59.06799241928531,
+    "congestion_level": 0.38572331120244424,
+    "time_of_day": 5,
+    "timestamp": "2025-01-25T22:31:56.446427"
+  },
+  {
+    "vehicle_count": 115,
+    "average_speed": 56.29122714948663,
+    "congestion_level": 0.4823919613686588,
+    "time_of_day": 13,
+    "timestamp": "2025-01-25T22:31:57.463715"
+  },
+  {
+    "vehicle_count": 51,
+    "average_speed": 56.67537716909868,
+    "congestion_level": 0.5949048268865389,
+    "time_of_day": 9,
+    "timestamp": "2025-01-25T22:31:58.484487"
+  },
+  {
+    "vehicle_count": 118,
+    "average_speed": 64.40533764209324,
+    "congestion_level": 0.4285097347595931,
+    "time_of_day": 11,
+    "timestamp": "2025-01-25T22:31:59.500144"
+  },
+  {
+    "vehicle_count": 89,
+    "average_speed": 64.70461006627046,
+    "congestion_level": 0.6890476473045277,
+    "time_of_day": 18,
+    "timestamp": "2025-01-25T22:32:00.517734"
+  },
+  {
+    "vehicle_count": 152,
+    "average_speed": 29.17748838806849,
+    "congestion_level": 0.7560638145056174,
+    "time_of_day": 15,
+    "timestamp": "2025-01-25T22:32:01.542543"
+  },
+  {
+    "vehicle_count": 59,
+    "average_speed": 55.11142816028877,
+    "congestion_level": 0.5689852089062186,
+    "time_of_day": 10,
+    "timestamp": "2025-01-25T22:32:02.570727"
+  },
+  {
+    "vehicle_count": 29,
+    "average_speed": 105.58158741338607,
+    "congestion_level": 0.2753321793600146,
+    "time_of_day": 10,
+    "timestamp": "2025-01-25T22:32:03.597599"
+  },
+  {
+    "vehicle_count": 195,
+    "average_speed": 30.830820818346243,
+    "congestion_level": 0.7303281564742716,
+    "time_of_day": 21,
+    "timestamp": "2025-01-25T22:32:04.627037"
+  },
+  {
+    "vehicle_count": 74,
+    "average_speed": 40.17382209387218,
+    "congestion_level": 0.6886951441562497,
+    "time_of_day": 23,
+    "timestamp": "2025-01-25T22:32:05.664797"
+  },
+  {
+    "vehicle_count": 99,
+    "average_speed": 56.182569156499426,
+    "congestion_level": 0.38937327076266726,
+    "time_of_day": 21,
+    "timestamp": "2025-01-25T22:32:06.679796"
+  },
+  {
+    "vehicle_count": 72,
+    "average_speed": 52.089883381681545,
+    "congestion_level": 0.6082471502616036,
+    "time_of_day": 18,
+    "timestamp": "2025-01-25T22:32:07.704217"
+  },
+  {
+    "vehicle_count": 45,
+    "average_speed": 118.5509746203341,
+    "congestion_level": 0.19328617464472042,
+    "time_of_day": 9,
+    "timestamp": "2025-01-25T22:32:08.724853"
+  },
+  {
+    "vehicle_count": 68,
+    "average_speed": 58.64046180743057,
+    "congestion_level": 0.613824189255038,
+    "time_of_day": 0,
+    "timestamp": "2025-01-25T22:32:09.754036"
+  },
+  {
+    "vehicle_count": 90,
+    "average_speed": 42.83634173258243,
+    "congestion_level": 0.45690349388042817,
+    "time_of_day": 20,
+    "timestamp": "2025-01-25T22:32:10.793320"
+  },
+  {
+    "vehicle_count": 148,
+    "average_speed": 45.027492108253455,
+    "congestion_level": 0.659987357919611,
+    "time_of_day": 3,
+    "timestamp": "2025-01-25T22:32:11.806769"
+  },
+  {
+    "vehicle_count": 155,
+    "average_speed": 22.37287506372846,
+    "congestion_level": 0.8211104657738658,
+    "time_of_day": 16,
+    "timestamp": "2025-01-25T22:32:12.829344"
+  },
+  {
+    "vehicle_count": 118,
+    "average_speed": 46.49183916868776,
+    "congestion_level": 0.4109704812487132,
+    "time_of_day": 20,
+    "timestamp": "2025-01-25T22:32:13.847959"
+  },
+  {
+    "vehicle_count": 145,
+    "average_speed": 56.8486018012491,
+    "congestion_level": 0.5050439233223322,
+    "time_of_day": 15,
+    "timestamp": "2025-01-25T22:32:14.862921"
+  },
+  {
+    "vehicle_count": 28,
+    "average_speed": 105.79420266741019,
+    "congestion_level": 0.24720696133675504,
+    "time_of_day": 18,
+    "timestamp": "2025-01-25T22:32:15.880362"
+  },
+  {
+    "vehicle_count": 82,
+    "average_speed": 48.0514886562703,
+    "congestion_level": 0.47777475196831243,
+    "time_of_day": 16,
+    "timestamp": "2025-01-25T22:32:16.893745"
+  },
+  {
+    "vehicle_count": 197,
+    "average_speed": 31.895893148408724,
+    "congestion_level": 0.7972413813677125,
+    "time_of_day": 5,
+    "timestamp": "2025-01-25T22:32:17.921885"
+  },
+  {
+    "vehicle_count": 95,
+    "average_speed": 63.951879112415355,
+    "congestion_level": 0.5055406395677694,
+    "time_of_day": 16,
+    "timestamp": "2025-01-25T22:32:18.948293"
+  },
+  {
+    "vehicle_count": 50,
+    "average_speed": 53.28962440649218,
+    "congestion_level": 0.691241129006613,
+    "time_of_day": 9,
+    "timestamp": "2025-01-25T22:32:19.972507"
+  },
+  {
+    "vehicle_count": 58,
+    "average_speed": 53.42258558974706,
+    "congestion_level": 0.3476293199842603,
+    "time_of_day": 13,
+    "timestamp": "2025-01-25T22:32:20.999454"
+  },
+  {
+    "vehicle_count": 62,
+    "average_speed": 66.65833620550099,
+    "congestion_level": 0.5239935142350132,
+    "time_of_day": 19,
+    "timestamp": "2025-01-25T22:32:22.023100"
+  },
+  {
+    "vehicle_count": 145,
+    "average_speed": 68.45131369914813,
+    "congestion_level": 0.43430856246720867,
+    "time_of_day": 11,
+    "timestamp": "2025-01-25T22:32:23.054217"
+  },
+  {
+    "vehicle_count": 104,
+    "average_speed": 15.331842697901694,
+    "congestion_level": 0.9251074858482531,
+    "time_of_day": 6,
+    "timestamp": "2025-01-25T22:32:24.074668"
+  },
+  {
+    "vehicle_count": 107,
+    "average_speed": 60.88525807052266,
+    "congestion_level": 0.4236802132559118,
+    "time_of_day": 7,
+    "timestamp": "2025-01-25T22:32:25.101852"
+  },
+  {
+    "vehicle_count": 64,
+    "average_speed": 54.36789694364377,
+    "congestion_level": 0.6652787084894888,
+    "time_of_day": 10,
+    "timestamp": "2025-01-25T22:32:26.140939"
+  },
+  {
+    "vehicle_count": 141,
+    "average_speed": 55.46410326644089,
+    "congestion_level": 0.6098228581619685,
+    "time_of_day": 13,
+    "timestamp": "2025-01-25T22:32:27.171175"
+  },
+  {
+    "vehicle_count": 20,
+    "average_speed": 88.32084043844995,
+    "congestion_level": 0.24887379097882859,
+    "time_of_day": 19,
+    "timestamp": "2025-01-25T22:32:28.205487"
+  },
+  {
+    "vehicle_count": 148,
+    "average_speed": 63.76956918893886,
+    "congestion_level": 0.4846141851989754,
+    "time_of_day": 7,
+    "timestamp": "2025-01-25T22:32:29.235434"
+  },
+  {
+    "vehicle_count": 135,
+    "average_speed": 43.31019211831085,
+    "congestion_level": 0.42012706806461747,
+    "time_of_day": 9,
+    "timestamp": "2025-01-25T22:32:30.266247"
+  },
+  {
+    "vehicle_count": 136,
+    "average_speed": 11.254574989116307,
+    "congestion_level": 0.8713771073313132,
+    "time_of_day": 9,
+    "timestamp": "2025-01-25T22:32:31.289813"
+  },
+  {
+    "vehicle_count": 25,
+    "average_speed": 110.11127707647614,
+    "congestion_level": 0.18290484102251478,
+    "time_of_day": 21,
+    "timestamp": "2025-01-25T22:32:32.301975"
+  },
+  {
+    "vehicle_count": 136,
+    "average_speed": 57.96613866693265,
+    "congestion_level": 0.4041492598989621,
+    "time_of_day": 13,
+    "timestamp": "2025-01-25T22:32:33.314082"
+  },
+  {
+    "vehicle_count": 40,
+    "average_speed": 108.6033919235914,
+    "congestion_level": 0.17095480618140588,
+    "time_of_day": 21,
+    "timestamp": "2025-01-25T22:32:34.339919"
+  },
+  {
+    "vehicle_count": 58,
+    "average_speed": 67.04694177630886,
+    "congestion_level": 0.32918247538706735,
+    "time_of_day": 13,
+    "timestamp": "2025-01-25T22:32:35.371378"
+  },
+  {
+    "vehicle_count": 150,
+    "average_speed": 44.71462981234731,
+    "congestion_level": 0.6315060339796297,
+    "time_of_day": 17,
+    "timestamp": "2025-01-25T22:32:36.405105"
+  },
+  {
+    "vehicle_count": 122,
+    "average_speed": 54.369664000974815,
+    "congestion_level": 0.47061634721104584,
+    "time_of_day": 19,
+    "timestamp": "2025-01-25T22:32:37.429068"
+  },
+  {
+    "vehicle_count": 91,
+    "average_speed": 43.87627538539082,
+    "congestion_level": 0.49309205108992665,
+    "time_of_day": 2,
+    "timestamp": "2025-01-25T22:32:38.451866"
+  },
+  {
+    "vehicle_count": 126,
+    "average_speed": 40.812400958035944,
+    "congestion_level": 0.4939012472951808,
+    "time_of_day": 4,
+    "timestamp": "2025-01-25T22:32:39.479721"
+  },
+  {
+    "vehicle_count": 157,
+    "average_speed": 33.432854322605806,
+    "congestion_level": 0.7373169284414569,
+    "time_of_day": 3,
+    "timestamp": "2025-01-25T22:32:40.503437"
+  },
+  {
+    "vehicle_count": 59,
+    "average_speed": 57.13701473786364,
+    "congestion_level": 0.4360424318766629,
+    "time_of_day": 19,
+    "timestamp": "2025-01-25T22:32:41.541820"
+  },
+  {
+    "vehicle_count": 96,
+    "average_speed": 18.17451333347591,
+    "congestion_level": 0.9017001590174641,
+    "time_of_day": 0,
+    "timestamp": "2025-01-25T22:32:42.565756"
+  },
+  {
+    "vehicle_count": 115,
+    "average_speed": 68.36301872021352,
+    "congestion_level": 0.32091176855350395,
+    "time_of_day": 0,
+    "timestamp": "2025-01-25T22:32:43.585634"
+  },
+  {
+    "vehicle_count": 29,
+    "average_speed": 105.61645482405955,
+    "congestion_level": 0.23390718963754245,
+    "time_of_day": 0,
+    "timestamp": "2025-01-25T22:32:44.616377"
+  },
+  {
+    "vehicle_count": 144,
+    "average_speed": 64.00716680293392,
+    "congestion_level": 0.5112880037612777,
+    "time_of_day": 10,
+    "timestamp": "2025-01-25T22:32:45.646381"
+  },
+  {
+    "vehicle_count": 140,
+    "average_speed": 48.11439752914527,
+    "congestion_level": 0.5796078509697328,
+    "time_of_day": 17,
+    "timestamp": "2025-01-25T22:32:46.676260"
+  },
+  {
+    "vehicle_count": 145,
+    "average_speed": 68.56613637308882,
+    "congestion_level": 0.4045338914581275,
+    "time_of_day": 11,
+    "timestamp": "2025-01-25T22:32:47.696511"
+  },
+  {
+    "vehicle_count": 90,
+    "average_speed": 65.69959920543683,
+    "congestion_level": 0.36251546885747743,
+    "time_of_day": 5,
+    "timestamp": "2025-01-25T22:32:48.713223"
+  },
+  {
+    "vehicle_count": 50,
+    "average_speed": 51.360776181155416,
+    "congestion_level": 0.6647508220497043,
+    "time_of_day": 1,
+    "timestamp": "2025-01-25T22:32:49.726818"
+  },
+  {
+    "vehicle_count": 104,
+    "average_speed": 6.38797049281912,
+    "congestion_level": 0.9344076246531882,
+    "time_of_day": 0,
+    "timestamp": "2025-01-25T22:32:50.746987"
+  },
+  {
+    "vehicle_count": 108,
+    "average_speed": 14.142256717581537,
+    "congestion_level": 0.8893690619361794,
+    "time_of_day": 20,
+    "timestamp": "2025-01-25T22:32:51.784631"
+  },
+  {
+    "vehicle_count": 83,
+    "average_speed": 67.0384049918909,
+    "congestion_level": 0.5953810385894185,
+    "time_of_day": 14,
+    "timestamp": "2025-01-25T22:32:52.815273"
+  },
+  {
+    "vehicle_count": 90,
+    "average_speed": 15.138870697792008,
+    "congestion_level": 0.9556112012292876,
+    "time_of_day": 3,
+    "timestamp": "2025-01-25T22:32:53.839990"
+  },
+  {
+    "vehicle_count": 28,
+    "average_speed": 115.6871730366305,
+    "congestion_level": 0.1502678388581884,
+    "time_of_day": 3,
+    "timestamp": "2025-01-25T22:32:54.861006"
+  },
+  {
+    "vehicle_count": 53,
+    "average_speed": 55.68300822806252,
+    "congestion_level": 0.45506183720786625,
+    "time_of_day": 7,
+    "timestamp": "2025-01-25T22:32:55.884948"
+  },
+  {
+    "vehicle_count": 46,
+    "average_speed": 119.13919241512289,
+    "congestion_level": 0.2451396168585365,
+    "time_of_day": 13,
+    "timestamp": "2025-01-25T22:32:56.918011"
+  },
+  {
+    "vehicle_count": 117,
+    "average_speed": 66.27675600775379,
+    "congestion_level": 0.5897246869084152,
+    "time_of_day": 21,
+    "timestamp": "2025-01-25T22:32:57.944265"
+  },
+  {
+    "vehicle_count": 80,
+    "average_speed": 61.484039304754006,
+    "congestion_level": 0.4054394316302394,
+    "time_of_day": 0,
+    "timestamp": "2025-01-25T22:32:58.972707"
+  },
+  {
+    "vehicle_count": 59,
+    "average_speed": 67.08717223114313,
+    "congestion_level": 0.3494259955298109,
+    "time_of_day": 18,
+    "timestamp": "2025-01-25T22:32:59.997668"
+  },
+  {
+    "vehicle_count": 186,
+    "average_speed": 27.239440196784248,
+    "congestion_level": 0.854679451177014,
+    "time_of_day": 15,
+    "timestamp": "2025-01-25T22:33:01.020785"
+  },
+  {
+    "vehicle_count": 249,
+    "average_speed": 31.766945783877006,
+    "congestion_level": 0.730467042533387,
+    "time_of_day": 22,
+    "timestamp": "2025-01-25T22:33:02.041639"
+  },
+  {
+    "vehicle_count": 134,
+    "average_speed": 69.85504679639858,
+    "congestion_level": 0.38102866337492786,
+    "time_of_day": 12,
+    "timestamp": "2025-01-25T22:33:03.053840"
+  },
+  {
+    "vehicle_count": 141,
+    "average_speed": 65.08301154234218,
+    "congestion_level": 0.5958094350061769,
+    "time_of_day": 8,
+    "timestamp": "2025-01-25T22:33:04.075735"
+  },
+  {
+    "vehicle_count": 122,
+    "average_speed": 48.48221795547194,
+    "congestion_level": 0.6907281520535398,
+    "time_of_day": 21,
+    "timestamp": "2025-01-25T22:33:05.092938"
+  },
+  {
+    "vehicle_count": 77,
+    "average_speed": 43.3795449868709,
+    "congestion_level": 0.30240758250494665,
+    "time_of_day": 10,
+    "timestamp": "2025-01-25T22:33:06.105699"
+  },
+  {
+    "vehicle_count": 61,
+    "average_speed": 44.14591040599663,
+    "congestion_level": 0.5077453189668177,
+    "time_of_day": 23,
+    "timestamp": "2025-01-25T22:33:07.132087"
+  },
+  {
+    "vehicle_count": 125,
+    "average_speed": 59.04979631490251,
+    "congestion_level": 0.5371298088593351,
+    "time_of_day": 6,
+    "timestamp": "2025-01-25T22:33:08.165734"
+  },
+  {
+    "vehicle_count": 80,
+    "average_speed": 52.35594377477326,
+    "congestion_level": 0.6382630043987386,
+    "time_of_day": 18,
+    "timestamp": "2025-01-25T22:33:09.193400"
+  },
+  {
+    "vehicle_count": 228,
+    "average_speed": 34.98917622984677,
+    "congestion_level": 0.7134786824003452,
+    "time_of_day": 21,
+    "timestamp": "2025-01-25T22:33:10.228723"
+  },
+  {
+    "vehicle_count": 80,
+    "average_speed": 45.08324788910827,
+    "congestion_level": 0.6487664598246144,
+    "time_of_day": 21,
+    "timestamp": "2025-01-25T22:33:11.255418"
+  },
+  {
+    "vehicle_count": 136,
+    "average_speed": 48.64805874563655,
+    "congestion_level": 0.3481741639244461,
+    "time_of_day": 1,
+    "timestamp": "2025-01-25T22:33:12.272609"
+  },
+  {
+    "vehicle_count": 69,
+    "average_speed": 42.208669227537534,
+    "congestion_level": 0.3232863385005804,
+    "time_of_day": 15,
+    "timestamp": "2025-01-25T22:33:13.285227"
+  },
+  {
+    "vehicle_count": 132,
+    "average_speed": 68.86992054816177,
+    "congestion_level": 0.4198503822368591,
+    "time_of_day": 19,
+    "timestamp": "2025-01-25T22:33:14.314332"
+  },
+  {
+    "vehicle_count": 232,
+    "average_speed": 29.270220347689758,
+    "congestion_level": 0.8728262034792281,
+    "time_of_day": 19,
+    "timestamp": "2025-01-25T22:33:15.343094"
+  },
+  {
+    "vehicle_count": 69,
+    "average_speed": 62.695582993616064,
+    "congestion_level": 0.517218496603805,
+    "time_of_day": 5,
+    "timestamp": "2025-01-25T22:33:16.370842"
+  },
+  {
+    "vehicle_count": 126,
+    "average_speed": 49.77059666352535,
+    "congestion_level": 0.6577931298743359,
+    "time_of_day": 13,
+    "timestamp": "2025-01-25T22:33:17.407272"
+  },
+  {
+    "vehicle_count": 114,
+    "average_speed": 40.92165112415622,
+    "congestion_level": 0.3884137611538394,
+    "time_of_day": 10,
+    "timestamp": "2025-01-25T22:33:18.439337"
+  },
+  {
+    "vehicle_count": 97,
+    "average_speed": 64.690949351488,
+    "congestion_level": 0.4858023952350733,
+    "time_of_day": 12,
+    "timestamp": "2025-01-25T22:33:19.463656"
+  },
+  {
+    "vehicle_count": 59,
+    "average_speed": 52.30750026748489,
+    "congestion_level": 0.5804845301285673,
+    "time_of_day": 1,
+    "timestamp": "2025-01-25T22:33:20.483395"
+  },
+  {
+    "vehicle_count": 63,
+    "average_speed": 45.138775594241885,
+    "congestion_level": 0.684304296811066,
+    "time_of_day": 17,
+    "timestamp": "2025-01-25T22:33:21.498572"
+  },
+  {
+    "vehicle_count": 84,
+    "average_speed": 52.701972717262606,
+    "congestion_level": 0.6427036810268938,
+    "time_of_day": 16,
+    "timestamp": "2025-01-25T22:33:22.516763"
+  },
+  {
+    "vehicle_count": 120,
+    "average_speed": 12.63389747363701,
+    "congestion_level": 0.995158445710532,
+    "time_of_day": 8,
+    "timestamp": "2025-01-25T22:33:23.536302"
+  },
+  {
+    "vehicle_count": 140,
+    "average_speed": 63.94744291606305,
+    "congestion_level": 0.46713958539628353,
+    "time_of_day": 19,
+    "timestamp": "2025-01-25T22:33:24.567234"
+  },
+  {
+    "vehicle_count": 98,
+    "average_speed": 53.08643590179011,
+    "congestion_level": 0.41578862320324994,
+    "time_of_day": 9,
+    "timestamp": "2025-01-25T22:33:25.596035"
+  },
+  {
+    "vehicle_count": 115,
+    "average_speed": 40.76202784133903,
+    "congestion_level": 0.3239273160892711,
+    "time_of_day": 10,
+    "timestamp": "2025-01-25T22:33:26.625941"
+  },
+  {
+    "vehicle_count": 89,
+    "average_speed": 62.665069521359314,
+    "congestion_level": 0.33526512034881717,
+    "time_of_day": 21,
+    "timestamp": "2025-01-25T22:33:27.656649"
+  },
+  {
+    "vehicle_count": 40,
+    "average_speed": 117.88365279898744,
+    "congestion_level": 0.2482600417410797,
+    "time_of_day": 5,
+    "timestamp": "2025-01-25T22:33:28.682837"
+  },
+  {
+    "vehicle_count": 88,
+    "average_speed": 44.97955366217742,
+    "congestion_level": 0.677005803642571,
+    "time_of_day": 13,
+    "timestamp": "2025-01-25T22:33:29.711290"
+  },
+  {
+    "vehicle_count": 147,
+    "average_speed": 9.715402542118715,
+    "congestion_level": 0.8801083787000279,
+    "time_of_day": 6,
+    "timestamp": "2025-01-25T22:33:30.749526"
+  },
+  {
+    "vehicle_count": 69,
+    "average_speed": 55.98332509873774,
+    "congestion_level": 0.39141586532561495,
+    "time_of_day": 5,
+    "timestamp": "2025-01-25T22:33:31.778304"
+  },
+  {
+    "vehicle_count": 23,
+    "average_speed": 105.30417266157687,
+    "congestion_level": 0.2061347382376869,
+    "time_of_day": 23,
+    "timestamp": "2025-01-25T22:33:32.814324"
+  },
+  {
+    "vehicle_count": 95,
+    "average_speed": 45.57950282633547,
+    "congestion_level": 0.3058755994683791,
+    "time_of_day": 8,
+    "timestamp": "2025-01-25T22:33:33.827005"
+  },
+  {
+    "vehicle_count": 131,
+    "average_speed": 51.8311167577952,
+    "congestion_level": 0.4735392280573979,
+    "time_of_day": 21,
+    "timestamp": "2025-01-25T22:33:34.857585"
+  },
+  {
+    "vehicle_count": 55,
+    "average_speed": 63.38415782658301,
+    "congestion_level": 0.4711532723908972,
+    "time_of_day": 0,
+    "timestamp": "2025-01-25T22:33:35.874267"
+  },
+  {
+    "vehicle_count": 20,
+    "average_speed": 88.46449785686596,
+    "congestion_level": 0.18306482109695793,
+    "time_of_day": 16,
+    "timestamp": "2025-01-25T22:33:36.903620"
+  },
+  {
+    "vehicle_count": 165,
+    "average_speed": 24.252870262080485,
+    "congestion_level": 0.8530932529160106,
+    "time_of_day": 3,
+    "timestamp": "2025-01-25T22:33:37.928844"
+  },
+  {
+    "vehicle_count": 130,
+    "average_speed": 54.39662758730551,
+    "congestion_level": 0.3254878929038157,
+    "time_of_day": 2,
+    "timestamp": "2025-01-25T22:33:38.941339"
+  },
+  {
+    "vehicle_count": 237,
+    "average_speed": 20.593253624050824,
+    "congestion_level": 0.8893305096517894,
+    "time_of_day": 19,
+    "timestamp": "2025-01-25T22:33:39.954004"
+  },
+  {
+    "vehicle_count": 83,
+    "average_speed": 51.461708183510595,
+    "congestion_level": 0.40846916190301114,
+    "time_of_day": 13,
+    "timestamp": "2025-01-25T22:33:40.979367"
+  },
+  {
+    "vehicle_count": 110,
+    "average_speed": 61.38354207296498,
+    "congestion_level": 0.5309094546935846,
+    "time_of_day": 4,
+    "timestamp": "2025-01-25T22:33:42.006826"
+  },
+  {
+    "vehicle_count": 41,
+    "average_speed": 103.37498165508339,
+    "congestion_level": 0.2740235381451779,
+    "time_of_day": 16,
+    "timestamp": "2025-01-25T22:33:43.042110"
+  },
+  {
+    "vehicle_count": 95,
+    "average_speed": 13.408744755531153,
+    "congestion_level": 0.8122939435314387,
+    "time_of_day": 14,
+    "timestamp": "2025-01-25T22:33:44.067774"
+  },
+  {
+    "vehicle_count": 112,
+    "average_speed": 65.40380892381805,
+    "congestion_level": 0.32972462367556826,
+    "time_of_day": 12,
+    "timestamp": "2025-01-25T22:33:45.096337"
+  },
+  {
+    "vehicle_count": 149,
+    "average_speed": 59.054748042514035,
+    "congestion_level": 0.4698832353110606,
+    "time_of_day": 4,
+    "timestamp": "2025-01-25T22:33:46.127658"
+  },
+  {
+    "vehicle_count": 126,
+    "average_speed": 63.03819816215048,
+    "congestion_level": 0.4839097892918879,
+    "time_of_day": 2,
+    "timestamp": "2025-01-25T22:33:47.158089"
+  },
+  {
+    "vehicle_count": 214,
+    "average_speed": 21.385994636949764,
+    "congestion_level": 0.7683426573494898,
+    "time_of_day": 2,
+    "timestamp": "2025-01-25T22:33:48.194521"
+  },
+  {
+    "vehicle_count": 106,
+    "average_speed": 58.021538931205455,
+    "congestion_level": 0.32200618494038225,
+    "time_of_day": 4,
+    "timestamp": "2025-01-25T22:33:49.207938"
+  },
+  {
+    "vehicle_count": 144,
+    "average_speed": 66.9292908159481,
+    "congestion_level": 0.5784753541838616,
+    "time_of_day": 8,
+    "timestamp": "2025-01-25T22:33:50.226750"
+  },
+  {
+    "vehicle_count": 144,
+    "average_speed": 63.3472972553642,
+    "congestion_level": 0.3390377213032111,
+    "time_of_day": 10,
+    "timestamp": "2025-01-25T22:33:51.256275"
+  },
+  {
+    "vehicle_count": 148,
+    "average_speed": 44.57301962995119,
+    "congestion_level": 0.3323432135606674,
+    "time_of_day": 23,
+    "timestamp": "2025-01-25T22:33:52.284528"
+  },
+  {
+    "vehicle_count": 95,
+    "average_speed": 53.598291183565834,
+    "congestion_level": 0.5380736699749119,
+    "time_of_day": 4,
+    "timestamp": "2025-01-25T22:33:53.316200"
+  },
+  {
+    "vehicle_count": 128,
+    "average_speed": 55.775675367572056,
+    "congestion_level": 0.5764200916365325,
+    "time_of_day": 13,
+    "timestamp": "2025-01-25T22:33:54.329111"
+  },
+  {
+    "vehicle_count": 61,
+    "average_speed": 42.058145152883206,
+    "congestion_level": 0.6786152988306687,
+    "time_of_day": 23,
+    "timestamp": "2025-01-25T22:33:55.353865"
+  },
+  {
+    "vehicle_count": 50,
+    "average_speed": 53.891115563303515,
+    "congestion_level": 0.4519919047122005,
+    "time_of_day": 18,
+    "timestamp": "2025-01-25T22:33:56.373718"
+  },
+  {
+    "vehicle_count": 87,
+    "average_speed": 57.55188014510715,
+    "congestion_level": 0.42063814984749925,
+    "time_of_day": 18,
+    "timestamp": "2025-01-25T22:33:57.387338"
+  },
+  {
+    "vehicle_count": 59,
+    "average_speed": 54.83332503253714,
+    "congestion_level": 0.42270007402378673,
+    "time_of_day": 18,
+    "timestamp": "2025-01-25T22:33:58.405141"
+  },
+  {
+    "vehicle_count": 91,
+    "average_speed": 43.53189056463931,
+    "congestion_level": 0.6041513997789567,
+    "time_of_day": 5,
+    "timestamp": "2025-01-25T22:33:59.427287"
+  },
+  {
+    "vehicle_count": 146,
+    "average_speed": 55.895965803735606,
+    "congestion_level": 0.6240888894058265,
+    "time_of_day": 5,
+    "timestamp": "2025-01-25T22:34:00.454925"
+  },
+  {
+    "vehicle_count": 91,
+    "average_speed": 51.95356334065093,
+    "congestion_level": 0.3775725136585798,
+    "time_of_day": 9,
+    "timestamp": "2025-01-25T22:34:01.481540"
+  },
+  {
+    "vehicle_count": 22,
+    "average_speed": 106.66941131368395,
+    "congestion_level": 0.15981217884909615,
+    "time_of_day": 20,
+    "timestamp": "2025-01-25T22:34:02.509977"
+  },
+  {
+    "vehicle_count": 103,
+    "average_speed": 66.39500547433813,
+    "congestion_level": 0.38233724355596466,
+    "time_of_day": 0,
+    "timestamp": "2025-01-25T22:34:03.546176"
+  },
+  {
+    "vehicle_count": 28,
+    "average_speed": 115.76812930403318,
+    "congestion_level": 0.14308529231416817,
+    "time_of_day": 15,
+    "timestamp": "2025-01-25T22:34:04.575090"
+  },
+  {
+    "vehicle_count": 129,
+    "average_speed": 68.66017518830658,
+    "congestion_level": 0.5265299234963342,
+    "time_of_day": 10,
+    "timestamp": "2025-01-25T22:34:05.590084"
+  },
+  {
+    "vehicle_count": 124,
+    "average_speed": 51.15602492047896,
+    "congestion_level": 0.62820963299137,
+    "time_of_day": 12,
+    "timestamp": "2025-01-25T22:34:06.619129"
+  },
+  {
+    "vehicle_count": 128,
+    "average_speed": 18.218805486095537,
+    "congestion_level": 0.841105949235785,
+    "time_of_day": 7,
+    "timestamp": "2025-01-25T22:34:07.646242"
+  },
+  {
+    "vehicle_count": 62,
+    "average_speed": 64.44654442771112,
+    "congestion_level": 0.6764996867766142,
+    "time_of_day": 12,
+    "timestamp": "2025-01-25T22:34:08.687418"
+  },
+  {
+    "vehicle_count": 95,
+    "average_speed": 69.37063600879432,
+    "congestion_level": 0.6959563667662485,
+    "time_of_day": 21,
+    "timestamp": "2025-01-25T22:34:09.711223"
+  },
+  {
+    "vehicle_count": 82,
+    "average_speed": 60.303348371605395,
+    "congestion_level": 0.5871577322072344,
+    "time_of_day": 12,
+    "timestamp": "2025-01-25T22:34:10.740822"
+  },
+  {
+    "vehicle_count": 106,
+    "average_speed": 65.50795596514476,
+    "congestion_level": 0.5634310177024253,
+    "time_of_day": 3,
+    "timestamp": "2025-01-25T22:34:11.769911"
+  },
+  {
+    "vehicle_count": 70,
+    "average_speed": 50.238890267862146,
+    "congestion_level": 0.6217380478446217,
+    "time_of_day": 14,
+    "timestamp": "2025-01-25T22:34:12.798551"
+  },
+  {
+    "vehicle_count": 41,
+    "average_speed": 110.25705652724558,
+    "congestion_level": 0.26592395606888164,
+    "time_of_day": 21,
+    "timestamp": "2025-01-25T22:34:13.823323"
+  },
+  {
+    "vehicle_count": 33,
+    "average_speed": 89.54808111291474,
+    "congestion_level": 0.286071573852722,
+    "time_of_day": 21,
+    "timestamp": "2025-01-25T22:34:14.839363"
+  },
+  {
+    "vehicle_count": 126,
+    "average_speed": 67.76820888314413,
+    "congestion_level": 0.6969617937728126,
+    "time_of_day": 8,
+    "timestamp": "2025-01-25T22:34:15.853137"
+  },
+  {
+    "vehicle_count": 105,
+    "average_speed": 41.60447621160077,
+    "congestion_level": 0.5485698920010851,
+    "time_of_day": 21,
+    "timestamp": "2025-01-25T22:34:16.871877"
+  },
+  {
+    "vehicle_count": 95,
+    "average_speed": 42.45931756549996,
+    "congestion_level": 0.42544431878763667,
+    "time_of_day": 17,
+    "timestamp": "2025-01-25T22:34:17.902256"
+  },
+  {
+    "vehicle_count": 76,
+    "average_speed": 63.66079339305772,
+    "congestion_level": 0.4800463810104024,
+    "time_of_day": 11,
+    "timestamp": "2025-01-25T22:34:18.934265"
+  },
+  {
+    "vehicle_count": 98,
+    "average_speed": 41.262009900094775,
+    "congestion_level": 0.633830860053298,
+    "time_of_day": 13,
+    "timestamp": "2025-01-25T22:34:19.947344"
+  },
+  {
+    "vehicle_count": 73,
+    "average_speed": 44.477798038533045,
+    "congestion_level": 0.5263258960086514,
+    "time_of_day": 10,
+    "timestamp": "2025-01-25T22:34:20.967004"
+  },
+  {
+    "vehicle_count": 150,
+    "average_speed": 49.07757998011882,
+    "congestion_level": 0.47424071566293624,
+    "time_of_day": 0,
+    "timestamp": "2025-01-25T22:34:21.997436"
+  },
+  {
+    "vehicle_count": 109,
+    "average_speed": 67.78970795923276,
+    "congestion_level": 0.42199687321908996,
+    "time_of_day": 6,
+    "timestamp": "2025-01-25T22:34:23.014909"
+  },
+  {
+    "vehicle_count": 77,
+    "average_speed": 67.37771287398769,
+    "congestion_level": 0.37726576565722475,
+    "time_of_day": 5,
+    "timestamp": "2025-01-25T22:34:24.051909"
+  },
+  {
+    "vehicle_count": 86,
+    "average_speed": 55.1819764311193,
+    "congestion_level": 0.37360166381251814,
+    "time_of_day": 9,
+    "timestamp": "2025-01-25T22:34:25.072017"
+  },
+  {
+    "vehicle_count": 50,
+    "average_speed": 63.44478220502593,
+    "congestion_level": 0.4052053442298008,
+    "time_of_day": 2,
+    "timestamp": "2025-01-25T22:34:26.103659"
+  },
+  {
+    "vehicle_count": 109,
+    "average_speed": 62.81937513830928,
+    "congestion_level": 0.39759346154249897,
+    "time_of_day": 7,
+    "timestamp": "2025-01-25T22:34:27.133822"
+  },
+  {
+    "vehicle_count": 149,
+    "average_speed": 56.14211892580404,
+    "congestion_level": 0.3261249060236274,
+    "time_of_day": 19,
+    "timestamp": "2025-01-25T22:34:28.162787"
+  },
+  {
+    "vehicle_count": 200,
+    "average_speed": 30.070410262070432,
+    "congestion_level": 0.7696904552365583,
+    "time_of_day": 19,
+    "timestamp": "2025-01-25T22:34:29.198713"
+  },
+  {
+    "vehicle_count": 79,
+    "average_speed": 64.51223250715054,
+    "congestion_level": 0.6854044220243508,
+    "time_of_day": 1,
+    "timestamp": "2025-01-25T22:34:30.214426"
+  },
+  {
+    "vehicle_count": 50,
+    "average_speed": 64.11576085378539,
+    "congestion_level": 0.6194037647813675,
+    "time_of_day": 7,
+    "timestamp": "2025-01-25T22:34:31.231145"
+  },
+  {
+    "vehicle_count": 205,
+    "average_speed": 27.475575583256454,
+    "congestion_level": 0.8962013441253536,
+    "time_of_day": 5,
+    "timestamp": "2025-01-25T22:34:32.250441"
+  },
+  {
+    "vehicle_count": 119,
+    "average_speed": 43.204784415597096,
+    "congestion_level": 0.333932249043444,
+    "time_of_day": 12,
+    "timestamp": "2025-01-25T22:34:33.264954"
+  },
+  {
+    "vehicle_count": 93,
+    "average_speed": 60.93253885044256,
+    "congestion_level": 0.5844602068959959,
+    "time_of_day": 17,
+    "timestamp": "2025-01-25T22:34:34.285644"
+  },
+  {
+    "vehicle_count": 72,
+    "average_speed": 60.977714787473786,
+    "congestion_level": 0.5842255607325963,
+    "time_of_day": 1,
+    "timestamp": "2025-01-25T22:34:35.301705"
+  },
+  {
+    "vehicle_count": 141,
+    "average_speed": 11.113151077952114,
+    "congestion_level": 0.8689293026571027,
+    "time_of_day": 11,
+    "timestamp": "2025-01-25T22:34:36.322540"
+  },
+  {
+    "vehicle_count": 96,
+    "average_speed": 65.19551196876925,
+    "congestion_level": 0.6413714827919043,
+    "time_of_day": 18,
+    "timestamp": "2025-01-25T22:34:37.355304"
+  },
+  {
+    "vehicle_count": 91,
+    "average_speed": 47.47734332574701,
+    "congestion_level": 0.5536538263496946,
+    "time_of_day": 22,
+    "timestamp": "2025-01-25T22:34:38.384536"
+  },
+  {
+    "vehicle_count": 90,
+    "average_speed": 43.776052239127374,
+    "congestion_level": 0.449445787536826,
+    "time_of_day": 13,
+    "timestamp": "2025-01-25T22:34:39.414606"
+  },
+  {
+    "vehicle_count": 92,
+    "average_speed": 47.59319990648596,
+    "congestion_level": 0.5761856532424778,
+    "time_of_day": 8,
+    "timestamp": "2025-01-25T22:34:40.437052"
+  },
+  {
+    "vehicle_count": 33,
+    "average_speed": 117.06063024390497,
+    "congestion_level": 0.14286841417050145,
+    "time_of_day": 19,
+    "timestamp": "2025-01-25T22:34:41.471950"
+  },
+  {
+    "vehicle_count": 131,
+    "average_speed": 55.94033132856593,
+    "congestion_level": 0.35113847767715023,
+    "time_of_day": 22,
+    "timestamp": "2025-01-25T22:34:42.494266"
+  },
+  {
+    "vehicle_count": 67,
+    "average_speed": 68.79409183497141,
+    "congestion_level": 0.5727593776317448,
+    "time_of_day": 23,
+    "timestamp": "2025-01-25T22:34:43.511334"
+  },
+  {
+    "vehicle_count": 232,
+    "average_speed": 23.73137446910637,
+    "congestion_level": 0.7135572536411056,
+    "time_of_day": 21,
+    "timestamp": "2025-01-25T22:34:44.541701"
+  },
+  {
+    "vehicle_count": 52,
+    "average_speed": 46.51581064536854,
+    "congestion_level": 0.48509024044858223,
+    "time_of_day": 17,
+    "timestamp": "2025-01-25T22:34:45.555089"
+  },
+  {
+    "vehicle_count": 119,
+    "average_speed": 13.459224102006639,
+    "congestion_level": 0.9336658584448432,
+    "time_of_day": 9,
+    "timestamp": "2025-01-25T22:34:46.577744"
+  },
+  {
+    "vehicle_count": 139,
+    "average_speed": 56.0407838539079,
+    "congestion_level": 0.627338529524716,
+    "time_of_day": 18,
+    "timestamp": "2025-01-25T22:34:47.606525"
+  },
+  {
+    "vehicle_count": 80,
+    "average_speed": 56.45977050844736,
+    "congestion_level": 0.5758142688541092,
+    "time_of_day": 19,
+    "timestamp": "2025-01-25T22:34:48.625872"
+  },
+  {
+    "vehicle_count": 76,
+    "average_speed": 44.54432628782403,
+    "congestion_level": 0.48727549635347067,
+    "time_of_day": 8,
+    "timestamp": "2025-01-25T22:34:49.649137"
+  },
+  {
+    "vehicle_count": 131,
+    "average_speed": 53.85444169035872,
+    "congestion_level": 0.3789634404864234,
+    "time_of_day": 1,
+    "timestamp": "2025-01-25T22:34:50.662704"
+  },
+  {
+    "vehicle_count": 71,
+    "average_speed": 61.02036842010494,
+    "congestion_level": 0.5615883768297203,
+    "time_of_day": 1,
+    "timestamp": "2025-01-25T22:34:51.688715"
+  },
+  {
+    "vehicle_count": 99,
+    "average_speed": 16.035361711938506,
+    "congestion_level": 0.8273515815275694,
+    "time_of_day": 17,
+    "timestamp": "2025-01-25T22:34:52.713853"
+  },
+  {
+    "vehicle_count": 57,
+    "average_speed": 44.66341895605102,
+    "congestion_level": 0.6838167545202289,
+    "time_of_day": 10,
+    "timestamp": "2025-01-25T22:34:53.730640"
+  },
+  {
+    "vehicle_count": 109,
+    "average_speed": 57.50312635947519,
+    "congestion_level": 0.5569828838122854,
+    "time_of_day": 1,
+    "timestamp": "2025-01-25T22:34:54.766587"
+  },
+  {
+    "vehicle_count": 149,
+    "average_speed": 44.22821591428332,
+    "congestion_level": 0.4476294853651604,
+    "time_of_day": 3,
+    "timestamp": "2025-01-25T22:34:55.790551"
+  },
+  {
+    "vehicle_count": 106,
+    "average_speed": 56.021390466367436,
+    "congestion_level": 0.5961604502377174,
+    "time_of_day": 21,
+    "timestamp": "2025-01-25T22:34:56.819234"
+  },
+  {
+    "vehicle_count": 78,
+    "average_speed": 63.92169231715626,
+    "congestion_level": 0.45984742084985625,
+    "time_of_day": 10,
+    "timestamp": "2025-01-25T22:34:57.842555"
+  },
+  {
+    "vehicle_count": 132,
+    "average_speed": 60.61365492646114,
+    "congestion_level": 0.47481826476363703,
+    "time_of_day": 13,
+    "timestamp": "2025-01-25T22:34:58.864300"
+  },
+  {
+    "vehicle_count": 104,
+    "average_speed": 48.28332954998365,
+    "congestion_level": 0.31578829162756306,
+    "time_of_day": 16,
+    "timestamp": "2025-01-25T22:34:59.903274"
+  },
+  {
+    "vehicle_count": 104,
+    "average_speed": 47.64637467608681,
+    "congestion_level": 0.5294353117768026,
+    "time_of_day": 22,
+    "timestamp": "2025-01-25T22:35:00.916336"
+  },
+  {
+    "vehicle_count": 57,
+    "average_speed": 60.45297428487496,
+    "congestion_level": 0.5142330388453623,
+    "time_of_day": 18,
+    "timestamp": "2025-01-25T22:35:01.945595"
+  },
+  {
+    "vehicle_count": 90,
+    "average_speed": 60.29923863053189,
+    "congestion_level": 0.6401193484919563,
+    "time_of_day": 9,
+    "timestamp": "2025-01-25T22:35:02.975772"
+  },
+  {
+    "vehicle_count": 110,
+    "average_speed": 44.14776005093865,
+    "congestion_level": 0.3848513033563464,
+    "time_of_day": 4,
+    "timestamp": "2025-01-25T22:35:03.996034"
+  },
+  {
+    "vehicle_count": 77,
+    "average_speed": 43.75377337107096,
+    "congestion_level": 0.45758696436454155,
+    "time_of_day": 12,
+    "timestamp": "2025-01-25T22:35:05.024027"
+  },
+  {
+    "vehicle_count": 114,
+    "average_speed": 47.38107452962165,
+    "congestion_level": 0.5951456130358317,
+    "time_of_day": 0,
+    "timestamp": "2025-01-25T22:35:06.036920"
+  },
+  {
+    "vehicle_count": 122,
+    "average_speed": 43.415656503362264,
+    "congestion_level": 0.5777404282921696,
+    "time_of_day": 5,
+    "timestamp": "2025-01-25T22:35:07.056335"
+  },
+  {
+    "vehicle_count": 74,
+    "average_speed": 43.79866836572075,
+    "congestion_level": 0.40202932857286916,
+    "time_of_day": 4,
+    "timestamp": "2025-01-25T22:35:08.069570"
+  },
+  {
+    "vehicle_count": 191,
+    "average_speed": 28.383938135130084,
+    "congestion_level": 0.858900391292645,
+    "time_of_day": 23,
+    "timestamp": "2025-01-25T22:35:09.093774"
+  },
+  {
+    "vehicle_count": 125,
+    "average_speed": 56.577466134767846,
+    "congestion_level": 0.42062656362362016,
+    "time_of_day": 17,
+    "timestamp": "2025-01-25T22:35:10.130505"
+  },
+  {
+    "vehicle_count": 83,
+    "average_speed": 40.1419881187177,
+    "congestion_level": 0.5312318113880187,
+    "time_of_day": 8,
+    "timestamp": "2025-01-25T22:35:11.162455"
+  },
+  {
+    "vehicle_count": 128,
+    "average_speed": 65.00652039500638,
+    "congestion_level": 0.5302275038039589,
+    "time_of_day": 4,
+    "timestamp": "2025-01-25T22:35:12.187083"
+  },
+  {
+    "vehicle_count": 128,
+    "average_speed": 40.24722116491499,
+    "congestion_level": 0.3901493640230165,
+    "time_of_day": 13,
+    "timestamp": "2025-01-25T22:35:13.209980"
+  },
+  {
+    "vehicle_count": 126,
+    "average_speed": 62.19744200082643,
+    "congestion_level": 0.5802427009916656,
+    "time_of_day": 22,
+    "timestamp": "2025-01-25T22:35:14.260379"
+  },
+  {
+    "vehicle_count": 145,
+    "average_speed": 59.123731489868106,
+    "congestion_level": 0.3068260105071247,
+    "time_of_day": 5,
+    "timestamp": "2025-01-25T22:35:15.298086"
+  },
+  {
+    "vehicle_count": 109,
+    "average_speed": 44.66397651479933,
+    "congestion_level": 0.4646515369491072,
+    "time_of_day": 9,
+    "timestamp": "2025-01-25T22:35:16.311890"
+  },
+  {
+    "vehicle_count": 119,
+    "average_speed": 57.097522868465596,
+    "congestion_level": 0.42898525070783783,
+    "time_of_day": 13,
+    "timestamp": "2025-01-25T22:35:17.341963"
+  },
+  {
+    "vehicle_count": 110,
+    "average_speed": 63.10546355515019,
+    "congestion_level": 0.5786488245306971,
+    "time_of_day": 6,
+    "timestamp": "2025-01-25T22:35:18.371541"
+  },
+  {
+    "vehicle_count": 144,
+    "average_speed": 55.06128192662689,
+    "congestion_level": 0.45277936164028953,
+    "time_of_day": 9,
+    "timestamp": "2025-01-25T22:35:19.402698"
+  },
+  {
+    "vehicle_count": 121,
+    "average_speed": 43.9697081612412,
+    "congestion_level": 0.6103371609652808,
+    "time_of_day": 8,
+    "timestamp": "2025-01-25T22:35:20.423678"
+  },
+  {
+    "vehicle_count": 149,
+    "average_speed": 6.752835905539051,
+    "congestion_level": 0.8126690689662778,
+    "time_of_day": 2,
+    "timestamp": "2025-01-25T22:35:21.437201"
+  },
+  {
+    "vehicle_count": 101,
+    "average_speed": 63.46716036445707,
+    "congestion_level": 0.4459946831381733,
+    "time_of_day": 2,
+    "timestamp": "2025-01-25T22:35:22.462682"
+  },
+  {
+    "vehicle_count": 63,
+    "average_speed": 48.08417953509756,
+    "congestion_level": 0.37522068629270766,
+    "time_of_day": 6,
+    "timestamp": "2025-01-25T22:35:23.482119"
+  },
+  {
+    "vehicle_count": 61,
+    "average_speed": 47.01444312978799,
+    "congestion_level": 0.45616571437623094,
+    "time_of_day": 12,
+    "timestamp": "2025-01-25T22:35:24.497662"
+  },
+  {
+    "vehicle_count": 124,
+    "average_speed": 46.451768812641674,
+    "congestion_level": 0.5808325624031859,
+    "time_of_day": 18,
+    "timestamp": "2025-01-25T22:35:25.516803"
+  },
+  {
+    "vehicle_count": 21,
+    "average_speed": 107.9408942157411,
+    "congestion_level": 0.2420613520494496,
+    "time_of_day": 15,
+    "timestamp": "2025-01-25T22:35:26.545826"
+  },
+  {
+    "vehicle_count": 41,
+    "average_speed": 95.4251667549405,
+    "congestion_level": 0.26087670100559135,
+    "time_of_day": 17,
+    "timestamp": "2025-01-25T22:35:27.572250"
+  },
+  {
+    "vehicle_count": 47,
+    "average_speed": 91.72450005888122,
+    "congestion_level": 0.10289626095782584,
+    "time_of_day": 19,
+    "timestamp": "2025-01-25T22:35:28.600127"
+  },
+  {
+    "vehicle_count": 54,
+    "average_speed": 54.35223542556814,
+    "congestion_level": 0.4999991413752871,
+    "time_of_day": 21,
+    "timestamp": "2025-01-25T22:35:29.626205"
+  },
+  {
+    "vehicle_count": 127,
+    "average_speed": 57.95270573116834,
+    "congestion_level": 0.5248874856130887,
+    "time_of_day": 19,
+    "timestamp": "2025-01-25T22:35:30.663009"
+  },
+  {
+    "vehicle_count": 118,
+    "average_speed": 53.041262123641935,
+    "congestion_level": 0.4248586274151286,
+    "time_of_day": 0,
+    "timestamp": "2025-01-25T22:35:31.676639"
+  },
+  {
+    "vehicle_count": 150,
+    "average_speed": 52.418052489677976,
+    "congestion_level": 0.46980621065073996,
+    "time_of_day": 7,
+    "timestamp": "2025-01-25T22:35:32.706165"
+  },
+  {
+    "vehicle_count": 219,
+    "average_speed": 23.009244011584702,
+    "congestion_level": 0.8443128637617772,
+    "time_of_day": 22,
+    "timestamp": "2025-01-25T22:35:33.737315"
+  },
+  {
+    "vehicle_count": 55,
+    "average_speed": 44.42573164913441,
+    "congestion_level": 0.6044003309259902,
+    "time_of_day": 16,
+    "timestamp": "2025-01-25T22:35:34.767515"
+  },
+  {
+    "vehicle_count": 61,
+    "average_speed": 51.251838269819714,
+    "congestion_level": 0.35996345583341677,
+    "time_of_day": 17,
+    "timestamp": "2025-01-25T22:35:35.804200"
+  },
+  {
+    "vehicle_count": 142,
+    "average_speed": 57.62046884562166,
+    "congestion_level": 0.4363713359510413,
+    "time_of_day": 14,
+    "timestamp": "2025-01-25T22:35:36.818130"
+  },
+  {
+    "vehicle_count": 110,
+    "average_speed": 42.08977793431738,
+    "congestion_level": 0.6827136992738136,
+    "time_of_day": 11,
+    "timestamp": "2025-01-25T22:35:37.847248"
+  },
+  {
+    "vehicle_count": 134,
+    "average_speed": 67.93506431498056,
+    "congestion_level": 0.48177121840180515,
+    "time_of_day": 4,
+    "timestamp": "2025-01-25T22:35:38.877712"
+  },
+  {
+    "vehicle_count": 131,
+    "average_speed": 46.4028300251565,
+    "congestion_level": 0.467641045047512,
+    "time_of_day": 6,
+    "timestamp": "2025-01-25T22:35:39.902221"
+  },
+  {
+    "vehicle_count": 86,
+    "average_speed": 9.871973399140622,
+    "congestion_level": 0.9728679424181026,
+    "time_of_day": 9,
+    "timestamp": "2025-01-25T22:35:40.926004"
+  },
+  {
+    "vehicle_count": 36,
+    "average_speed": 100.71658502851861,
+    "congestion_level": 0.28897013408195954,
+    "time_of_day": 10,
+    "timestamp": "2025-01-25T22:35:41.940525"
+  },
+  {
+    "vehicle_count": 145,
+    "average_speed": 68.64195111530478,
+    "congestion_level": 0.3668689482819966,
+    "time_of_day": 5,
+    "timestamp": "2025-01-25T22:35:42.955146"
+  },
+  {
+    "vehicle_count": 112,
+    "average_speed": 65.25863529063672,
+    "congestion_level": 0.4532709584431951,
+    "time_of_day": 6,
+    "timestamp": "2025-01-25T22:35:43.985430"
+  },
+  {
+    "vehicle_count": 86,
+    "average_speed": 5.652353921972429,
+    "congestion_level": 0.9158213288636697,
+    "time_of_day": 11,
+    "timestamp": "2025-01-25T22:35:45.015772"
+  },
+  {
+    "vehicle_count": 82,
+    "average_speed": 50.809253313893734,
+    "congestion_level": 0.4226836554575939,
+    "time_of_day": 17,
+    "timestamp": "2025-01-25T22:35:46.051234"
+  },
+  {
+    "vehicle_count": 237,
+    "average_speed": 26.255777557454472,
+    "congestion_level": 0.8285191345979075,
+    "time_of_day": 0,
+    "timestamp": "2025-01-25T22:35:47.067687"
+  },
+  {
+    "vehicle_count": 98,
+    "average_speed": 6.040716705156351,
+    "congestion_level": 0.9339848482035839,
+    "time_of_day": 6,
+    "timestamp": "2025-01-25T22:35:48.094312"
+  },
+  {
+    "vehicle_count": 141,
+    "average_speed": 50.5288578976924,
+    "congestion_level": 0.3994341976177984,
+    "time_of_day": 15,
+    "timestamp": "2025-01-25T22:35:49.123854"
+  },
+  {
+    "vehicle_count": 148,
+    "average_speed": 40.22396702143384,
+    "congestion_level": 0.4115225181504134,
+    "time_of_day": 18,
+    "timestamp": "2025-01-25T22:35:50.145024"
+  },
+  {
+    "vehicle_count": 56,
+    "average_speed": 64.35223128108134,
+    "congestion_level": 0.5515161936587305,
+    "time_of_day": 19,
+    "timestamp": "2025-01-25T22:35:51.182689"
+  },
+  {
+    "vehicle_count": 117,
+    "average_speed": 60.28893695242442,
+    "congestion_level": 0.5966902586327474,
+    "time_of_day": 20,
+    "timestamp": "2025-01-25T22:35:52.197984"
+  },
+  {
+    "vehicle_count": 87,
+    "average_speed": 54.95100490570478,
+    "congestion_level": 0.512041726500765,
+    "time_of_day": 6,
+    "timestamp": "2025-01-25T22:35:53.228029"
+  },
+  {
+    "vehicle_count": 121,
+    "average_speed": 52.495336168541826,
+    "congestion_level": 0.493325195549228,
+    "time_of_day": 9,
+    "timestamp": "2025-01-25T22:35:54.246451"
+  },
+  {
+    "vehicle_count": 117,
+    "average_speed": 59.61175718202347,
+    "congestion_level": 0.4573066832513189,
+    "time_of_day": 19,
+    "timestamp": "2025-01-25T22:35:55.276635"
+  },
+  {
+    "vehicle_count": 59,
+    "average_speed": 66.49613271058709,
+    "congestion_level": 0.5203322439228208,
+    "time_of_day": 10,
+    "timestamp": "2025-01-25T22:35:56.310246"
+  },
+  {
+    "vehicle_count": 107,
+    "average_speed": 10.154614603657889,
+    "congestion_level": 0.9792205069380207,
+    "time_of_day": 0,
+    "timestamp": "2025-01-25T22:35:57.323623"
+  },
+  {
+    "vehicle_count": 230,
+    "average_speed": 22.77097607766521,
+    "congestion_level": 0.8407052658363809,
+    "time_of_day": 4,
+    "timestamp": "2025-01-25T22:35:58.340066"
+  },
+  {
+    "vehicle_count": 119,
+    "average_speed": 66.81026927500425,
+    "congestion_level": 0.40619585112978174,
+    "time_of_day": 20,
+    "timestamp": "2025-01-25T22:35:59.352710"
+  },
+  {
+    "vehicle_count": 53,
+    "average_speed": 47.91982893035603,
+    "congestion_level": 0.3977066461815537,
+    "time_of_day": 19,
+    "timestamp": "2025-01-25T22:36:00.379866"
+  },
+  {
+    "vehicle_count": 63,
+    "average_speed": 41.73412354713229,
+    "congestion_level": 0.6295480325808543,
+    "time_of_day": 21,
+    "timestamp": "2025-01-25T22:36:01.414006"
+  },
+  {
+    "vehicle_count": 110,
+    "average_speed": 49.90484402820209,
+    "congestion_level": 0.37789354561608696,
+    "time_of_day": 6,
+    "timestamp": "2025-01-25T22:36:02.428876"
+  },
+  {
+    "vehicle_count": 136,
+    "average_speed": 57.64864975353535,
+    "congestion_level": 0.5127868991591665,
+    "time_of_day": 9,
+    "timestamp": "2025-01-25T22:36:03.456832"
+  },
+  {
+    "vehicle_count": 179,
+    "average_speed": 20.022023148530504,
+    "congestion_level": 0.7542008763564549,
+    "time_of_day": 15,
+    "timestamp": "2025-01-25T22:36:04.486175"
+  },
+  {
+    "vehicle_count": 52,
+    "average_speed": 53.26618408793184,
+    "congestion_level": 0.3259281909983767,
+    "time_of_day": 22,
+    "timestamp": "2025-01-25T22:36:05.515686"
+  },
+  {
+    "vehicle_count": 66,
+    "average_speed": 54.93018836345736,
+    "congestion_level": 0.32654915816320723,
+    "time_of_day": 4,
+    "timestamp": "2025-01-25T22:36:06.545138"
+  },
+  {
+    "vehicle_count": 144,
+    "average_speed": 67.45523109231095,
+    "congestion_level": 0.6179181637596718,
+    "time_of_day": 4,
+    "timestamp": "2025-01-25T22:36:07.558776"
+  },
+  {
+    "vehicle_count": 134,
+    "average_speed": 49.3118089625569,
+    "congestion_level": 0.3645876165816375,
+    "time_of_day": 12,
+    "timestamp": "2025-01-25T22:36:08.575052"
+  },
+  {
+    "vehicle_count": 108,
+    "average_speed": 63.58873720082898,
+    "congestion_level": 0.5687703810629811,
+    "time_of_day": 16,
+    "timestamp": "2025-01-25T22:36:09.590157"
+  },
+  {
+    "vehicle_count": 114,
+    "average_speed": 41.99949300541966,
+    "congestion_level": 0.43055134979766546,
+    "time_of_day": 4,
+    "timestamp": "2025-01-25T22:36:10.615193"
+  },
+  {
+    "vehicle_count": 144,
+    "average_speed": 16.095395931850703,
+    "congestion_level": 0.8192073984959557,
+    "time_of_day": 4,
+    "timestamp": "2025-01-25T22:36:11.649728"
+  },
+  {
+    "vehicle_count": 116,
+    "average_speed": 45.72378907960395,
+    "congestion_level": 0.5725930660238305,
+    "time_of_day": 2,
+    "timestamp": "2025-01-25T22:36:12.679996"
+  },
+  {
+    "vehicle_count": 112,
+    "average_speed": 61.79704994596253,
+    "congestion_level": 0.6173375486861401,
+    "time_of_day": 3,
+    "timestamp": "2025-01-25T22:36:13.693859"
+  },
+  {
+    "vehicle_count": 57,
+    "average_speed": 53.67545279144241,
+    "congestion_level": 0.5050641966211062,
+    "time_of_day": 7,
+    "timestamp": "2025-01-25T22:36:14.710875"
+  },
+  {
+    "vehicle_count": 67,
+    "average_speed": 57.799816894985845,
+    "congestion_level": 0.6876407650564995,
+    "time_of_day": 23,
+    "timestamp": "2025-01-25T22:36:15.723804"
+  },
+  {
+    "vehicle_count": 206,
+    "average_speed": 32.45175839009169,
+    "congestion_level": 0.827427274988262,
+    "time_of_day": 14,
+    "timestamp": "2025-01-25T22:36:16.748972"
+  },
+  {
+    "vehicle_count": 124,
+    "average_speed": 56.595521384128446,
+    "congestion_level": 0.4735680696919077,
+    "time_of_day": 21,
+    "timestamp": "2025-01-25T22:36:17.768453"
+  },
+  {
+    "vehicle_count": 66,
+    "average_speed": 65.61417724369801,
+    "congestion_level": 0.3684069654359081,
+    "time_of_day": 14,
+    "timestamp": "2025-01-25T22:36:18.802459"
+  },
+  {
+    "vehicle_count": 98,
+    "average_speed": 58.59631191408802,
+    "congestion_level": 0.5927420317826295,
+    "time_of_day": 20,
+    "timestamp": "2025-01-25T22:36:19.832289"
+  },
+  {
+    "vehicle_count": 52,
+    "average_speed": 44.750286909258705,
+    "congestion_level": 0.32377734679262177,
+    "time_of_day": 3,
+    "timestamp": "2025-01-25T22:36:20.860736"
+  },
+  {
+    "vehicle_count": 52,
+    "average_speed": 43.277751496946046,
+    "congestion_level": 0.6440126889686402,
+    "time_of_day": 3,
+    "timestamp": "2025-01-25T22:36:21.891394"
+  },
+  {
+    "vehicle_count": 130,
+    "average_speed": 58.21276746147605,
+    "congestion_level": 0.6859654609087154,
+    "time_of_day": 6,
+    "timestamp": "2025-01-25T22:36:22.910308"
+  },
+  {
+    "vehicle_count": 133,
+    "average_speed": 60.223842167090766,
+    "congestion_level": 0.610848042184108,
+    "time_of_day": 3,
+    "timestamp": "2025-01-25T22:36:23.928058"
+  },
+  {
+    "vehicle_count": 112,
+    "average_speed": 67.14761235871526,
+    "congestion_level": 0.31371335754662794,
+    "time_of_day": 10,
+    "timestamp": "2025-01-25T22:36:24.956750"
+  },
+  {
+    "vehicle_count": 43,
+    "average_speed": 107.97171153212248,
+    "congestion_level": 0.22138254424612946,
+    "time_of_day": 3,
+    "timestamp": "2025-01-25T22:36:25.985921"
+  },
+  {
+    "vehicle_count": 93,
+    "average_speed": 44.5594139467063,
+    "congestion_level": 0.5854061253742391,
+    "time_of_day": 20,
+    "timestamp": "2025-01-25T22:36:27.022380"
+  },
+  {
+    "vehicle_count": 198,
+    "average_speed": 34.377393876395544,
+    "congestion_level": 0.8491093529661481,
+    "time_of_day": 1,
+    "timestamp": "2025-01-25T22:36:28.035541"
+  },
+  {
+    "vehicle_count": 135,
+    "average_speed": 68.4382066349586,
+    "congestion_level": 0.4229994010839817,
+    "time_of_day": 11,
+    "timestamp": "2025-01-25T22:36:29.063602"
+  },
+  {
+    "vehicle_count": 106,
+    "average_speed": 69.19946719461285,
+    "congestion_level": 0.4236647680452648,
+    "time_of_day": 8,
+    "timestamp": "2025-01-25T22:36:30.078626"
+  },
+  {
+    "vehicle_count": 98,
+    "average_speed": 65.32321553108788,
+    "congestion_level": 0.6051882595843152,
+    "time_of_day": 1,
+    "timestamp": "2025-01-25T22:36:31.097847"
+  },
+  {
+    "vehicle_count": 82,
+    "average_speed": 42.79866130705524,
+    "congestion_level": 0.3262705763523331,
+    "time_of_day": 1,
+    "timestamp": "2025-01-25T22:36:32.118202"
+  },
+  {
+    "vehicle_count": 104,
+    "average_speed": 55.357484440641656,
+    "congestion_level": 0.6597129568842975,
+    "time_of_day": 3,
+    "timestamp": "2025-01-25T22:36:33.131501"
+  },
+  {
+    "vehicle_count": 141,
+    "average_speed": 48.000844875168546,
+    "congestion_level": 0.628734042520924,
+    "time_of_day": 10,
+    "timestamp": "2025-01-25T22:36:34.162966"
+  },
+  {
+    "vehicle_count": 140,
+    "average_speed": 46.42363922798421,
+    "congestion_level": 0.3023851337793228,
+    "time_of_day": 13,
+    "timestamp": "2025-01-25T22:36:35.192537"
+  },
+  {
+    "vehicle_count": 76,
+    "average_speed": 51.86054682359095,
+    "congestion_level": 0.4133542594021483,
+    "time_of_day": 3,
+    "timestamp": "2025-01-25T22:36:36.210708"
+  },
+  {
+    "vehicle_count": 155,
+    "average_speed": 31.68312456709092,
+    "congestion_level": 0.8769117447860398,
+    "time_of_day": 9,
+    "timestamp": "2025-01-25T22:36:37.246823"
+  },
+  {
+    "vehicle_count": 24,
+    "average_speed": 107.46136505217405,
+    "congestion_level": 0.24442177295942624,
+    "time_of_day": 2,
+    "timestamp": "2025-01-25T22:36:38.269346"
+  },
+  {
+    "vehicle_count": 97,
+    "average_speed": 57.349940414861294,
+    "congestion_level": 0.3144508402797663,
+    "time_of_day": 18,
+    "timestamp": "2025-01-25T22:36:39.298516"
+  },
+  {
+    "vehicle_count": 147,
+    "average_speed": 56.3028974519457,
+    "congestion_level": 0.6521436692342899,
+    "time_of_day": 11,
+    "timestamp": "2025-01-25T22:36:40.328155"
+  },
+  {
+    "vehicle_count": 113,
+    "average_speed": 68.80902743167734,
+    "congestion_level": 0.47151011589061453,
+    "time_of_day": 21,
+    "timestamp": "2025-01-25T22:36:41.354041"
+  },
+  {
+    "vehicle_count": 59,
+    "average_speed": 58.71063204819133,
+    "congestion_level": 0.32496730931441237,
+    "time_of_day": 3,
+    "timestamp": "2025-01-25T22:36:42.376345"
+  },
+  {
+    "vehicle_count": 79,
+    "average_speed": 67.61253693777682,
+    "congestion_level": 0.5139353802384046,
+    "time_of_day": 22,
+    "timestamp": "2025-01-25T22:36:43.390029"
+  },
+  {
+    "vehicle_count": 114,
+    "average_speed": 48.28993441474967,
+    "congestion_level": 0.49207049948158443,
+    "time_of_day": 7,
+    "timestamp": "2025-01-25T22:36:44.420006"
+  },
+  {
+    "vehicle_count": 147,
+    "average_speed": 41.617886128261915,
+    "congestion_level": 0.3298029823777346,
+    "time_of_day": 15,
+    "timestamp": "2025-01-25T22:36:45.444218"
+  },
+  {
+    "vehicle_count": 141,
+    "average_speed": 47.96466970001212,
+    "congestion_level": 0.6411648392605329,
+    "time_of_day": 13,
+    "timestamp": "2025-01-25T22:36:46.461778"
+  },
+  {
+    "vehicle_count": 102,
+    "average_speed": 43.75410053230643,
+    "congestion_level": 0.3575413368586949,
+    "time_of_day": 14,
+    "timestamp": "2025-01-25T22:36:47.481228"
+  },
+  {
+    "vehicle_count": 115,
+    "average_speed": 50.58318137075477,
+    "congestion_level": 0.440738389160944,
+    "time_of_day": 22,
+    "timestamp": "2025-01-25T22:36:48.543084"
+  },
+  {
+    "vehicle_count": 113,
+    "average_speed": 63.596713835824275,
+    "congestion_level": 0.42288606706544335,
+    "time_of_day": 23,
+    "timestamp": "2025-01-25T22:36:49.602104"
+  },
+  {
+    "vehicle_count": 74,
+    "average_speed": 52.55954732388513,
+    "congestion_level": 0.42939736158913233,
+    "time_of_day": 9,
+    "timestamp": "2025-01-25T22:36:50.626487"
+  },
+  {
+    "vehicle_count": 130,
+    "average_speed": 54.29418626421502,
+    "congestion_level": 0.49788672208467866,
+    "time_of_day": 10,
+    "timestamp": "2025-01-25T22:36:51.645533"
+  },
+  {
+    "vehicle_count": 58,
+    "average_speed": 62.34777829664375,
+    "congestion_level": 0.48381320027311603,
+    "time_of_day": 8,
+    "timestamp": "2025-01-25T22:36:52.662490"
+  },
+  {
+    "vehicle_count": 119,
+    "average_speed": 42.54496437305051,
+    "congestion_level": 0.5328450106075036,
+    "time_of_day": 10,
+    "timestamp": "2025-01-25T22:36:53.674418"
+  },
+  {
+    "vehicle_count": 83,
+    "average_speed": 55.50159967464813,
+    "congestion_level": 0.6484092661647601,
+    "time_of_day": 3,
+    "timestamp": "2025-01-25T22:36:54.689130"
+  },
+  {
+    "vehicle_count": 126,
+    "average_speed": 58.28675977342357,
+    "congestion_level": 0.5627412044024511,
+    "time_of_day": 12,
+    "timestamp": "2025-01-25T22:36:55.716634"
+  },
+  {
+    "vehicle_count": 80,
+    "average_speed": 52.49515564977074,
+    "congestion_level": 0.3137955394770326,
+    "time_of_day": 7,
+    "timestamp": "2025-01-25T22:36:56.745789"
+  },
+  {
+    "vehicle_count": 115,
+    "average_speed": 46.894523993125325,
+    "congestion_level": 0.5221506130957267,
+    "time_of_day": 9,
+    "timestamp": "2025-01-25T22:36:57.782324"
+  },
+  {
+    "vehicle_count": 105,
+    "average_speed": 58.3200215279622,
+    "congestion_level": 0.497989312351791,
+    "time_of_day": 4,
+    "timestamp": "2025-01-25T22:36:58.800123"
+  },
+  {
+    "vehicle_count": 39,
+    "average_speed": 106.4538823203894,
+    "congestion_level": 0.16524866957903908,
+    "time_of_day": 19,
+    "timestamp": "2025-01-25T22:36:59.833867"
+  },
+  {
+    "vehicle_count": 129,
+    "average_speed": 63.16819155099144,
+    "congestion_level": 0.33732982865984606,
+    "time_of_day": 10,
+    "timestamp": "2025-01-25T22:37:00.847289"
+  },
+  {
+    "vehicle_count": 50,
+    "average_speed": 48.711599116912865,
+    "congestion_level": 0.693937196546955,
+    "time_of_day": 12,
+    "timestamp": "2025-01-25T22:37:01.877003"
+  },
+  {
+    "vehicle_count": 53,
+    "average_speed": 40.844439583875,
+    "congestion_level": 0.6547433136584287,
+    "time_of_day": 12,
+    "timestamp": "2025-01-25T22:37:02.912711"
+  },
+  {
+    "vehicle_count": 185,
+    "average_speed": 29.410856941790186,
+    "congestion_level": 0.7926220314317955,
+    "time_of_day": 0,
+    "timestamp": "2025-01-25T22:37:03.926862"
+  },
+  {
+    "vehicle_count": 70,
+    "average_speed": 40.83331112929502,
+    "congestion_level": 0.5674754504911212,
+    "time_of_day": 21,
+    "timestamp": "2025-01-25T22:37:04.969065"
+  },
+  {
+    "vehicle_count": 111,
+    "average_speed": 53.709707425291455,
+    "congestion_level": 0.5571081564370084,
+    "time_of_day": 14,
+    "timestamp": "2025-01-25T22:37:05.989012"
+  },
+  {
+    "vehicle_count": 60,
+    "average_speed": 46.00520971325635,
+    "congestion_level": 0.31142144286125384,
+    "time_of_day": 13,
+    "timestamp": "2025-01-25T22:37:07.012533"
+  },
+  {
+    "vehicle_count": 208,
+    "average_speed": 29.295700530344735,
+    "congestion_level": 0.7578122423218561,
+    "time_of_day": 18,
+    "timestamp": "2025-01-25T22:37:08.028803"
+  },
+  {
+    "vehicle_count": 23,
+    "average_speed": 81.73936847192502,
+    "congestion_level": 0.2015032934803342,
+    "time_of_day": 20,
+    "timestamp": "2025-01-25T22:37:09.044545"
+  },
+  {
+    "vehicle_count": 103,
+    "average_speed": 65.84907109364846,
+    "congestion_level": 0.4121339761413231,
+    "time_of_day": 4,
+    "timestamp": "2025-01-25T22:37:10.057323"
+  },
+  {
+    "vehicle_count": 126,
+    "average_speed": 45.92742763063031,
+    "congestion_level": 0.4028946733141023,
+    "time_of_day": 1,
+    "timestamp": "2025-01-25T22:37:11.082575"
+  },
+  {
+    "vehicle_count": 132,
+    "average_speed": 67.10740210540425,
+    "congestion_level": 0.41418321665539753,
+    "time_of_day": 7,
+    "timestamp": "2025-01-25T22:37:12.100830"
+  },
+  {
+    "vehicle_count": 67,
+    "average_speed": 63.4751590835165,
+    "congestion_level": 0.419294345859959,
+    "time_of_day": 15,
+    "timestamp": "2025-01-25T22:37:13.131229"
+  },
+  {
+    "vehicle_count": 244,
+    "average_speed": 32.27939431329499,
+    "congestion_level": 0.8685664876851619,
+    "time_of_day": 15,
+    "timestamp": "2025-01-25T22:37:14.144783"
+  },
+  {
+    "vehicle_count": 52,
+    "average_speed": 48.75477270142146,
+    "congestion_level": 0.38420706323015263,
+    "time_of_day": 22,
+    "timestamp": "2025-01-25T22:37:15.176689"
+  },
+  {
+    "vehicle_count": 73,
+    "average_speed": 44.93059748025686,
+    "congestion_level": 0.6465379071785124,
+    "time_of_day": 8,
+    "timestamp": "2025-01-25T22:37:16.196485"
+  },
+  {
+    "vehicle_count": 113,
+    "average_speed": 18.45953762361283,
+    "congestion_level": 0.9048084560631049,
+    "time_of_day": 0,
+    "timestamp": "2025-01-25T22:37:17.227291"
+  },
+  {
+    "vehicle_count": 132,
+    "average_speed": 51.34049765411478,
+    "congestion_level": 0.47925292144619314,
+    "time_of_day": 20,
+    "timestamp": "2025-01-25T22:37:18.247247"
+  },
+  {
+    "vehicle_count": 51,
+    "average_speed": 48.847494256280555,
+    "congestion_level": 0.3612874864087567,
+    "time_of_day": 5,
+    "timestamp": "2025-01-25T22:37:19.264874"
+  },
+  {
+    "vehicle_count": 89,
+    "average_speed": 64.88527740132487,
+    "congestion_level": 0.37162398619082054,
+    "time_of_day": 13,
+    "timestamp": "2025-01-25T22:37:20.294675"
+  },
+  {
+    "vehicle_count": 138,
+    "average_speed": 64.75659683513085,
+    "congestion_level": 0.3860914014596016,
+    "time_of_day": 20,
+    "timestamp": "2025-01-25T22:37:21.316566"
+  },
+  {
+    "vehicle_count": 120,
+    "average_speed": 57.427806847827384,
+    "congestion_level": 0.3111221485302074,
+    "time_of_day": 16,
+    "timestamp": "2025-01-25T22:37:22.330026"
+  },
+  {
+    "vehicle_count": 120,
+    "average_speed": 59.3432714009662,
+    "congestion_level": 0.512341344955285,
+    "time_of_day": 19,
+    "timestamp": "2025-01-25T22:37:23.348257"
+  },
+  {
+    "vehicle_count": 55,
+    "average_speed": 51.54928279716965,
+    "congestion_level": 0.38575544792488065,
+    "time_of_day": 3,
+    "timestamp": "2025-01-25T22:37:24.366082"
+  },
+  {
+    "vehicle_count": 143,
+    "average_speed": 65.12468032760917,
+    "congestion_level": 0.46922927180172647,
+    "time_of_day": 4,
+    "timestamp": "2025-01-25T22:37:25.380699"
+  },
+  {
+    "vehicle_count": 135,
+    "average_speed": 63.91401784357063,
+    "congestion_level": 0.390599564062876,
+    "time_of_day": 22,
+    "timestamp": "2025-01-25T22:37:26.394502"
+  },
+  {
+    "vehicle_count": 75,
+    "average_speed": 54.40555294453034,
+    "congestion_level": 0.3589903358914226,
+    "time_of_day": 15,
+    "timestamp": "2025-01-25T22:37:27.409298"
+  },
+  {
+    "vehicle_count": 61,
+    "average_speed": 66.16196254382399,
+    "congestion_level": 0.5573547217775607,
+    "time_of_day": 4,
+    "timestamp": "2025-01-25T22:37:28.427438"
+  },
+  {
+    "vehicle_count": 52,
+    "average_speed": 53.16484117512779,
+    "congestion_level": 0.3491894538945532,
+    "time_of_day": 1,
+    "timestamp": "2025-01-25T22:37:29.441059"
+  },
+  {
+    "vehicle_count": 158,
+    "average_speed": 31.34094302950588,
+    "congestion_level": 0.8497773416404106,
+    "time_of_day": 13,
+    "timestamp": "2025-01-25T22:37:30.465170"
+  },
+  {
+    "vehicle_count": 108,
+    "average_speed": 66.6373737565222,
+    "congestion_level": 0.47886509398411514,
+    "time_of_day": 14,
+    "timestamp": "2025-01-25T22:37:31.493374"
+  },
+  {
+    "vehicle_count": 96,
+    "average_speed": 55.93742772197336,
+    "congestion_level": 0.6633575807201169,
+    "time_of_day": 23,
+    "timestamp": "2025-01-25T22:37:32.517652"
+  },
+  {
+    "vehicle_count": 116,
+    "average_speed": 44.1344377265451,
+    "congestion_level": 0.3813835237636084,
+    "time_of_day": 7,
+    "timestamp": "2025-01-25T22:37:33.539164"
+  },
+  {
+    "vehicle_count": 106,
+    "average_speed": 68.50405177541737,
+    "congestion_level": 0.6170984450139803,
+    "time_of_day": 13,
+    "timestamp": "2025-01-25T22:37:34.553949"
+  },
+  {
+    "vehicle_count": 74,
+    "average_speed": 44.902176273853456,
+    "congestion_level": 0.6476886407251485,
+    "time_of_day": 5,
+    "timestamp": "2025-01-25T22:37:35.574795"
+  },
+  {
+    "vehicle_count": 115,
+    "average_speed": 67.4091090846324,
+    "congestion_level": 0.6917287246018274,
+    "time_of_day": 9,
+    "timestamp": "2025-01-25T22:37:36.587561"
+  },
+  {
+    "vehicle_count": 143,
+    "average_speed": 60.66487670868939,
+    "congestion_level": 0.593608895224849,
+    "time_of_day": 0,
+    "timestamp": "2025-01-25T22:37:37.600735"
+  },
+  {
+    "vehicle_count": 89,
+    "average_speed": 58.77270133523918,
+    "congestion_level": 0.31762716935200525,
+    "time_of_day": 13,
+    "timestamp": "2025-01-25T22:37:38.619080"
+  },
+  {
+    "vehicle_count": 92,
+    "average_speed": 60.10303052023373,
+    "congestion_level": 0.5404597686241484,
+    "time_of_day": 7,
+    "timestamp": "2025-01-25T22:37:39.632071"
+  },
+  {
+    "vehicle_count": 73,
+    "average_speed": 49.813658137745605,
+    "congestion_level": 0.6751352623119226,
+    "time_of_day": 9,
+    "timestamp": "2025-01-25T22:37:40.646656"
+  },
+  {
+    "vehicle_count": 61,
+    "average_speed": 53.23441457700387,
+    "congestion_level": 0.3912034208172791,
+    "time_of_day": 18,
+    "timestamp": "2025-01-25T22:37:41.660282"
+  },
+  {
+    "vehicle_count": 150,
+    "average_speed": 62.53353894470992,
+    "congestion_level": 0.5158617546530175,
+    "time_of_day": 14,
+    "timestamp": "2025-01-25T22:37:42.675080"
+  },
+  {
+    "vehicle_count": 83,
+    "average_speed": 50.374638828071625,
+    "congestion_level": 0.4041324767896266,
+    "time_of_day": 22,
+    "timestamp": "2025-01-25T22:37:43.694651"
+  },
+  {
+    "vehicle_count": 106,
+    "average_speed": 54.56175731940125,
+    "congestion_level": 0.6294760164660066,
+    "time_of_day": 16,
+    "timestamp": "2025-01-25T22:37:44.723009"
+  },
+  {
+    "vehicle_count": 56,
+    "average_speed": 51.50317557171654,
+    "congestion_level": 0.5061081170064676,
+    "time_of_day": 22,
+    "timestamp": "2025-01-25T22:37:45.735799"
+  },
+  {
+    "vehicle_count": 145,
+    "average_speed": 66.33268009292301,
+    "congestion_level": 0.3448329448762017,
+    "time_of_day": 10,
+    "timestamp": "2025-01-25T22:37:46.752991"
+  },
+  {
+    "vehicle_count": 122,
+    "average_speed": 48.621235497037375,
+    "congestion_level": 0.32439293488510573,
+    "time_of_day": 14,
+    "timestamp": "2025-01-25T22:37:47.769966"
+  },
+  {
+    "vehicle_count": 98,
+    "average_speed": 53.67568688496873,
+    "congestion_level": 0.40949474455136614,
+    "time_of_day": 8,
+    "timestamp": "2025-01-25T22:37:48.793332"
+  },
+  {
+    "vehicle_count": 150,
+    "average_speed": 60.191243764641044,
+    "congestion_level": 0.5315377428057515,
+    "time_of_day": 3,
+    "timestamp": "2025-01-25T22:37:49.806617"
+  },
+  {
+    "vehicle_count": 68,
+    "average_speed": 42.93381778729159,
+    "congestion_level": 0.6824411599608559,
+    "time_of_day": 14,
+    "timestamp": "2025-01-25T22:37:50.835707"
+  },
+  {
+    "vehicle_count": 139,
+    "average_speed": 41.132251162471874,
+    "congestion_level": 0.6245706925633707,
+    "time_of_day": 7,
+    "timestamp": "2025-01-25T22:37:51.862526"
+  },
+  {
+    "vehicle_count": 112,
+    "average_speed": 10.703632041764548,
+    "congestion_level": 0.9435676860365722,
+    "time_of_day": 1,
+    "timestamp": "2025-01-25T22:37:52.887630"
+  },
+  {
+    "vehicle_count": 69,
+    "average_speed": 64.75986668239204,
+    "congestion_level": 0.4425862657519937,
+    "time_of_day": 16,
+    "timestamp": "2025-01-25T22:37:53.924909"
+  },
+  {
+    "vehicle_count": 68,
+    "average_speed": 51.126393502542406,
+    "congestion_level": 0.3420393232454906,
+    "time_of_day": 14,
+    "timestamp": "2025-01-25T22:37:54.946176"
+  },
+  {
+    "vehicle_count": 80,
+    "average_speed": 6.231481812048593,
+    "congestion_level": 0.9100390617439614,
+    "time_of_day": 10,
+    "timestamp": "2025-01-25T22:37:55.976689"
+  },
+  {
+    "vehicle_count": 129,
+    "average_speed": 50.51965633065908,
+    "congestion_level": 0.30048807761606394,
+    "time_of_day": 13,
+    "timestamp": "2025-01-25T22:37:56.996316"
+  },
+  {
+    "vehicle_count": 51,
+    "average_speed": 44.209567619857694,
+    "congestion_level": 0.4811949436921817,
+    "time_of_day": 6,
+    "timestamp": "2025-01-25T22:37:58.020401"
+  },
+  {
+    "vehicle_count": 103,
+    "average_speed": 48.09013066045202,
+    "congestion_level": 0.6233976650783899,
+    "time_of_day": 19,
+    "timestamp": "2025-01-25T22:37:59.045382"
+  },
+  {
+    "vehicle_count": 92,
+    "average_speed": 48.583291457661666,
+    "congestion_level": 0.3169906501999547,
+    "time_of_day": 11,
+    "timestamp": "2025-01-25T22:38:00.059200"
+  },
+  {
+    "vehicle_count": 54,
+    "average_speed": 55.03119402626241,
+    "congestion_level": 0.6720240124290349,
+    "time_of_day": 8,
+    "timestamp": "2025-01-25T22:38:01.072890"
+  },
+  {
+    "vehicle_count": 92,
+    "average_speed": 49.89028594820843,
+    "congestion_level": 0.4691518099997317,
+    "time_of_day": 23,
+    "timestamp": "2025-01-25T22:38:02.097327"
+  },
+  {
+    "vehicle_count": 84,
+    "average_speed": 60.38883231206262,
+    "congestion_level": 0.44305586456587004,
+    "time_of_day": 16,
+    "timestamp": "2025-01-25T22:38:03.123716"
+  },
+  {
+    "vehicle_count": 101,
+    "average_speed": 44.70124035567246,
+    "congestion_level": 0.6684333954389154,
+    "time_of_day": 10,
+    "timestamp": "2025-01-25T22:38:04.146186"
+  },
+  {
+    "vehicle_count": 61,
+    "average_speed": 47.305602303093195,
+    "congestion_level": 0.6401660484139129,
+    "time_of_day": 0,
+    "timestamp": "2025-01-25T22:38:05.159849"
+  },
+  {
+    "vehicle_count": 22,
+    "average_speed": 83.89805592912553,
+    "congestion_level": 0.17675146565800157,
+    "time_of_day": 6,
+    "timestamp": "2025-01-25T22:38:06.181627"
+  },
+  {
+    "vehicle_count": 53,
+    "average_speed": 65.46752406829768,
+    "congestion_level": 0.4117333725018295,
+    "time_of_day": 3,
+    "timestamp": "2025-01-25T22:38:07.211019"
+  },
+  {
+    "vehicle_count": 116,
+    "average_speed": 50.03315655486108,
+    "congestion_level": 0.5305402338942715,
+    "time_of_day": 2,
+    "timestamp": "2025-01-25T22:38:08.228812"
+  },
+  {
+    "vehicle_count": 78,
+    "average_speed": 67.50111112675089,
+    "congestion_level": 0.4648484162177023,
+    "time_of_day": 8,
+    "timestamp": "2025-01-25T22:38:09.269057"
+  },
+  {
+    "vehicle_count": 100,
+    "average_speed": 66.38042654022397,
+    "congestion_level": 0.5270017372849372,
+    "time_of_day": 6,
+    "timestamp": "2025-01-25T22:38:10.284288"
+  },
+  {
+    "vehicle_count": 58,
+    "average_speed": 65.09184190965414,
+    "congestion_level": 0.4444513609052797,
+    "time_of_day": 11,
+    "timestamp": "2025-01-25T22:38:11.311715"
+  },
+  {
+    "vehicle_count": 87,
+    "average_speed": 69.84667840613653,
+    "congestion_level": 0.3286994127240566,
+    "time_of_day": 19,
+    "timestamp": "2025-01-25T22:38:12.341950"
+  },
+  {
+    "vehicle_count": 37,
+    "average_speed": 84.64669180623339,
+    "congestion_level": 0.26052864775817736,
+    "time_of_day": 1,
+    "timestamp": "2025-01-25T22:38:13.363197"
+  },
+  {
+    "vehicle_count": 53,
+    "average_speed": 41.28124247344735,
+    "congestion_level": 0.5666245775856845,
+    "time_of_day": 15,
+    "timestamp": "2025-01-25T22:38:14.391005"
+  },
+  {
+    "vehicle_count": 134,
+    "average_speed": 68.24277386303784,
+    "congestion_level": 0.38887693919670036,
+    "time_of_day": 10,
+    "timestamp": "2025-01-25T22:38:15.408932"
+  },
+  {
+    "vehicle_count": 97,
+    "average_speed": 58.27044034579346,
+    "congestion_level": 0.334858953885533,
+    "time_of_day": 13,
+    "timestamp": "2025-01-25T22:38:16.430242"
+  },
+  {
+    "vehicle_count": 66,
+    "average_speed": 42.54480288373421,
+    "congestion_level": 0.323222492232025,
+    "time_of_day": 8,
+    "timestamp": "2025-01-25T22:38:17.446954"
+  },
+  {
+    "vehicle_count": 106,
+    "average_speed": 49.526835126723434,
+    "congestion_level": 0.3565551797645788,
+    "time_of_day": 20,
+    "timestamp": "2025-01-25T22:38:18.461025"
+  },
+  {
+    "vehicle_count": 129,
+    "average_speed": 58.27319061814358,
+    "congestion_level": 0.4998092087162327,
+    "time_of_day": 21,
+    "timestamp": "2025-01-25T22:38:19.491996"
+  },
+  {
+    "vehicle_count": 117,
+    "average_speed": 59.57288117245059,
+    "congestion_level": 0.6541978477291437,
+    "time_of_day": 7,
+    "timestamp": "2025-01-25T22:38:20.513366"
+  },
+  {
+    "vehicle_count": 30,
+    "average_speed": 83.24762454023677,
+    "congestion_level": 0.1975160589787049,
+    "time_of_day": 12,
+    "timestamp": "2025-01-25T22:38:21.550746"
+  },
+  {
+    "vehicle_count": 87,
+    "average_speed": 5.308020940047135,
+    "congestion_level": 0.8206335361345515,
+    "time_of_day": 9,
+    "timestamp": "2025-01-25T22:38:22.581626"
+  },
+  {
+    "vehicle_count": 115,
+    "average_speed": 41.04175040600847,
+    "congestion_level": 0.5241405340000673,
+    "time_of_day": 4,
+    "timestamp": "2025-01-25T22:38:23.605187"
+  },
+  {
+    "vehicle_count": 123,
+    "average_speed": 69.89340837085454,
+    "congestion_level": 0.6468012804131731,
+    "time_of_day": 10,
+    "timestamp": "2025-01-25T22:38:24.643865"
+  },
+  {
+    "vehicle_count": 82,
+    "average_speed": 15.9552545397049,
+    "congestion_level": 0.8128162573115807,
+    "time_of_day": 7,
+    "timestamp": "2025-01-25T22:38:25.663783"
+  },
+  {
+    "vehicle_count": 131,
+    "average_speed": 40.21773390923112,
+    "congestion_level": 0.3063917537521332,
+    "time_of_day": 6,
+    "timestamp": "2025-01-25T22:38:26.678281"
+  },
+  {
+    "vehicle_count": 88,
+    "average_speed": 42.72611591591406,
+    "congestion_level": 0.31935365660315185,
+    "time_of_day": 2,
+    "timestamp": "2025-01-25T22:38:27.710327"
+  },
+  {
+    "vehicle_count": 195,
+    "average_speed": 23.456649997036752,
+    "congestion_level": 0.8231032715060654,
+    "time_of_day": 17,
+    "timestamp": "2025-01-25T22:38:28.738822"
+  },
+  {
+    "vehicle_count": 134,
+    "average_speed": 46.41704677399156,
+    "congestion_level": 0.6768869550901631,
+    "time_of_day": 8,
+    "timestamp": "2025-01-25T22:38:29.775959"
+  },
+  {
+    "vehicle_count": 65,
+    "average_speed": 61.698058346165055,
+    "congestion_level": 0.31814873484396666,
+    "time_of_day": 22,
+    "timestamp": "2025-01-25T22:38:30.789733"
+  },
+  {
+    "vehicle_count": 141,
+    "average_speed": 54.63313243803594,
+    "congestion_level": 0.48980922171157737,
+    "time_of_day": 4,
+    "timestamp": "2025-01-25T22:38:31.817683"
+  },
+  {
+    "vehicle_count": 217,
+    "average_speed": 33.433991199957,
+    "congestion_level": 0.789113012690045,
+    "time_of_day": 10,
+    "timestamp": "2025-01-25T22:38:32.847950"
+  },
+  {
+    "vehicle_count": 131,
+    "average_speed": 47.38215662532267,
+    "congestion_level": 0.5221371614891653,
+    "time_of_day": 23,
+    "timestamp": "2025-01-25T22:38:33.877493"
+  },
+  {
+    "vehicle_count": 88,
+    "average_speed": 64.03483810724782,
+    "congestion_level": 0.6150414254220519,
+    "time_of_day": 12,
+    "timestamp": "2025-01-25T22:38:34.905229"
+  },
+  {
+    "vehicle_count": 150,
+    "average_speed": 49.71960708045002,
+    "congestion_level": 0.4881820289975361,
+    "time_of_day": 1,
+    "timestamp": "2025-01-25T22:38:35.918895"
+  },
+  {
+    "vehicle_count": 98,
+    "average_speed": 42.34187347900472,
+    "congestion_level": 0.38122822421050157,
+    "time_of_day": 7,
+    "timestamp": "2025-01-25T22:38:36.931409"
+  },
+  {
+    "vehicle_count": 85,
+    "average_speed": 61.763865332454834,
+    "congestion_level": 0.34156951128400614,
+    "time_of_day": 10,
+    "timestamp": "2025-01-25T22:38:37.954075"
+  },
+  {
+    "vehicle_count": 124,
+    "average_speed": 68.86828154257317,
+    "congestion_level": 0.4880746153323724,
+    "time_of_day": 1,
+    "timestamp": "2025-01-25T22:38:38.979162"
+  },
+  {
+    "vehicle_count": 131,
+    "average_speed": 58.047426760918086,
+    "congestion_level": 0.4197884792199065,
+    "time_of_day": 19,
+    "timestamp": "2025-01-25T22:38:40.005412"
+  },
+  {
+    "vehicle_count": 37,
+    "average_speed": 106.6255078223456,
+    "congestion_level": 0.18477646421450708,
+    "time_of_day": 1,
+    "timestamp": "2025-01-25T22:38:41.021459"
+  },
+  {
+    "vehicle_count": 140,
+    "average_speed": 45.50887978691066,
+    "congestion_level": 0.3738532365608358,
+    "time_of_day": 23,
+    "timestamp": "2025-01-25T22:38:42.051161"
+  },
+  {
+    "vehicle_count": 102,
+    "average_speed": 63.182557511199775,
+    "congestion_level": 0.3329349771652484,
+    "time_of_day": 5,
+    "timestamp": "2025-01-25T22:38:43.073308"
+  },
+  {
+    "vehicle_count": 143,
+    "average_speed": 44.46941915422944,
+    "congestion_level": 0.6166948275159476,
+    "time_of_day": 9,
+    "timestamp": "2025-01-25T22:38:44.090682"
+  },
+  {
+    "vehicle_count": 76,
+    "average_speed": 43.06706417948138,
+    "congestion_level": 0.593823173713928,
+    "time_of_day": 10,
+    "timestamp": "2025-01-25T22:38:45.116751"
+  },
+  {
+    "vehicle_count": 56,
+    "average_speed": 43.41530574418746,
+    "congestion_level": 0.4568417894975612,
+    "time_of_day": 17,
+    "timestamp": "2025-01-25T22:38:46.131688"
+  },
+  {
+    "vehicle_count": 244,
+    "average_speed": 20.202620553962582,
+    "congestion_level": 0.8704774760638381,
+    "time_of_day": 10,
+    "timestamp": "2025-01-25T22:38:47.159576"
+  },
+  {
+    "vehicle_count": 100,
+    "average_speed": 51.19518834856462,
+    "congestion_level": 0.4454876517351661,
+    "time_of_day": 12,
+    "timestamp": "2025-01-25T22:38:48.189981"
+  },
+  {
+    "vehicle_count": 147,
+    "average_speed": 55.508997229490085,
+    "congestion_level": 0.5869624280714263,
+    "time_of_day": 19,
+    "timestamp": "2025-01-25T22:38:49.204075"
+  }
+]
